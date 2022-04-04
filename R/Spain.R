@@ -301,7 +301,7 @@ Pamplona <-
   
 # ---------------------
 # Logrono (la rioja)
-
+# request sent
 read_csv("https://ias1.larioja.org/opendata/download?r=Y2Q9ODU2fGNmPTAz")
 
 
