@@ -1,14 +1,17 @@
 
-
+library(lubridate)
 library(tidyverse)
 library(readr)
+library(jsonlite)
 # A Coruna   https://coronavirus.sergas.gal/datos/#
+# go to "Número de persoas diagnosticadas a través de PDIA* e Autotest, por data"
+# figure out file date and change below.
 # Pontevedra
 # Ourense
 # Lugo
-GALICIA <- read_csv("https://coronavirus.sergas.gal/infodatos/2022-02-24_COVID19_Web_InfectadosPorFecha_PDIA_Autotest.csv?_=1645791436049") 
+GALICIA <- read_csv("https://coronavirus.sergas.gal/infodatos/2022-04-03_COVID19_Web_InfectadosPorFecha_PDIA_Autotest.csv") 
 GALICIAcities <- 
-GALICIA %>% 
+  GALICIA %>% 
   dplyr::filter(Area_Sanitaria %in% c("A.S. A CORUÑA E CEE",
                                       "A.S. PONTEVEDRA E O SALNÉS",
                                       "A.S. LUGO, A MARIÑA E MONFORTE",
@@ -55,6 +58,7 @@ VAL <-
 # Jaen
 # Malaga
 # Sevilla
+# Cadiz
 AND  <- read_csv("https://raw.githubusercontent.com/Pakillo/COVID19-Andalucia/master/datos/municipios.csv") %>% 
   mutate(mcccityname1 = case_when(Municipio == "Almería (capital)" ~ "Almeria",
                                   Municipio == "Córdoba (capital)" ~ "Cordoba",
@@ -62,7 +66,8 @@ AND  <- read_csv("https://raw.githubusercontent.com/Pakillo/COVID19-Andalucia/ma
                                   Municipio == "Huelva (capital)" ~ "Huelva",
                                   Municipio == "Jaén (capital)" ~ "Jaen",
                                   Municipio == "Málaga (capital)" ~ "Malaga",
-                                  Municipio == "Sevilla (capital)" ~ "Sevilla")) %>% 
+                                  Municipio == "Sevilla (capital)" ~ "Sevilla",
+                                  Municipio == "Cádiz (capital)" ~ "Cadiz" )) %>% 
   group_by(mcccityname1) %>% 
   mutate(cases = ConfirmadosTotal - lag(ConfirmadosTotal),
          cases = ifelse(cases < 0, 0, cases),
@@ -119,7 +124,8 @@ EUS_cities <-
 OV <- read_csv("https://dgspasturias.shinyapps.io/panel_de_indicadores_asturias/_w_fde98144/DATOS/TABLAS_RESUMEN/AREAS_SANITARIAS/area_sanit_IV_resumen.csv") %>% 
   mutate(date = fecha,
          cases = casos_diarios,
-         mcccityname1 = "Oviedo") 
+         mcccityname1 = "Oviedo") %>% 
+  select(date,cases,mcccityname1)
 
 # (Catalunya)
 # Barcelona
@@ -183,27 +189,132 @@ CL <- read_delim(CastillaLeon_url, delim = ";") %>%
 
 # Albacete
 ALB  <- read_tsv("https://datawrapper.dwcdn.net/TApn3/102/dataset.csv") %>% 
-  mutate(date = lubridate::dmy(Día), cases = `Casos Albacete`, mcccityname1 = "Albacete") %>% 
+  mutate(date = lubridate::dmy(Día), 
+         cases = `Casos Albacete`, 
+         mcccityname1 = "Albacete") %>% 
   select(date, cases, mcccityname1)
 ALB
 
-
-
+##################
+# Extremadura doesn't publish daily stats?
+# emailed 	informacion.covid19@juntaex.es 4 april, 2022
+# re-sent via a transparency request...
 # Badajoz
-# Palma Mallorca
 # Caceres
-# Cadiz
-# Santander
-# Ceuta
-# Logrono
+
+##################
+# Palma Mallorca
+# data available in powerbi table:
+# https://www.ibsalut.es/coronavirus-covid-19/situacio-actual-de-la-covid-19-a-les-illes-balears
+# but table does not have selectable text. request sent to atenciousuari@ibsalut.caib.es  4 april, 2022
+##################
+
+
+# Canarias:
 # Palmas G. Canaria
+# Tenerife
+options(download.file.method="curl", download.file.extra="-k -L")
+download.file("https://opendata.sitcan.es/upload/sanidad/cv19_municipio-residencia_casos.csv",
+              destfile = "Data/canarias.csv")
+Canarias_cities<-
+  read_csv("canarias.csv") %>% 
+  dplyr::filter(municipio %in% c("Santa Cruz de Tenerife","Las Palmas de Gran Canaria")) %>% 
+  mutate(date = lubridate::dmy(fecha_caso)) %>% 
+  group_by(municipio, date) %>% 
+  summarize(cases = n(), .groups = "drop") %>% 
+  mutate(mcccityname1 = if_else(municipio == "Santa Cruz de Tenerife", "Tenerife", "Palmas G. Canaria")) %>% 
+  select(date, mcccityname1, cases)
+  
+
+##################
+# Santander (Cantabria)
+sant_url <- "https://covid19can-data.firebaseio.com/saludcantabria/municipios/39075%20-%20SANTANDER/casos-diarios.json"
+IN    <- jsonlite::fromJSON(sant_url)
+cases <- IN$dimension$Fecha$category$index %>% unlist()
+Santander <- tibble(date = names(cases) %>% lubridate::dmy(),
+                    cases = cases,
+                    mcccityname1 = "Santander")
+rm(IN)
+##################
+# Navarra:
+zbs_codes<- c(66,18,19,20,21,61,22,23,24,63)
+# includes:
+# Buztintxuri, Chantrea, Casco Viejo-I Ensanche, II Ensanche, 
+# Milagrosa, Azpilagaña, Iturrama, San Juan , Ermitagaña, Mendillorri
+
+NAV <- read_csv("https://datosabiertos.navarra.es/es/datastore/dump/79057b0e-055f-4a80-8c5a-f4a7260359f0?format=csv&bom=True",
+         show_col_types = FALSE) 
+
+correct_negatives <- function(chunk){
+  chunk <- chunk %>% arrange(date)
+  cases <- chunk$cases
+  i <- 0
+  while (any(cases < 0)){
+    i    <- i + 1
+    ind  <- which(cases < 0) %>% min()
+    rest <- cases[ind]
+    if ((ind - 1) >= 1){
+      cases[ind - 1] <-  cases[ind - 1] - rest
+    }
+    cases[ind] <- 0
+  }
+  chunk$cases <- cases
+  chunk
+}
+Pamplona <- 
+  NAV %>% 
+  dplyr::filter(CodZBS %in% zbs_codes) %>% 
+  mutate(date = lubridate::as_date(Fecha)) %>% 
+    arrange(CodZBS,date) %>% 
+    group_by(CodZBS) %>% 
+    mutate(cases = diff(c(0,`Casos Acumulados`))) %>% 
+    ungroup() %>% 
+    mutate(
+         cases = if_else(CodZBS == 18 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 18 & date == dmy("09.02.2021"),9,cases),
+         cases = if_else(CodZBS == 23 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 23 & date == dmy("09.02.2021"),15,cases),
+         cases = if_else(CodZBS == 20 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 20 & date == dmy("09.02.2021"),17,cases),
+         cases = if_else(CodZBS == 19 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 19 & date == dmy("09.02.2021"),12,cases),
+         cases = if_else(CodZBS == 21 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 21 & date == dmy("09.02.2021"),7,cases),
+         cases = if_else(CodZBS == 22 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 22 & date == dmy("09.02.2021"),6,cases),
+         cases = if_else(CodZBS == 24 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 24 & date == dmy("09.02.2021"),2,cases),
+         cases = if_else(CodZBS == 61 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 61 & date == dmy("09.02.2021"),12,cases),
+         cases = if_else(CodZBS == 66 & date == dmy("29.01.2021"),0,cases),
+         cases = if_else(CodZBS == 66 & date == dmy("09.02.2021"),8,cases),
+         cases = if_else(CodZBS == 61 & date == dmy("27.05.2020"),0,cases),
+         cases = if_else(CodZBS == 61 & date == dmy("28.05.2020"),6,cases),
+         cases = if_else(CodZBS == 23 & date %in% c(dmy("06.04.2020"),dmy("07.04.2020")),0,cases),
+         cases = if_else(CodZBS == 23 & date == dmy("05.04.2020"),32,cases)) %>% 
+  do(correct_negatives(chunk = .data)) %>% 
+  ungroup() %>% 
+  group_by(date) %>% 
+  summarize(cases = sum(cases), .groups = "drop") %>% 
+  mutate(mcccityname1 = "Pamplona")
+  # ggplot(aes(x=date,y=cases,color = CodZBS,group=CodZBS)) +geom_line()
+  
+# ---------------------
+# Logrono (la rioja)
+
+read_csv("https://ias1.larioja.org/opendata/download?r=Y2Q9ODU2fGNmPTAz")
+
+
+# Ceuta
+
 # Madrid
 # Melilla
 # Murcia
-# Pamplona
-# Tenerife
-# Valencia
 
+
+
+
+# Aragon transparencia wrote back with the missing dates!
 # Zaragoza
 # Teruel
 # Huesca
