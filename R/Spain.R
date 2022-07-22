@@ -3,6 +3,7 @@ library(lubridate)
 library(tidyverse)
 library(readr)
 library(jsonlite)
+library(readxl)
 # A Coruna   https://coronavirus.sergas.gal/datos/#
 # go to "Número de persoas diagnosticadas a través de PDIA* e Autotest, por data"
 # figure out file date and change below.
@@ -199,9 +200,25 @@ ALB
 # Extremadura doesn't publish daily stats?
 # emailed 	informacion.covid19@juntaex.es 4 april, 2022
 # re-sent via a transparency request...
+# responded 22 april, 2022 with data in a pdf
 # Badajoz
 # Caceres
-
+getwd()
+dir("Data/Extremadura")
+ex_dates <- seq(dmy("02.03.2020"),dmy("10.04.2022"),by="days")
+BAD <-read_excel("Data/Extremadura/Extremadura.xlsx",sheet = "Badajoz") %>% 
+  mutate(date = dmy(fecha),
+         cases = casos) %>% 
+  select(date,cases) %>% 
+  tidyr::complete(date = ex_dates, fill = list(cases = 0)) %>% 
+  mutate(mcccityname1 = "Badajoz")
+CAC <-read_excel("Data/Extremadura/Extremadura.xlsx",sheet = "Caceres") %>% 
+  mutate(date = dmy(fecha),
+         cases = casos) %>% 
+  select(date,cases) %>% 
+  tidyr::complete(date = ex_dates, fill = list(cases = 0)) %>% 
+  mutate(mcccityname1 = "Caceres")
+Extremadura_cities <- bind_rows(BAD, CAC)
 ##################
 # Palma Mallorca
 # data available in powerbi table:
@@ -217,7 +234,7 @@ options(download.file.method="curl", download.file.extra="-k -L")
 download.file("https://opendata.sitcan.es/upload/sanidad/cv19_municipio-residencia_casos.csv",
               destfile = "Data/canarias.csv")
 Canarias_cities<-
-  read_csv("canarias.csv") %>% 
+  read_csv("Data/canarias.csv") %>% 
   dplyr::filter(municipio %in% c("Santa Cruz de Tenerife","Las Palmas de Gran Canaria")) %>% 
   mutate(date = lubridate::dmy(fecha_caso)) %>% 
   group_by(municipio, date) %>% 
@@ -321,7 +338,7 @@ read_csv("https://ias1.larioja.org/opendata/download?r=Y2Q9ODU2fGNmPTAz")
 
 # readLines("https://datacovid.salud.aragon.es/covid/session/ff26e22ebc4437d4e133449772a52b5f/dataobj/tablaCom?w=&nonce=5fd12e9fd9a5e5fb")
 # fromJSON("https://datacovid.salud.aragon.es/covid/session/ff26e22ebc4437d4e133449772a52b5f/dataobj/tablaComm?w=&nonce=aba690e6ab16f87c")
-
+"https://datacovid.salud.aragon.es/covid/session/d75b608b6384f506c890638f419e17a2/dataobj/tablaZBS?w=&nonce=1e5ee8ceb79b44ac"
 "https://transparencia.aragon.es/sites/default/files/documents/20220227_casos_confirmados_zbs.xlsx"
 library(lubridate)
 dates <- seq(dmy("01.02.2020"),today(),by="days")
@@ -332,7 +349,23 @@ try_download <- RCurl::url.exists(maybe_urls)
 plot(try_download)
 
 dates[!try_download]
+dates_compact <- dates %>% gsub(pattern = "-", replacement = "")
+for (i in 1:length(dates_compact)){
+  
+  this_file <- paste0(dates_compact[i],"_casos_confirmados_zbs.xlsx")
+  dest_path <- file.path("Data","Aragon","retransparenciaformulariodesugerencias",this_file)
+  this_url <- paste0("https://transparencia.aragon.es/sites/default/files/documents/",this_file)
+  if (!file.exists(dest_path)){
+    if(RCurl::url.exists(this_url)){
+      try(download.file(this_url, destfile = dest_path))
+    }
+  }
+}
 # 2020-08-22,
 #  2020-09-15, 2020-12-14, 2020-12-24, 2020-12-27, 2020-12-31, 2021-01-05, 2021-01-19, 2021-01-26,
 #  2021-04-01, 2021-04-03, 2021-06-21, 2021-07-06, 2021-08-12, 2021-08-13, 2021-08-14, 2021-08-15,
 #  2021-08-20, 2021-08-21, 2021-09-02, 2021-12-18, 2021-12-25
+here::here()
+load("Data/spacovid_update.RData")
+
+       
