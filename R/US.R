@@ -92,6 +92,7 @@ mutate(regioncode= recode(res_state,
 
 
 write.csv(us_regions, "./dat/US_regions.csv", row.names = F)
+#data <- read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv")
 
 
 #testing
