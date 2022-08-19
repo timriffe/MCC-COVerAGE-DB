@@ -85,7 +85,7 @@ match <- read.csv("https://raw.githubusercontent.com/grammakov/USA-cities-and-st
   unique() %>% 
   select(City, State = State.short, County)
 
-cities <- read_xlsx("./dat/US_city_names.xlsx", col_names = FALSE) %>% 
+cities <- read_xlsx("./Data/US_city_names.xlsx", col_names = FALSE) %>% 
   select(cityname = ...1, mcccityname1 = ...2, mcccityname2 = ...3) %>% 
   mutate(mcccityname3 = mcccityname2) %>% 
   separate(mcccityname3, c("trash", "State"), sep = "\\s*\\(|\\)") %>% 

@@ -53,10 +53,10 @@ data <- read.csv("https://coronavirus.data.gov.uk/api/v2/data?areaType=ltla&metr
          areaName == "Wigan" |
          areaName == "Worcester" |
          areaName == "York" ) %>% 
-    select(date, cityname = areaName, cases =newCasesByPublishDate)
+    select(date, mcccityname1 = areaName, cases =newCasesByPublishDate)
   
 london <- read.csv("https://coronavirus.data.gov.uk/api/v2/data?areaType=region&areaCode=E12000007&metric=newCasesByPublishDate&format=csv") %>% 
-select(date, cityname = areaName, cases =newCasesByPublishDate)
+select(date, mcccityname1 = areaName, cases =newCasesByPublishDate)
 
 data <- rbind(data, london) %>% 
   mutate(date = as.Date(date))

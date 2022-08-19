@@ -63,6 +63,20 @@ data <- data %>%
 
 write.csv(data, "./dat/Japan_regions.csv", row.names = F)
 
+data <- data %>% 
+  mutate(mcccityname1 = case_when(
+    regionname == "Aichi" ~ "Nagoya",
+    regionname == "Chiba" ~ "Chiba",
+    regionname == "Fukuoka" ~ "Fukuoka",
+    regionname == "Hokkaido" ~ "Sapporo",
+    regionname == "Hyogo" ~ "Kobe",
+    regionname == "Kanagawa" ~ "Yokohama",
+    regionname == "Kyoto" ~ "Kyoto",
+    regionname == "Osaka" ~ "Osaka",
+    regionname == "Saitama" ~ "Saitama",
+    regionname == "Tokyo" ~ "Tokyo"
+  )) %>% 
+  filter(!is.na(mcccityname1)) %>% 
+  select(date, mcccityname1, cases)
 
-
-tokyo <- read.csv("https://stopcovid19.metro.tokyo.lg.jp/data/130001_tokyo_covid19_positive_cases_by_day_of_symptom_onset.csv", encoding="UTF-8")
+write.csv(data, "./dat/Japan_cities.csv", row.names = F)
