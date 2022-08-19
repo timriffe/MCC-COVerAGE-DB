@@ -80,3 +80,12 @@ ggplot(data, aes(x = date , y = cases)) +
   theme_bw()
 
 write.csv(data, "./dat/UK_regions.csv", row.names = F)
+
+#nations
+data <- read.csv("https://coronavirus.data.gov.uk/api/v2/data?areaType=nation&metric=newCasesByPublishDate&format=csv") %>% 
+  filter(areaName == "Scotland" | areaName == "Wales") %>% 
+  select(date, regionname = areaName, cases = newCasesByPublishDate) %>% 
+  mutate(date = as.Date(date))
+
+write.csv(data, "./data/WalesScotland_regions.csv", row.names = F)
+

@@ -17,7 +17,9 @@ write.csv(data, "./dat/Australia_regions.csv", row.names = F)
 
 
 
+#cities
 
+data <- read.csv("https://www.dhhs.vic.gov.au/sites/default/files/documents/202208/NCOV_COVID_Assumed_Positive_RAT_Cases_by_LGA_Postcode_20220819.csv")
 
 
 
