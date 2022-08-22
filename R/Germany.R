@@ -21,26 +21,22 @@ db <-
 unique(db$Landkreis) %>% sort()
 unique(db$Bundesland) %>% sort()
 
-db2 <- db %>% 
-  mutate(Sex = case_when(Geschlecht == "M" ~ "m",
-                         Geschlecht == "W" ~ "f",
-                         Geschlecht == "unbekannt" ~ "UNK"),
-         Age = case_when(Altersgruppe == "A00-A04" ~ "0",
-                         Altersgruppe == "A05-A14" ~ "5",
-                         Altersgruppe == "A15-A34" ~ "15",
-                         Altersgruppe == "A35-A59" ~ "35",
-                         Altersgruppe == "A60-A79" ~ "60",
-                         Altersgruppe == "A80+" ~ "80",
-                         Altersgruppe == "unbekannt" ~ "UNK"),
-         date_f = ymd(str_sub(Meldedatum, 1, 10)),
-         Cases = ifelse(AnzahlFall < 0, 0, AnzahlFall),
-         Deaths = ifelse(AnzahlTodesfall < 0, 0, AnzahlTodesfall),
-         Region = Bundesland) %>% 
-  select(date_f, Sex, Age, Cases, Deaths, Region) %>% 
-  pivot_longer(Cases:Deaths, names_to = "Measure", values_to ="Value") %>% 
-  group_by(Region, Sex, Measure, date_f, Age) %>% 
-  summarize(Value = sum(Value)) %>% 
-  ungroup()
-
-
-unique(db2$Region)
+db2 <- 
+  db %>% 
+  filter(str_detect(Landkreis, "SK ")) %>% 
+  mutate(city = str_replace(Landkreis, "SK ", ""),
+         date = ymd(str_sub(Refdatum, 1, 10)),
+         cases = ifelse(AnzahlFall < 0, 0, AnzahlFall),
+         city = case_when(str_detect(city, "Berlin") ~ "Berlin",
+                          city == "Frankfurt am Main" ~ "Frankfurt",
+                          city == "Düsseldorf" ~ "Duesseldorf",
+                          city == "Köln" ~ "Koeln",
+                          city == "München" ~ "Muenchen",
+                          TRUE ~ city)) %>% 
+  group_by(city, date) %>% 
+  summarise(cases = sum(cases)) %>% 
+  ungroup() %>% 
+  filter(city %in% cities) %>% 
+  mutate(country = "Germany")
+  
+write_csv(db2, "data_output/germany.csv")  
