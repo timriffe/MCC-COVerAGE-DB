@@ -31,4 +31,4 @@ ggplot(data, aes(x = date , y = cases)) +
   facet_wrap(~regionname) +
   theme_bw()
 
-write.csv(data, "./data/Malaysia_regions.csv", row.names = F)
+write.csv(data, "./dat/Malaysia_regions.csv", row.names = F)
