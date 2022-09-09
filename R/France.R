@@ -32,4 +32,6 @@ city_dep <- tibble(city = c("Bordeaux","Clermont-Ferrand","Dijon","Grenoble","Le
 
 FR_cities <-
   FR_Dep %>% 
-  right_join(city_dep,by="dep")
+  right_join(city_dep,by="dep") %>% 
+  select(-dep) %>% 
+  write_csv("data_output/france.csv")
