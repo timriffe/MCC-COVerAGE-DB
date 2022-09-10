@@ -41,15 +41,16 @@ RO2 <-
   ungroup()
 
 RO2 %>% 
+  ggplot(aes(x = date,y=cases,color = city)) + 
+  geom_line()
+
+RO2 %>% 
   filter(!is.na(cases),
          !is.na(cases_cum)) %>% 
 write_csv("data_output/Romania.csv")
 
-RO2 %>% 
-  ggplot(aes(x = date,y=cases,color = city)) + 
-  geom_line()
-RO2 %>% 
-  filter(is.na(cases))
+
+
 # need to match cities to counties
 # Brasov
 # Bucharest
