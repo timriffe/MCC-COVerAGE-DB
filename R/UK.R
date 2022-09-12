@@ -87,5 +87,5 @@ data <- read.csv("https://coronavirus.data.gov.uk/api/v2/data?areaType=nation&me
   select(date, regionname = areaName, cases = newCasesByPublishDate) %>% 
   mutate(date = as.Date(date))
 
-write.csv(data, "./data/WalesScotland_regions.csv", row.names = F)
+write.csv(data, "./dat/WalesScotland_regions.csv", row.names = F)
 
