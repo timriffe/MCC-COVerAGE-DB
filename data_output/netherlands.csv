@@ -1,0 +1,4611 @@
+country,city,date,cases_cum,cases
+Netherlands,Amsterdam,2020-03-02,NA,0
+Netherlands,Amsterdam,2020-03-03,NA,0
+Netherlands,Amsterdam,2020-03-04,1,0
+Netherlands,Amsterdam,2020-03-05,2,1
+Netherlands,Amsterdam,2020-03-06,2,0
+Netherlands,Amsterdam,2020-03-07,3,1
+Netherlands,Amsterdam,2020-03-08,4,1
+Netherlands,Amsterdam,2020-03-09,4,0
+Netherlands,Amsterdam,2020-03-10,8,4
+Netherlands,Amsterdam,2020-03-11,8,0
+Netherlands,Amsterdam,2020-03-12,11,3
+Netherlands,Amsterdam,2020-03-13,20,9
+Netherlands,Amsterdam,2020-03-14,31,11
+Netherlands,Amsterdam,2020-03-15,31,0
+Netherlands,Amsterdam,2020-03-16,39,8
+Netherlands,Amsterdam,2020-03-17,56,17
+Netherlands,Amsterdam,2020-03-18,61,5
+Netherlands,Amsterdam,2020-03-19,85,24
+Netherlands,Amsterdam,2020-03-20,127,42
+Netherlands,Amsterdam,2020-03-21,161,34
+Netherlands,Amsterdam,2020-03-22,188,27
+Netherlands,Amsterdam,2020-03-23,203,15
+Netherlands,Amsterdam,2020-03-24,250,47
+Netherlands,Amsterdam,2020-03-25,297,47
+Netherlands,Amsterdam,2020-03-26,351,54
+Netherlands,Amsterdam,2020-03-27,411,60
+Netherlands,Amsterdam,2020-03-28,477,66
+Netherlands,Amsterdam,2020-03-29,530,53
+Netherlands,Amsterdam,2020-03-30,571,41
+Netherlands,Amsterdam,2020-03-31,NA,0
+Netherlands,Amsterdam,2020-04-01,NA,0
+Netherlands,Amsterdam,2020-04-02,NA,0
+Netherlands,Amsterdam,2020-04-03,NA,0
+Netherlands,Amsterdam,2020-04-04,NA,0
+Netherlands,Amsterdam,2020-04-05,NA,0
+Netherlands,Amsterdam,2020-04-06,NA,0
+Netherlands,Amsterdam,2020-04-07,NA,0
+Netherlands,Amsterdam,2020-04-08,939,0
+Netherlands,Amsterdam,2020-04-09,990,51
+Netherlands,Amsterdam,2020-04-10,1071,81
+Netherlands,Amsterdam,2020-04-11,1120,49
+Netherlands,Amsterdam,2020-04-12,1166,46
+Netherlands,Amsterdam,2020-04-13,1190,24
+Netherlands,Amsterdam,2020-04-14,1227,37
+Netherlands,Amsterdam,2020-04-15,1254,27
+Netherlands,Amsterdam,2020-04-16,1305,51
+Netherlands,Amsterdam,2020-04-17,1377,72
+Netherlands,Amsterdam,2020-04-18,1419,42
+Netherlands,Amsterdam,2020-04-19,1472,53
+Netherlands,Amsterdam,2020-04-20,1507,35
+Netherlands,Amsterdam,2020-04-21,1544,37
+Netherlands,Amsterdam,2020-04-22,1580,36
+Netherlands,Amsterdam,2020-04-23,1628,48
+Netherlands,Amsterdam,2020-04-24,1661,33
+Netherlands,Amsterdam,2020-04-25,1703,42
+Netherlands,Amsterdam,2020-04-26,1743,40
+Netherlands,Amsterdam,2020-04-27,1763,20
+Netherlands,Amsterdam,2020-04-28,1778,15
+Netherlands,Amsterdam,2020-04-29,1816,38
+Netherlands,Amsterdam,2020-04-30,1842,26
+Netherlands,Amsterdam,2020-05-01,1944,102
+Netherlands,Amsterdam,2020-05-02,1979,35
+Netherlands,Amsterdam,2020-05-03,1993,14
+Netherlands,Amsterdam,2020-05-04,1998,5
+Netherlands,Amsterdam,2020-05-05,2039,41
+Netherlands,Amsterdam,2020-05-06,2071,32
+Netherlands,Amsterdam,2020-05-07,2107,36
+Netherlands,Amsterdam,2020-05-08,2128,21
+Netherlands,Amsterdam,2020-05-09,2142,14
+Netherlands,Amsterdam,2020-05-10,2161,19
+Netherlands,Amsterdam,2020-05-11,2183,22
+Netherlands,Amsterdam,2020-05-12,2192,9
+Netherlands,Amsterdam,2020-05-13,2203,11
+Netherlands,Amsterdam,2020-05-14,2223,20
+Netherlands,Amsterdam,2020-05-15,2236,13
+Netherlands,Amsterdam,2020-05-16,2250,14
+Netherlands,Amsterdam,2020-05-17,2256,6
+Netherlands,Amsterdam,2020-05-18,2260,4
+Netherlands,Amsterdam,2020-05-19,2265,5
+Netherlands,Amsterdam,2020-05-20,2275,10
+Netherlands,Amsterdam,2020-05-21,2288,13
+Netherlands,Amsterdam,2020-05-22,2297,9
+Netherlands,Amsterdam,2020-05-23,2304,7
+Netherlands,Amsterdam,2020-05-24,2308,4
+Netherlands,Amsterdam,2020-05-25,2312,4
+Netherlands,Amsterdam,2020-05-26,2316,4
+Netherlands,Amsterdam,2020-05-27,2322,6
+Netherlands,Amsterdam,2020-05-28,2329,7
+Netherlands,Amsterdam,2020-05-29,2339,10
+Netherlands,Amsterdam,2020-05-30,2345,6
+Netherlands,Amsterdam,2020-05-31,2354,9
+Netherlands,Amsterdam,2020-06-01,2363,9
+Netherlands,Amsterdam,2020-06-02,2364,1
+Netherlands,Amsterdam,2020-06-03,2367,3
+Netherlands,Amsterdam,2020-06-04,2367,0
+Netherlands,Amsterdam,2020-06-05,2367,0
+Netherlands,Amsterdam,2020-06-06,2367,0
+Netherlands,Amsterdam,2020-06-07,2430,63
+Netherlands,Amsterdam,2020-06-08,2447,17
+Netherlands,Amsterdam,2020-06-09,2458,11
+Netherlands,Amsterdam,2020-06-10,2482,24
+Netherlands,Amsterdam,2020-06-11,2498,16
+Netherlands,Amsterdam,2020-06-12,2506,8
+Netherlands,Amsterdam,2020-06-13,2528,22
+Netherlands,Amsterdam,2020-06-14,2539,11
+Netherlands,Amsterdam,2020-06-15,2552,13
+Netherlands,Amsterdam,2020-06-16,2571,19
+Netherlands,Amsterdam,2020-06-17,2582,11
+Netherlands,Amsterdam,2020-06-18,2592,10
+Netherlands,Amsterdam,2020-06-19,2594,2
+Netherlands,Amsterdam,2020-06-20,2602,8
+Netherlands,Amsterdam,2020-06-21,2608,6
+Netherlands,Amsterdam,2020-06-22,2614,6
+Netherlands,Amsterdam,2020-06-23,2623,9
+Netherlands,Amsterdam,2020-06-24,2635,12
+Netherlands,Amsterdam,2020-06-25,2640,5
+Netherlands,Amsterdam,2020-06-26,2650,10
+Netherlands,Amsterdam,2020-06-27,2657,7
+Netherlands,Amsterdam,2020-06-28,2659,2
+Netherlands,Amsterdam,2020-06-29,2666,7
+Netherlands,Amsterdam,2020-06-30,2671,5
+Netherlands,Amsterdam,2020-07-01,2674,3
+Netherlands,Amsterdam,2020-07-02,2678,4
+Netherlands,Amsterdam,2020-07-03,2688,10
+Netherlands,Amsterdam,2020-07-04,2695,7
+Netherlands,Amsterdam,2020-07-05,2701,6
+Netherlands,Amsterdam,2020-07-06,2704,3
+Netherlands,Amsterdam,2020-07-07,2706,2
+Netherlands,Amsterdam,2020-07-08,2712,6
+Netherlands,Amsterdam,2020-07-09,2714,2
+Netherlands,Amsterdam,2020-07-10,2724,10
+Netherlands,Amsterdam,2020-07-11,2729,5
+Netherlands,Amsterdam,2020-07-12,2733,4
+Netherlands,Amsterdam,2020-07-13,2744,11
+Netherlands,Amsterdam,2020-07-14,2749,5
+Netherlands,Amsterdam,2020-07-15,2754,5
+Netherlands,Amsterdam,2020-07-16,2774,20
+Netherlands,Amsterdam,2020-07-17,2790,16
+Netherlands,Amsterdam,2020-07-18,2791,1
+Netherlands,Amsterdam,2020-07-19,2824,33
+Netherlands,Amsterdam,2020-07-20,2852,28
+Netherlands,Amsterdam,2020-07-21,2873,21
+Netherlands,Amsterdam,2020-07-22,2891,18
+Netherlands,Amsterdam,2020-07-23,2906,15
+Netherlands,Amsterdam,2020-07-24,2925,19
+Netherlands,Amsterdam,2020-07-25,2945,20
+Netherlands,Amsterdam,2020-07-26,2973,28
+Netherlands,Amsterdam,2020-07-27,3020,47
+Netherlands,Amsterdam,2020-07-28,3049,29
+Netherlands,Amsterdam,2020-07-29,3076,27
+Netherlands,Amsterdam,2020-07-30,3144,68
+Netherlands,Amsterdam,2020-07-31,3187,43
+Netherlands,Amsterdam,2020-08-01,3248,61
+Netherlands,Amsterdam,2020-08-02,3270,22
+Netherlands,Amsterdam,2020-08-03,3314,44
+Netherlands,Amsterdam,2020-08-04,3449,135
+Netherlands,Amsterdam,2020-08-05,3512,63
+Netherlands,Amsterdam,2020-08-06,3659,147
+Netherlands,Amsterdam,2020-08-07,3733,74
+Netherlands,Amsterdam,2020-08-08,3830,97
+Netherlands,Amsterdam,2020-08-09,3912,82
+Netherlands,Amsterdam,2020-08-10,4089,177
+Netherlands,Amsterdam,2020-08-11,4200,111
+Netherlands,Amsterdam,2020-08-12,4300,100
+Netherlands,Amsterdam,2020-08-13,4369,69
+Netherlands,Amsterdam,2020-08-14,4489,120
+Netherlands,Amsterdam,2020-08-15,4620,131
+Netherlands,Amsterdam,2020-08-16,4717,97
+Netherlands,Amsterdam,2020-08-17,4823,106
+Netherlands,Amsterdam,2020-08-18,4944,121
+Netherlands,Amsterdam,2020-08-19,5037,93
+Netherlands,Amsterdam,2020-08-20,5141,104
+Netherlands,Amsterdam,2020-08-21,5222,81
+Netherlands,Amsterdam,2020-08-22,5271,49
+Netherlands,Amsterdam,2020-08-23,5347,76
+Netherlands,Amsterdam,2020-08-24,5471,124
+Netherlands,Amsterdam,2020-08-25,5559,88
+Netherlands,Amsterdam,2020-08-26,5642,83
+Netherlands,Amsterdam,2020-08-27,5732,90
+Netherlands,Amsterdam,2020-08-28,5813,81
+Netherlands,Amsterdam,2020-08-29,5877,64
+Netherlands,Amsterdam,2020-08-30,5939,62
+Netherlands,Amsterdam,2020-08-31,6046,107
+Netherlands,Amsterdam,2020-09-01,6117,71
+Netherlands,Amsterdam,2020-09-02,6235,118
+Netherlands,Amsterdam,2020-09-03,6309,74
+Netherlands,Amsterdam,2020-09-04,6444,135
+Netherlands,Amsterdam,2020-09-05,6552,108
+Netherlands,Amsterdam,2020-09-06,6684,132
+Netherlands,Amsterdam,2020-09-07,6819,135
+Netherlands,Amsterdam,2020-09-08,7009,190
+Netherlands,Amsterdam,2020-09-09,7141,132
+Netherlands,Amsterdam,2020-09-10,7267,126
+Netherlands,Amsterdam,2020-09-11,7453,186
+Netherlands,Amsterdam,2020-09-12,7619,166
+Netherlands,Amsterdam,2020-09-13,7812,193
+Netherlands,Amsterdam,2020-09-14,8011,199
+Netherlands,Amsterdam,2020-09-15,8260,249
+Netherlands,Amsterdam,2020-09-16,8500,240
+Netherlands,Amsterdam,2020-09-17,8747,247
+Netherlands,Amsterdam,2020-09-18,9109,362
+Netherlands,Amsterdam,2020-09-19,9401,292
+Netherlands,Amsterdam,2020-09-20,9691,290
+Netherlands,Amsterdam,2020-09-21,9962,271
+Netherlands,Amsterdam,2020-09-22,10338,376
+Netherlands,Amsterdam,2020-09-23,10607,269
+Netherlands,Amsterdam,2020-09-24,10858,251
+Netherlands,Amsterdam,2020-09-25,11218,360
+Netherlands,Amsterdam,2020-09-26,11553,335
+Netherlands,Amsterdam,2020-09-27,12018,465
+Netherlands,Amsterdam,2020-09-28,12259,241
+Netherlands,Amsterdam,2020-09-29,12644,385
+Netherlands,Amsterdam,2020-09-30,13021,377
+Netherlands,Amsterdam,2020-10-01,13365,344
+Netherlands,Amsterdam,2020-10-02,13720,355
+Netherlands,Amsterdam,2020-10-03,14094,374
+Netherlands,Amsterdam,2020-10-04,14552,458
+Netherlands,Amsterdam,2020-10-05,14903,351
+Netherlands,Amsterdam,2020-10-06,15382,479
+Netherlands,Amsterdam,2020-10-07,15846,464
+Netherlands,Amsterdam,2020-10-08,16291,445
+Netherlands,Amsterdam,2020-10-09,16789,498
+Netherlands,Amsterdam,2020-10-10,17419,630
+Netherlands,Amsterdam,2020-10-11,17839,420
+Netherlands,Amsterdam,2020-10-12,18429,590
+Netherlands,Amsterdam,2020-10-13,19163,734
+Netherlands,Amsterdam,2020-10-14,19802,639
+Netherlands,Amsterdam,2020-10-15,20303,501
+Netherlands,Amsterdam,2020-10-16,20985,682
+Netherlands,Amsterdam,2020-10-17,21672,687
+Netherlands,Amsterdam,2020-10-18,22398,726
+Netherlands,Amsterdam,2020-10-19,22931,533
+Netherlands,Amsterdam,2020-10-20,23627,696
+Netherlands,Amsterdam,2020-10-21,24378,751
+Netherlands,Amsterdam,2020-10-22,25191,813
+Netherlands,Amsterdam,2020-10-23,25936,745
+Netherlands,Amsterdam,2020-10-24,26442,506
+Netherlands,Amsterdam,2020-10-25,27273,831
+Netherlands,Amsterdam,2020-10-26,27799,526
+Netherlands,Amsterdam,2020-10-27,28485,686
+Netherlands,Amsterdam,2020-10-28,28833,348
+Netherlands,Amsterdam,2020-10-29,29331,498
+Netherlands,Amsterdam,2020-10-30,29946,615
+Netherlands,Amsterdam,2020-10-31,30511,565
+Netherlands,Amsterdam,2020-11-01,31039,528
+Netherlands,Amsterdam,2020-11-02,31365,326
+Netherlands,Amsterdam,2020-11-03,31733,368
+Netherlands,Amsterdam,2020-11-04,32098,365
+Netherlands,Amsterdam,2020-11-05,32472,374
+Netherlands,Amsterdam,2020-11-06,32779,307
+Netherlands,Amsterdam,2020-11-07,33163,384
+Netherlands,Amsterdam,2020-11-08,33501,338
+Netherlands,Amsterdam,2020-11-09,33721,220
+Netherlands,Amsterdam,2020-11-10,33976,255
+Netherlands,Amsterdam,2020-11-11,34306,330
+Netherlands,Amsterdam,2020-11-12,34703,397
+Netherlands,Amsterdam,2020-11-13,35127,424
+Netherlands,Amsterdam,2020-11-14,35435,308
+Netherlands,Amsterdam,2020-11-15,35710,275
+Netherlands,Amsterdam,2020-11-16,35995,285
+Netherlands,Amsterdam,2020-11-17,36224,229
+Netherlands,Amsterdam,2020-11-18,36471,247
+Netherlands,Amsterdam,2020-11-19,36640,169
+Netherlands,Amsterdam,2020-11-20,36975,335
+Netherlands,Amsterdam,2020-11-21,37391,416
+Netherlands,Amsterdam,2020-11-22,37720,329
+Netherlands,Amsterdam,2020-11-23,37955,235
+Netherlands,Amsterdam,2020-11-24,38153,198
+Netherlands,Amsterdam,2020-11-25,38435,282
+Netherlands,Amsterdam,2020-11-26,38657,222
+Netherlands,Amsterdam,2020-11-27,38971,314
+Netherlands,Amsterdam,2020-11-28,39213,242
+Netherlands,Amsterdam,2020-11-29,39502,289
+Netherlands,Amsterdam,2020-11-30,39756,254
+Netherlands,Amsterdam,2020-12-01,40003,247
+Netherlands,Amsterdam,2020-12-02,40303,300
+Netherlands,Amsterdam,2020-12-03,40636,333
+Netherlands,Amsterdam,2020-12-04,40861,225
+Netherlands,Amsterdam,2020-12-05,41205,344
+Netherlands,Amsterdam,2020-12-06,41555,350
+Netherlands,Amsterdam,2020-12-07,41771,216
+Netherlands,Amsterdam,2020-12-08,42089,318
+Netherlands,Amsterdam,2020-12-09,42505,416
+Netherlands,Amsterdam,2020-12-10,42918,413
+Netherlands,Amsterdam,2020-12-11,43397,479
+Netherlands,Amsterdam,2020-12-12,43788,391
+Netherlands,Amsterdam,2020-12-13,44123,335
+Netherlands,Amsterdam,2020-12-14,44473,350
+Netherlands,Amsterdam,2020-12-15,44718,245
+Netherlands,Amsterdam,2020-12-16,45276,558
+Netherlands,Amsterdam,2020-12-17,45820,544
+Netherlands,Amsterdam,2020-12-18,46185,365
+Netherlands,Amsterdam,2020-12-19,46765,580
+Netherlands,Amsterdam,2020-12-20,47359,594
+Netherlands,Amsterdam,2020-12-21,47698,339
+Netherlands,Amsterdam,2020-12-22,48135,437
+Netherlands,Amsterdam,2020-12-23,48509,374
+Netherlands,Amsterdam,2020-12-24,48951,442
+Netherlands,Amsterdam,2020-12-25,49257,306
+Netherlands,Amsterdam,2020-12-26,49572,315
+Netherlands,Amsterdam,2020-12-27,50010,438
+Netherlands,Amsterdam,2020-12-28,50266,256
+Netherlands,Amsterdam,2020-12-29,50545,279
+Netherlands,Amsterdam,2020-12-30,50925,380
+Netherlands,Amsterdam,2020-12-31,51312,387
+Netherlands,Amsterdam,2021-01-01,51534,222
+Netherlands,Amsterdam,2021-01-02,51814,280
+Netherlands,Amsterdam,2021-01-03,52063,249
+Netherlands,Amsterdam,2021-01-04,52281,218
+Netherlands,Amsterdam,2021-01-05,52498,217
+Netherlands,Amsterdam,2021-01-06,52835,337
+Netherlands,Amsterdam,2021-01-07,53204,369
+Netherlands,Amsterdam,2021-01-08,53502,298
+Netherlands,Amsterdam,2021-01-09,53686,184
+Netherlands,Amsterdam,2021-01-10,53931,245
+Netherlands,Amsterdam,2021-01-11,54121,190
+Netherlands,Amsterdam,2021-01-12,54373,252
+Netherlands,Amsterdam,2021-01-13,54522,149
+Netherlands,Amsterdam,2021-01-14,54894,372
+Netherlands,Amsterdam,2021-01-15,55165,271
+Netherlands,Amsterdam,2021-01-16,55351,186
+Netherlands,Amsterdam,2021-01-17,55639,288
+Netherlands,Amsterdam,2021-01-18,55807,168
+Netherlands,Amsterdam,2021-01-19,56004,197
+Netherlands,Amsterdam,2021-01-20,56167,163
+Netherlands,Amsterdam,2021-01-21,56411,244
+Netherlands,Amsterdam,2021-01-22,56653,242
+Netherlands,Amsterdam,2021-01-23,56867,214
+Netherlands,Amsterdam,2021-01-24,57104,237
+Netherlands,Amsterdam,2021-01-25,57207,103
+Netherlands,Amsterdam,2021-01-26,57408,201
+Netherlands,Amsterdam,2021-01-27,57549,141
+Netherlands,Amsterdam,2021-01-28,57753,204
+Netherlands,Amsterdam,2021-01-29,57918,165
+Netherlands,Amsterdam,2021-01-30,58094,176
+Netherlands,Amsterdam,2021-01-31,58309,215
+Netherlands,Amsterdam,2021-02-01,58422,113
+Netherlands,Amsterdam,2021-02-02,58553,131
+Netherlands,Amsterdam,2021-02-03,58702,149
+Netherlands,Amsterdam,2021-02-04,58879,177
+Netherlands,Amsterdam,2021-02-05,59124,245
+Netherlands,Amsterdam,2021-02-06,59254,130
+Netherlands,Amsterdam,2021-02-07,59411,157
+Netherlands,Amsterdam,2021-02-08,59456,45
+Netherlands,Amsterdam,2021-02-09,59557,101
+Netherlands,Amsterdam,2021-02-10,59682,125
+Netherlands,Amsterdam,2021-02-11,59930,248
+Netherlands,Amsterdam,2021-02-12,60126,196
+Netherlands,Amsterdam,2021-02-13,60275,149
+Netherlands,Amsterdam,2021-02-14,60466,191
+Netherlands,Amsterdam,2021-02-15,60594,128
+Netherlands,Amsterdam,2021-02-16,60745,151
+Netherlands,Amsterdam,2021-02-17,60976,231
+Netherlands,Amsterdam,2021-02-18,61198,222
+Netherlands,Amsterdam,2021-02-19,61315,117
+Netherlands,Amsterdam,2021-02-20,61524,209
+Netherlands,Amsterdam,2021-02-21,61761,237
+Netherlands,Amsterdam,2021-02-22,61907,146
+Netherlands,Amsterdam,2021-02-23,62126,219
+Netherlands,Amsterdam,2021-02-24,62322,196
+Netherlands,Amsterdam,2021-02-25,62546,224
+Netherlands,Amsterdam,2021-02-26,62763,217
+Netherlands,Amsterdam,2021-02-27,63009,246
+Netherlands,Amsterdam,2021-02-28,63197,188
+Netherlands,Amsterdam,2021-03-01,63392,195
+Netherlands,Amsterdam,2021-03-02,63484,92
+Netherlands,Amsterdam,2021-03-03,63789,305
+Netherlands,Amsterdam,2021-03-04,63924,135
+Netherlands,Amsterdam,2021-03-05,64134,210
+Netherlands,Amsterdam,2021-03-06,64446,312
+Netherlands,Amsterdam,2021-03-07,64699,253
+Netherlands,Amsterdam,2021-03-08,64825,126
+Netherlands,Amsterdam,2021-03-09,65040,215
+Netherlands,Amsterdam,2021-03-10,65272,232
+Netherlands,Amsterdam,2021-03-11,65520,248
+Netherlands,Amsterdam,2021-03-12,65845,325
+Netherlands,Amsterdam,2021-03-13,66062,217
+Netherlands,Amsterdam,2021-03-14,66332,270
+Netherlands,Amsterdam,2021-03-15,66495,163
+Netherlands,Amsterdam,2021-03-16,66758,263
+Netherlands,Amsterdam,2021-03-17,67018,260
+Netherlands,Amsterdam,2021-03-18,67199,181
+Netherlands,Amsterdam,2021-03-19,67580,381
+Netherlands,Amsterdam,2021-03-20,67902,322
+Netherlands,Amsterdam,2021-03-21,68211,309
+Netherlands,Amsterdam,2021-03-22,68439,228
+Netherlands,Amsterdam,2021-03-23,68664,225
+Netherlands,Amsterdam,2021-03-24,68964,300
+Netherlands,Amsterdam,2021-03-25,69270,306
+Netherlands,Amsterdam,2021-03-26,69610,340
+Netherlands,Amsterdam,2021-03-27,69995,385
+Netherlands,Amsterdam,2021-03-28,70298,303
+Netherlands,Amsterdam,2021-03-29,70664,366
+Netherlands,Amsterdam,2021-03-30,70881,217
+Netherlands,Amsterdam,2021-03-31,71180,299
+Netherlands,Amsterdam,2021-04-01,71583,403
+Netherlands,Amsterdam,2021-04-02,71871,288
+Netherlands,Amsterdam,2021-04-03,72143,272
+Netherlands,Amsterdam,2021-04-04,72463,320
+Netherlands,Amsterdam,2021-04-05,72685,222
+Netherlands,Amsterdam,2021-04-06,72914,229
+Netherlands,Amsterdam,2021-04-07,73172,258
+Netherlands,Amsterdam,2021-04-08,73436,264
+Netherlands,Amsterdam,2021-04-09,73738,302
+Netherlands,Amsterdam,2021-04-10,74063,325
+Netherlands,Amsterdam,2021-04-11,74315,252
+Netherlands,Amsterdam,2021-04-12,74618,303
+Netherlands,Amsterdam,2021-04-13,74855,237
+Netherlands,Amsterdam,2021-04-14,75023,168
+Netherlands,Amsterdam,2021-04-15,75399,376
+Netherlands,Amsterdam,2021-04-16,75796,397
+Netherlands,Amsterdam,2021-04-17,76078,282
+Netherlands,Amsterdam,2021-04-18,76506,428
+Netherlands,Amsterdam,2021-04-19,76795,289
+Netherlands,Amsterdam,2021-04-20,77116,321
+Netherlands,Amsterdam,2021-04-21,77435,319
+Netherlands,Amsterdam,2021-04-22,77802,367
+Netherlands,Amsterdam,2021-04-23,78221,419
+Netherlands,Amsterdam,2021-04-24,78513,292
+Netherlands,Amsterdam,2021-04-25,78830,317
+Netherlands,Amsterdam,2021-04-26,79097,267
+Netherlands,Amsterdam,2021-04-27,79302,205
+Netherlands,Amsterdam,2021-04-28,79650,348
+Netherlands,Amsterdam,2021-04-29,79908,258
+Netherlands,Amsterdam,2021-04-30,80210,302
+Netherlands,Amsterdam,2021-05-01,80461,251
+Netherlands,Amsterdam,2021-05-02,80843,382
+Netherlands,Amsterdam,2021-05-03,81304,461
+Netherlands,Amsterdam,2021-05-04,81679,375
+Netherlands,Amsterdam,2021-05-05,82041,362
+Netherlands,Amsterdam,2021-05-06,82415,374
+Netherlands,Amsterdam,2021-05-07,82776,361
+Netherlands,Amsterdam,2021-05-08,83196,420
+Netherlands,Amsterdam,2021-05-09,83451,255
+Netherlands,Amsterdam,2021-05-10,83796,345
+Netherlands,Amsterdam,2021-05-11,84026,230
+Netherlands,Amsterdam,2021-05-12,84303,277
+Netherlands,Amsterdam,2021-05-13,84469,166
+Netherlands,Amsterdam,2021-05-14,84792,323
+Netherlands,Amsterdam,2021-05-15,84993,201
+Netherlands,Amsterdam,2021-05-16,85158,165
+Netherlands,Amsterdam,2021-05-17,85235,77
+Netherlands,Amsterdam,2021-05-18,85515,280
+Netherlands,Amsterdam,2021-05-19,85679,164
+Netherlands,Amsterdam,2021-05-20,85901,222
+Netherlands,Amsterdam,2021-05-21,86076,175
+Netherlands,Amsterdam,2021-05-22,86218,142
+Netherlands,Amsterdam,2021-05-23,86345,127
+Netherlands,Amsterdam,2021-05-24,86474,129
+Netherlands,Amsterdam,2021-05-25,86594,120
+Netherlands,Amsterdam,2021-05-26,86742,148
+Netherlands,Amsterdam,2021-05-27,86870,128
+Netherlands,Amsterdam,2021-05-28,87015,145
+Netherlands,Amsterdam,2021-05-29,87220,205
+Netherlands,Amsterdam,2021-05-30,87321,101
+Netherlands,Amsterdam,2021-05-31,87404,83
+Netherlands,Amsterdam,2021-06-01,87470,66
+Netherlands,Amsterdam,2021-06-02,87587,117
+Netherlands,Amsterdam,2021-06-03,87690,103
+Netherlands,Amsterdam,2021-06-04,87840,150
+Netherlands,Amsterdam,2021-06-05,87921,81
+Netherlands,Amsterdam,2021-06-06,87977,56
+Netherlands,Amsterdam,2021-06-07,88034,57
+Netherlands,Amsterdam,2021-06-08,88118,84
+Netherlands,Amsterdam,2021-06-09,88178,60
+Netherlands,Amsterdam,2021-06-10,88235,57
+Netherlands,Amsterdam,2021-06-11,88286,51
+Netherlands,Amsterdam,2021-06-12,88351,65
+Netherlands,Amsterdam,2021-06-13,88413,62
+Netherlands,Amsterdam,2021-06-14,88464,51
+Netherlands,Amsterdam,2021-06-15,88522,58
+Netherlands,Amsterdam,2021-06-16,88608,86
+Netherlands,Amsterdam,2021-06-17,88666,58
+Netherlands,Amsterdam,2021-06-18,88726,60
+Netherlands,Amsterdam,2021-06-19,88775,49
+Netherlands,Amsterdam,2021-06-20,88820,45
+Netherlands,Amsterdam,2021-06-21,88853,33
+Netherlands,Amsterdam,2021-06-22,88904,51
+Netherlands,Amsterdam,2021-06-23,88934,30
+Netherlands,Amsterdam,2021-06-24,88979,45
+Netherlands,Amsterdam,2021-06-25,89024,45
+Netherlands,Amsterdam,2021-06-26,89057,33
+Netherlands,Amsterdam,2021-06-27,89084,27
+Netherlands,Amsterdam,2021-06-28,89124,40
+Netherlands,Amsterdam,2021-06-29,89166,42
+Netherlands,Amsterdam,2021-06-30,89217,51
+Netherlands,Amsterdam,2021-07-01,89284,67
+Netherlands,Amsterdam,2021-07-02,89391,107
+Netherlands,Amsterdam,2021-07-03,89479,88
+Netherlands,Amsterdam,2021-07-04,89641,162
+Netherlands,Amsterdam,2021-07-05,89885,244
+Netherlands,Amsterdam,2021-07-06,90154,269
+Netherlands,Amsterdam,2021-07-07,90636,482
+Netherlands,Amsterdam,2021-07-08,91368,732
+Netherlands,Amsterdam,2021-07-09,92166,798
+Netherlands,Amsterdam,2021-07-10,93063,897
+Netherlands,Amsterdam,2021-07-11,94402,1339
+Netherlands,Amsterdam,2021-07-12,95561,1159
+Netherlands,Amsterdam,2021-07-13,96569,1008
+Netherlands,Amsterdam,2021-07-14,97784,1215
+Netherlands,Amsterdam,2021-07-15,99061,1277
+Netherlands,Amsterdam,2021-07-16,100183,1122
+Netherlands,Amsterdam,2021-07-17,101309,1126
+Netherlands,Amsterdam,2021-07-18,102329,1020
+Netherlands,Amsterdam,2021-07-19,102917,588
+Netherlands,Amsterdam,2021-07-20,103499,582
+Netherlands,Amsterdam,2021-07-21,104054,555
+Netherlands,Amsterdam,2021-07-22,104521,467
+Netherlands,Amsterdam,2021-07-23,104988,467
+Netherlands,Amsterdam,2021-07-24,105346,358
+Netherlands,Amsterdam,2021-07-25,105667,321
+Netherlands,Amsterdam,2021-07-26,105954,287
+Netherlands,Amsterdam,2021-07-27,106256,302
+Netherlands,Amsterdam,2021-07-28,106491,235
+Netherlands,Amsterdam,2021-07-29,106852,361
+Netherlands,Amsterdam,2021-07-30,107075,223
+Netherlands,Amsterdam,2021-07-31,107288,213
+Netherlands,Amsterdam,2021-08-01,107486,198
+Netherlands,Amsterdam,2021-08-02,107600,114
+Netherlands,Amsterdam,2021-08-03,107764,164
+Netherlands,Amsterdam,2021-08-04,108002,238
+Netherlands,Amsterdam,2021-08-05,108273,271
+Netherlands,Amsterdam,2021-08-06,108516,243
+Netherlands,Amsterdam,2021-08-07,108703,187
+Netherlands,Amsterdam,2021-08-08,108931,228
+Netherlands,Amsterdam,2021-08-09,109095,164
+Netherlands,Amsterdam,2021-08-10,109238,143
+Netherlands,Amsterdam,2021-08-11,109428,190
+Netherlands,Amsterdam,2021-08-12,109624,196
+Netherlands,Amsterdam,2021-08-13,109824,200
+Netherlands,Amsterdam,2021-08-14,110046,222
+Netherlands,Amsterdam,2021-08-15,110268,222
+Netherlands,Amsterdam,2021-08-16,110466,198
+Netherlands,Amsterdam,2021-08-17,110676,210
+Netherlands,Amsterdam,2021-08-18,110912,236
+Netherlands,Amsterdam,2021-08-19,111113,201
+Netherlands,Amsterdam,2021-08-20,111330,217
+Netherlands,Amsterdam,2021-08-21,111575,245
+Netherlands,Amsterdam,2021-08-22,111801,226
+Netherlands,Amsterdam,2021-08-23,112016,215
+Netherlands,Amsterdam,2021-08-24,112242,226
+Netherlands,Amsterdam,2021-08-25,112459,217
+Netherlands,Amsterdam,2021-08-26,112613,154
+Netherlands,Amsterdam,2021-08-27,112935,322
+Netherlands,Amsterdam,2021-08-28,113083,148
+Netherlands,Amsterdam,2021-08-29,113275,192
+Netherlands,Amsterdam,2021-08-30,113458,183
+Netherlands,Amsterdam,2021-08-31,113626,168
+Netherlands,Amsterdam,2021-09-01,113814,188
+Netherlands,Amsterdam,2021-09-02,113990,176
+Netherlands,Amsterdam,2021-09-03,114185,195
+Netherlands,Amsterdam,2021-09-04,114398,213
+Netherlands,Amsterdam,2021-09-05,114604,206
+Netherlands,Amsterdam,2021-09-06,114730,126
+Netherlands,Amsterdam,2021-09-07,114974,244
+Netherlands,Amsterdam,2021-09-08,115177,203
+Netherlands,Amsterdam,2021-09-09,115390,213
+Netherlands,Amsterdam,2021-09-10,115554,164
+Netherlands,Amsterdam,2021-09-11,115715,161
+Netherlands,Amsterdam,2021-09-12,115891,176
+Netherlands,Amsterdam,2021-09-13,116012,121
+Netherlands,Amsterdam,2021-09-14,116144,132
+Netherlands,Amsterdam,2021-09-15,116310,166
+Netherlands,Amsterdam,2021-09-16,116429,119
+Netherlands,Amsterdam,2021-09-17,116542,113
+Netherlands,Amsterdam,2021-09-18,116661,119
+Netherlands,Amsterdam,2021-09-19,116747,86
+Netherlands,Amsterdam,2021-09-20,116822,75
+Netherlands,Amsterdam,2021-09-21,116905,83
+Netherlands,Amsterdam,2021-09-22,116976,71
+Netherlands,Amsterdam,2021-09-23,117063,87
+Netherlands,Amsterdam,2021-09-24,117167,104
+Netherlands,Amsterdam,2021-09-25,117233,66
+Netherlands,Amsterdam,2021-09-26,117281,48
+Netherlands,Amsterdam,2021-09-27,117339,58
+Netherlands,Amsterdam,2021-09-28,117430,91
+Netherlands,Amsterdam,2021-09-29,117515,85
+Netherlands,Amsterdam,2021-09-30,117575,60
+Netherlands,Amsterdam,2021-10-01,117646,71
+Netherlands,Amsterdam,2021-10-02,117734,88
+Netherlands,Amsterdam,2021-10-03,117807,73
+Netherlands,Amsterdam,2021-10-04,117893,86
+Netherlands,Amsterdam,2021-10-05,117969,76
+Netherlands,Amsterdam,2021-10-06,118035,66
+Netherlands,Amsterdam,2021-10-07,118183,148
+Netherlands,Amsterdam,2021-10-08,118301,118
+Netherlands,Amsterdam,2021-10-09,118400,99
+Netherlands,Amsterdam,2021-10-10,118514,114
+Netherlands,Amsterdam,2021-10-11,118586,72
+Netherlands,Amsterdam,2021-10-12,118700,114
+Netherlands,Amsterdam,2021-10-13,118846,146
+Netherlands,Amsterdam,2021-10-14,118923,77
+Netherlands,Amsterdam,2021-10-15,119103,180
+Netherlands,Amsterdam,2021-10-16,119221,118
+Netherlands,Amsterdam,2021-10-17,119392,171
+Netherlands,Amsterdam,2021-10-18,119516,124
+Netherlands,Amsterdam,2021-10-19,119668,152
+Netherlands,Amsterdam,2021-10-20,119876,208
+Netherlands,Amsterdam,2021-10-21,120071,195
+Netherlands,Amsterdam,2021-10-22,120327,256
+Netherlands,Amsterdam,2021-10-23,120612,285
+Netherlands,Amsterdam,2021-10-24,120871,259
+Netherlands,Amsterdam,2021-10-25,121106,235
+Netherlands,Amsterdam,2021-10-26,121359,253
+Netherlands,Amsterdam,2021-10-27,121701,342
+Netherlands,Amsterdam,2021-10-28,121913,212
+Netherlands,Amsterdam,2021-10-29,122165,252
+Netherlands,Amsterdam,2021-10-30,122487,322
+Netherlands,Amsterdam,2021-10-31,122846,359
+Netherlands,Amsterdam,2021-11-01,123062,216
+Netherlands,Amsterdam,2021-11-02,123384,322
+Netherlands,Amsterdam,2021-11-03,123692,308
+Netherlands,Amsterdam,2021-11-04,124062,370
+Netherlands,Amsterdam,2021-11-05,124552,490
+Netherlands,Amsterdam,2021-11-06,124954,402
+Netherlands,Amsterdam,2021-11-07,125361,407
+Netherlands,Amsterdam,2021-11-08,125770,409
+Netherlands,Amsterdam,2021-11-09,126101,331
+Netherlands,Amsterdam,2021-11-10,126607,506
+Netherlands,Amsterdam,2021-11-11,127221,614
+Netherlands,Amsterdam,2021-11-12,127910,689
+Netherlands,Amsterdam,2021-11-13,128504,594
+Netherlands,Amsterdam,2021-11-14,129007,503
+Netherlands,Amsterdam,2021-11-15,129932,925
+Netherlands,Amsterdam,2021-11-16,130599,667
+Netherlands,Amsterdam,2021-11-17,131378,779
+Netherlands,Amsterdam,2021-11-18,132250,872
+Netherlands,Amsterdam,2021-11-19,133032,782
+Netherlands,Amsterdam,2021-11-20,134103,1071
+Netherlands,Amsterdam,2021-11-21,134903,800
+Netherlands,Amsterdam,2021-11-22,135716,813
+Netherlands,Amsterdam,2021-11-23,136650,934
+Netherlands,Amsterdam,2021-11-24,137392,742
+Netherlands,Amsterdam,2021-11-25,138384,992
+Netherlands,Amsterdam,2021-11-26,139152,768
+Netherlands,Amsterdam,2021-11-27,140104,952
+Netherlands,Amsterdam,2021-11-28,141024,920
+Netherlands,Amsterdam,2021-11-29,141469,445
+Netherlands,Amsterdam,2021-11-30,142245,776
+Netherlands,Amsterdam,2021-12-01,142877,632
+Netherlands,Amsterdam,2021-12-02,143678,801
+Netherlands,Amsterdam,2021-12-03,144808,1130
+Netherlands,Amsterdam,2021-12-04,145619,811
+Netherlands,Amsterdam,2021-12-05,146316,697
+Netherlands,Amsterdam,2021-12-06,146965,649
+Netherlands,Amsterdam,2021-12-07,147602,637
+Netherlands,Amsterdam,2021-12-08,148311,709
+Netherlands,Amsterdam,2021-12-09,148995,684
+Netherlands,Amsterdam,2021-12-10,149645,650
+Netherlands,Amsterdam,2021-12-11,150315,670
+Netherlands,Amsterdam,2021-12-12,151043,728
+Netherlands,Amsterdam,2021-12-13,151473,430
+Netherlands,Amsterdam,2021-12-14,151946,473
+Netherlands,Amsterdam,2021-12-15,152631,685
+Netherlands,Amsterdam,2021-12-16,153131,500
+Netherlands,Amsterdam,2021-12-17,153954,823
+Netherlands,Amsterdam,2021-12-18,154631,677
+Netherlands,Amsterdam,2021-12-19,155222,591
+Netherlands,Amsterdam,2021-12-20,155769,547
+Netherlands,Amsterdam,2021-12-21,156323,554
+Netherlands,Amsterdam,2021-12-22,157137,814
+Netherlands,Amsterdam,2021-12-23,157887,750
+Netherlands,Amsterdam,2021-12-24,158737,850
+Netherlands,Amsterdam,2021-12-25,159490,753
+Netherlands,Amsterdam,2021-12-26,160376,886
+Netherlands,Amsterdam,2021-12-27,161004,628
+Netherlands,Amsterdam,2021-12-28,161608,604
+Netherlands,Amsterdam,2021-12-29,162654,1046
+Netherlands,Amsterdam,2021-12-30,163568,914
+Netherlands,Amsterdam,2021-12-31,164948,1380
+Netherlands,Amsterdam,2022-01-01,166361,1413
+Netherlands,Amsterdam,2022-01-02,167444,1083
+Netherlands,Amsterdam,2022-01-03,168460,1016
+Netherlands,Amsterdam,2022-01-04,170094,1634
+Netherlands,Amsterdam,2022-01-05,172352,2258
+Netherlands,Amsterdam,2022-01-06,174598,2246
+Netherlands,Amsterdam,2022-01-07,178259,3661
+Netherlands,Amsterdam,2022-01-08,180803,2544
+Netherlands,Amsterdam,2022-01-09,183277,2474
+Netherlands,Amsterdam,2022-01-10,185675,2398
+Netherlands,Amsterdam,2022-01-11,188344,2669
+Netherlands,Amsterdam,2022-01-12,190860,2516
+Netherlands,Amsterdam,2022-01-13,194297,3437
+Netherlands,Amsterdam,2022-01-14,197050,2753
+Netherlands,Amsterdam,2022-01-15,199909,2859
+Netherlands,Amsterdam,2022-01-16,202796,2887
+Netherlands,Amsterdam,2022-01-17,206124,3328
+Netherlands,Amsterdam,2022-01-18,208658,2534
+Netherlands,Amsterdam,2022-01-19,211839,3181
+Netherlands,Amsterdam,2022-01-20,214625,2786
+Netherlands,Amsterdam,2022-01-21,217943,3318
+Netherlands,Amsterdam,2022-01-22,220759,2816
+Netherlands,Amsterdam,2022-01-23,225460,4701
+Netherlands,Amsterdam,2022-01-24,229609,4149
+Netherlands,Amsterdam,2022-01-25,233330,3721
+Netherlands,Amsterdam,2022-01-26,238224,4894
+Netherlands,Amsterdam,2022-01-27,241065,2841
+Netherlands,Amsterdam,2022-01-28,244439,3374
+Netherlands,Amsterdam,2022-01-29,247212,2773
+Netherlands,Amsterdam,2022-01-30,250290,3078
+Netherlands,Amsterdam,2022-01-31,256061,5771
+Netherlands,Amsterdam,2022-02-01,260008,3947
+Netherlands,Amsterdam,2022-02-02,263199,3191
+Netherlands,Amsterdam,2022-02-03,267326,4127
+Netherlands,Amsterdam,2022-02-04,270131,2805
+Netherlands,Amsterdam,2022-02-05,271600,1469
+Netherlands,Amsterdam,2022-02-06,276850,5250
+Netherlands,Amsterdam,2022-02-07,279685,2835
+Netherlands,Amsterdam,2022-02-08,291416,11731
+Netherlands,Amsterdam,2022-02-09,295073,3657
+Netherlands,Amsterdam,2022-02-10,298658,3585
+Netherlands,Amsterdam,2022-02-11,301652,2994
+Netherlands,Amsterdam,2022-02-12,304060,2408
+Netherlands,Amsterdam,2022-02-13,306080,2020
+Netherlands,Amsterdam,2022-02-14,308115,2035
+Netherlands,Amsterdam,2022-02-15,310478,2363
+Netherlands,Amsterdam,2022-02-16,313462,2984
+Netherlands,Amsterdam,2022-02-17,315709,2247
+Netherlands,Amsterdam,2022-02-18,317654,1945
+Netherlands,Amsterdam,2022-02-19,318688,1034
+Netherlands,Amsterdam,2022-02-20,320317,1629
+Netherlands,Amsterdam,2022-02-21,321593,1276
+Netherlands,Amsterdam,2022-02-22,322915,1322
+Netherlands,Amsterdam,2022-02-23,324670,1755
+Netherlands,Amsterdam,2022-02-24,326654,1984
+Netherlands,Amsterdam,2022-02-25,328183,1529
+Netherlands,Amsterdam,2022-02-26,329486,1303
+Netherlands,Amsterdam,2022-02-27,330766,1280
+Netherlands,Amsterdam,2022-02-28,332139,1373
+Netherlands,Amsterdam,2022-03-01,334144,2005
+Netherlands,Amsterdam,2022-03-02,336750,2606
+Netherlands,Amsterdam,2022-03-03,339421,2671
+Netherlands,Amsterdam,2022-03-04,342173,2752
+Netherlands,Amsterdam,2022-03-05,344380,2207
+Netherlands,Amsterdam,2022-03-06,346227,1847
+Netherlands,Amsterdam,2022-03-07,348215,1988
+Netherlands,Amsterdam,2022-03-08,350626,2411
+Netherlands,Amsterdam,2022-03-09,353908,3282
+Netherlands,Amsterdam,2022-03-10,356493,2585
+Netherlands,Amsterdam,2022-03-11,359496,3003
+Netherlands,Amsterdam,2022-03-12,361829,2333
+Netherlands,Amsterdam,2022-03-13,363805,1976
+Netherlands,Amsterdam,2022-03-14,365852,2047
+Netherlands,Amsterdam,2022-03-15,368412,2560
+Netherlands,Amsterdam,2022-03-16,371103,2691
+Netherlands,Amsterdam,2022-03-17,373259,2156
+Netherlands,Amsterdam,2022-03-18,375306,2047
+Netherlands,Amsterdam,2022-03-19,376925,1619
+Netherlands,Amsterdam,2022-03-20,378309,1384
+Netherlands,Amsterdam,2022-03-21,379702,1393
+Netherlands,Amsterdam,2022-03-22,381353,1651
+Netherlands,Amsterdam,2022-03-23,383148,1795
+Netherlands,Amsterdam,2022-03-24,393532,10384
+Netherlands,Amsterdam,2022-03-25,394971,1439
+Netherlands,Amsterdam,2022-03-26,396211,1240
+Netherlands,Amsterdam,2022-03-27,397295,1084
+Netherlands,Amsterdam,2022-03-28,398117,822
+Netherlands,Amsterdam,2022-03-29,399386,1269
+Netherlands,Amsterdam,2022-03-30,400551,1165
+Netherlands,Amsterdam,2022-03-31,401670,1119
+Netherlands,Amsterdam,2022-04-01,402605,935
+Netherlands,Amsterdam,2022-04-02,403311,706
+Netherlands,Amsterdam,2022-04-03,403985,674
+Netherlands,Amsterdam,2022-04-04,404434,449
+Netherlands,Amsterdam,2022-04-05,405050,616
+Netherlands,Amsterdam,2022-04-06,405690,640
+Netherlands,Amsterdam,2022-04-07,406220,530
+Netherlands,Amsterdam,2022-04-08,406866,646
+Netherlands,Amsterdam,2022-04-09,407372,506
+Netherlands,Amsterdam,2022-04-10,407769,397
+Netherlands,Amsterdam,2022-04-11,408111,342
+Netherlands,Amsterdam,2022-04-12,408480,369
+Netherlands,Amsterdam,2022-04-13,408771,291
+Netherlands,Amsterdam,2022-04-14,409081,310
+Netherlands,Amsterdam,2022-04-15,409329,248
+Netherlands,Amsterdam,2022-04-16,409595,266
+Netherlands,Amsterdam,2022-04-17,409832,237
+Netherlands,Amsterdam,2022-04-18,410006,174
+Netherlands,Amsterdam,2022-04-19,410153,147
+Netherlands,Amsterdam,2022-04-20,410436,283
+Netherlands,Amsterdam,2022-04-21,410675,239
+Netherlands,Amsterdam,2022-04-22,410887,212
+Netherlands,Amsterdam,2022-04-23,411053,166
+Netherlands,Amsterdam,2022-04-24,411148,95
+Netherlands,Amsterdam,2022-04-25,411253,105
+Netherlands,Amsterdam,2022-04-26,411417,164
+Netherlands,Amsterdam,2022-04-27,411591,174
+Netherlands,Amsterdam,2022-04-28,411664,73
+Netherlands,Amsterdam,2022-04-29,411829,165
+Netherlands,Amsterdam,2022-04-30,411961,132
+Netherlands,Amsterdam,2022-05-01,412111,150
+Netherlands,Amsterdam,2022-05-02,412204,93
+Netherlands,Amsterdam,2022-05-03,412353,149
+Netherlands,Amsterdam,2022-05-04,412495,142
+Netherlands,Amsterdam,2022-05-05,412683,188
+Netherlands,Amsterdam,2022-05-06,412796,113
+Netherlands,Amsterdam,2022-05-07,412935,139
+Netherlands,Amsterdam,2022-05-08,413066,131
+Netherlands,Amsterdam,2022-05-09,413174,108
+Netherlands,Amsterdam,2022-05-10,413291,117
+Netherlands,Amsterdam,2022-05-11,413415,124
+Netherlands,Amsterdam,2022-05-12,413612,197
+Netherlands,Amsterdam,2022-05-13,413708,96
+Netherlands,Amsterdam,2022-05-14,413690,0
+Netherlands,Amsterdam,2022-05-15,413788,98
+Netherlands,Amsterdam,2022-05-16,413884,96
+Netherlands,Amsterdam,2022-05-17,414000,116
+Netherlands,Amsterdam,2022-05-18,414092,92
+Netherlands,Amsterdam,2022-05-19,414230,138
+Netherlands,Amsterdam,2022-05-20,414306,76
+Netherlands,Amsterdam,2022-05-21,414399,93
+Netherlands,Amsterdam,2022-05-22,414454,55
+Netherlands,Amsterdam,2022-05-23,414521,67
+Netherlands,Amsterdam,2022-05-24,414635,114
+Netherlands,Amsterdam,2022-05-25,414729,94
+Netherlands,Amsterdam,2022-05-26,414868,139
+Netherlands,Amsterdam,2022-05-27,414974,106
+Netherlands,Amsterdam,2022-05-28,415088,114
+Netherlands,Amsterdam,2022-05-29,415183,95
+Netherlands,Amsterdam,2022-05-30,415298,115
+Netherlands,Amsterdam,2022-05-31,415426,128
+Netherlands,Amsterdam,2022-06-01,415541,115
+Netherlands,Amsterdam,2022-06-02,415687,146
+Netherlands,Amsterdam,2022-06-03,415820,133
+Netherlands,Amsterdam,2022-06-04,415934,114
+Netherlands,Amsterdam,2022-06-05,416058,124
+Netherlands,Amsterdam,2022-06-06,416120,62
+Netherlands,Amsterdam,2022-06-07,416231,111
+Netherlands,Amsterdam,2022-06-08,416368,137
+Netherlands,Amsterdam,2022-06-09,416607,239
+Netherlands,Amsterdam,2022-06-10,416818,211
+Netherlands,Amsterdam,2022-06-11,417041,223
+Netherlands,Amsterdam,2022-06-12,417142,101
+Netherlands,Amsterdam,2022-06-13,417351,209
+Netherlands,Amsterdam,2022-06-14,417537,186
+Netherlands,Amsterdam,2022-06-15,417771,234
+Netherlands,Amsterdam,2022-06-16,418123,352
+Netherlands,Amsterdam,2022-06-17,418423,300
+Netherlands,Amsterdam,2022-06-18,418706,283
+Netherlands,Amsterdam,2022-06-19,418934,228
+Netherlands,Amsterdam,2022-06-20,419219,285
+Netherlands,Amsterdam,2022-06-21,419504,285
+Netherlands,Amsterdam,2022-06-22,419794,290
+Netherlands,Amsterdam,2022-06-23,420168,374
+Netherlands,Amsterdam,2022-06-24,420435,267
+Netherlands,Amsterdam,2022-06-25,420777,342
+Netherlands,Amsterdam,2022-06-26,421020,243
+Netherlands,Amsterdam,2022-06-27,421263,243
+Netherlands,Amsterdam,2022-06-28,421595,332
+Netherlands,Amsterdam,2022-06-29,421947,352
+Netherlands,Amsterdam,2022-06-30,422291,344
+Netherlands,Amsterdam,2022-07-01,422626,335
+Netherlands,Amsterdam,2022-07-02,422958,332
+Netherlands,Amsterdam,2022-07-03,423254,296
+Netherlands,Amsterdam,2022-07-04,423450,196
+Netherlands,Amsterdam,2022-07-05,423837,387
+Netherlands,Amsterdam,2022-07-06,424153,316
+Netherlands,Amsterdam,2022-07-07,424701,548
+Netherlands,Amsterdam,2022-07-08,425112,411
+Netherlands,Amsterdam,2022-07-09,425447,335
+Netherlands,Amsterdam,2022-07-10,425841,394
+Netherlands,Amsterdam,2022-07-11,426102,261
+Netherlands,Amsterdam,2022-07-12,426492,390
+Netherlands,Amsterdam,2022-07-13,426891,399
+Netherlands,Amsterdam,2022-07-14,427298,407
+Netherlands,Amsterdam,2022-07-15,427709,411
+Netherlands,Amsterdam,2022-07-16,428068,359
+Netherlands,Amsterdam,2022-07-17,428338,270
+Netherlands,Amsterdam,2022-07-18,428508,170
+Netherlands,Amsterdam,2022-07-19,428785,277
+Netherlands,Amsterdam,2022-07-20,429022,237
+Netherlands,Amsterdam,2022-07-21,429207,185
+Netherlands,Amsterdam,2022-07-22,429496,289
+Netherlands,Amsterdam,2022-07-23,429739,243
+Netherlands,Amsterdam,2022-07-24,429915,176
+Netherlands,Amsterdam,2022-07-25,430026,111
+Netherlands,Amsterdam,2022-07-26,430198,172
+Netherlands,Amsterdam,2022-07-27,430395,197
+Netherlands,Amsterdam,2022-07-28,430574,179
+Netherlands,Amsterdam,2022-07-29,430730,156
+Netherlands,Amsterdam,2022-07-30,430851,121
+Netherlands,Amsterdam,2022-07-31,430968,117
+Netherlands,Amsterdam,2022-08-01,431038,70
+Netherlands,Amsterdam,2022-08-02,431176,138
+Netherlands,Amsterdam,2022-08-03,431299,123
+Netherlands,Amsterdam,2022-08-04,431436,137
+Netherlands,Amsterdam,2022-08-05,431580,144
+Netherlands,Amsterdam,2022-08-06,431672,92
+Netherlands,Amsterdam,2022-08-07,431754,82
+Netherlands,Amsterdam,2022-08-08,431803,49
+Netherlands,Amsterdam,2022-08-09,431898,95
+Netherlands,Amsterdam,2022-08-10,432014,116
+Netherlands,Amsterdam,2022-08-11,432109,95
+Netherlands,Amsterdam,2022-08-12,432208,99
+Netherlands,Amsterdam,2022-08-13,432314,106
+Netherlands,Amsterdam,2022-08-14,432374,60
+Netherlands,Amsterdam,2022-08-15,432430,56
+Netherlands,Amsterdam,2022-08-16,432524,94
+Netherlands,Amsterdam,2022-08-17,432602,78
+Netherlands,Amsterdam,2022-08-18,432610,8
+Netherlands,Amsterdam,2022-08-19,432740,130
+Netherlands,Amsterdam,2022-08-20,432797,57
+Netherlands,Amsterdam,2022-08-21,432845,48
+Netherlands,Amsterdam,2022-08-22,432881,36
+Netherlands,Amsterdam,2022-08-23,432940,59
+Netherlands,Amsterdam,2022-08-24,432991,51
+Netherlands,Amsterdam,2022-08-25,433058,67
+Netherlands,Amsterdam,2022-08-26,433117,59
+Netherlands,Amsterdam,2022-08-27,433174,57
+Netherlands,Amsterdam,2022-08-28,433234,60
+Netherlands,Amsterdam,2022-08-29,433274,40
+Netherlands,Amsterdam,2022-08-30,433322,48
+Netherlands,Amsterdam,2022-08-31,433376,54
+Netherlands,Amsterdam,2022-09-01,433451,75
+Netherlands,Amsterdam,2022-09-02,433515,64
+Netherlands,Amsterdam,2022-09-03,433568,53
+Netherlands,Amsterdam,2022-09-04,433616,48
+Netherlands,Amsterdam,2022-09-05,433652,36
+Netherlands,Amsterdam,2022-09-06,433693,41
+Netherlands,Amsterdam,2022-09-07,433782,89
+Netherlands,Amsterdam,2022-09-08,433833,51
+Netherlands,Amsterdam,2022-09-09,433881,48
+Netherlands,Den Haag,2020-03-02,NA,0
+Netherlands,Den Haag,2020-03-03,NA,0
+Netherlands,Den Haag,2020-03-04,NA,0
+Netherlands,Den Haag,2020-03-05,NA,0
+Netherlands,Den Haag,2020-03-06,2,0
+Netherlands,Den Haag,2020-03-07,2,0
+Netherlands,Den Haag,2020-03-08,2,0
+Netherlands,Den Haag,2020-03-09,2,0
+Netherlands,Den Haag,2020-03-10,3,1
+Netherlands,Den Haag,2020-03-11,7,4
+Netherlands,Den Haag,2020-03-12,7,0
+Netherlands,Den Haag,2020-03-13,8,1
+Netherlands,Den Haag,2020-03-14,9,1
+Netherlands,Den Haag,2020-03-15,10,1
+Netherlands,Den Haag,2020-03-16,14,4
+Netherlands,Den Haag,2020-03-17,17,3
+Netherlands,Den Haag,2020-03-18,21,4
+Netherlands,Den Haag,2020-03-19,27,6
+Netherlands,Den Haag,2020-03-20,36,9
+Netherlands,Den Haag,2020-03-21,44,8
+Netherlands,Den Haag,2020-03-22,47,3
+Netherlands,Den Haag,2020-03-23,53,6
+Netherlands,Den Haag,2020-03-24,63,10
+Netherlands,Den Haag,2020-03-25,81,18
+Netherlands,Den Haag,2020-03-26,103,22
+Netherlands,Den Haag,2020-03-27,124,21
+Netherlands,Den Haag,2020-03-28,161,37
+Netherlands,Den Haag,2020-03-29,176,15
+Netherlands,Den Haag,2020-03-30,182,6
+Netherlands,Den Haag,2020-03-31,NA,0
+Netherlands,Den Haag,2020-04-01,NA,0
+Netherlands,Den Haag,2020-04-02,NA,0
+Netherlands,Den Haag,2020-04-03,NA,0
+Netherlands,Den Haag,2020-04-04,NA,0
+Netherlands,Den Haag,2020-04-05,NA,0
+Netherlands,Den Haag,2020-04-06,NA,0
+Netherlands,Den Haag,2020-04-07,NA,0
+Netherlands,Den Haag,2020-04-08,440,0
+Netherlands,Den Haag,2020-04-09,472,32
+Netherlands,Den Haag,2020-04-10,506,34
+Netherlands,Den Haag,2020-04-11,554,48
+Netherlands,Den Haag,2020-04-12,581,27
+Netherlands,Den Haag,2020-04-13,617,36
+Netherlands,Den Haag,2020-04-14,635,18
+Netherlands,Den Haag,2020-04-15,661,26
+Netherlands,Den Haag,2020-04-16,703,42
+Netherlands,Den Haag,2020-04-17,735,32
+Netherlands,Den Haag,2020-04-18,788,53
+Netherlands,Den Haag,2020-04-19,845,57
+Netherlands,Den Haag,2020-04-20,868,23
+Netherlands,Den Haag,2020-04-21,886,18
+Netherlands,Den Haag,2020-04-22,919,33
+Netherlands,Den Haag,2020-04-23,958,39
+Netherlands,Den Haag,2020-04-24,993,35
+Netherlands,Den Haag,2020-04-25,1028,35
+Netherlands,Den Haag,2020-04-26,1058,30
+Netherlands,Den Haag,2020-04-27,1079,21
+Netherlands,Den Haag,2020-04-28,1081,2
+Netherlands,Den Haag,2020-04-29,1090,9
+Netherlands,Den Haag,2020-04-30,1117,27
+Netherlands,Den Haag,2020-05-01,1140,23
+Netherlands,Den Haag,2020-05-02,1160,20
+Netherlands,Den Haag,2020-05-03,1177,17
+Netherlands,Den Haag,2020-05-04,1181,4
+Netherlands,Den Haag,2020-05-05,1190,9
+Netherlands,Den Haag,2020-05-06,1195,5
+Netherlands,Den Haag,2020-05-07,1208,13
+Netherlands,Den Haag,2020-05-08,1219,11
+Netherlands,Den Haag,2020-05-09,1232,13
+Netherlands,Den Haag,2020-05-10,1246,14
+Netherlands,Den Haag,2020-05-11,1258,12
+Netherlands,Den Haag,2020-05-12,1265,7
+Netherlands,Den Haag,2020-05-13,1279,14
+Netherlands,Den Haag,2020-05-14,1293,14
+Netherlands,Den Haag,2020-05-15,1304,11
+Netherlands,Den Haag,2020-05-16,1311,7
+Netherlands,Den Haag,2020-05-17,1319,8
+Netherlands,Den Haag,2020-05-18,1325,6
+Netherlands,Den Haag,2020-05-19,1337,12
+Netherlands,Den Haag,2020-05-20,1343,6
+Netherlands,Den Haag,2020-05-21,1357,14
+Netherlands,Den Haag,2020-05-22,1364,7
+Netherlands,Den Haag,2020-05-23,1383,19
+Netherlands,Den Haag,2020-05-24,1394,11
+Netherlands,Den Haag,2020-05-25,1404,10
+Netherlands,Den Haag,2020-05-26,1414,10
+Netherlands,Den Haag,2020-05-27,1426,12
+Netherlands,Den Haag,2020-05-28,1441,15
+Netherlands,Den Haag,2020-05-29,1458,17
+Netherlands,Den Haag,2020-05-30,1474,16
+Netherlands,Den Haag,2020-05-31,1482,8
+Netherlands,Den Haag,2020-06-01,1491,9
+Netherlands,Den Haag,2020-06-02,1505,14
+Netherlands,Den Haag,2020-06-03,1506,1
+Netherlands,Den Haag,2020-06-04,1519,13
+Netherlands,Den Haag,2020-06-05,1531,12
+Netherlands,Den Haag,2020-06-06,1550,19
+Netherlands,Den Haag,2020-06-07,1561,11
+Netherlands,Den Haag,2020-06-08,1567,6
+Netherlands,Den Haag,2020-06-09,1588,21
+Netherlands,Den Haag,2020-06-10,1600,12
+Netherlands,Den Haag,2020-06-11,1618,18
+Netherlands,Den Haag,2020-06-12,1640,22
+Netherlands,Den Haag,2020-06-13,1651,11
+Netherlands,Den Haag,2020-06-14,1660,9
+Netherlands,Den Haag,2020-06-15,1679,19
+Netherlands,Den Haag,2020-06-16,1684,5
+Netherlands,Den Haag,2020-06-17,1692,8
+Netherlands,Den Haag,2020-06-18,1706,14
+Netherlands,Den Haag,2020-06-19,1716,10
+Netherlands,Den Haag,2020-06-20,1724,8
+Netherlands,Den Haag,2020-06-21,1729,5
+Netherlands,Den Haag,2020-06-22,1738,9
+Netherlands,Den Haag,2020-06-23,1741,3
+Netherlands,Den Haag,2020-06-24,1746,5
+Netherlands,Den Haag,2020-06-25,1760,14
+Netherlands,Den Haag,2020-06-26,1762,2
+Netherlands,Den Haag,2020-06-27,1770,8
+Netherlands,Den Haag,2020-06-28,1774,4
+Netherlands,Den Haag,2020-06-29,1784,10
+Netherlands,Den Haag,2020-06-30,1787,3
+Netherlands,Den Haag,2020-07-01,1792,5
+Netherlands,Den Haag,2020-07-02,1798,6
+Netherlands,Den Haag,2020-07-03,1806,8
+Netherlands,Den Haag,2020-07-04,1808,2
+Netherlands,Den Haag,2020-07-05,1810,2
+Netherlands,Den Haag,2020-07-06,1812,2
+Netherlands,Den Haag,2020-07-07,1817,5
+Netherlands,Den Haag,2020-07-08,1821,4
+Netherlands,Den Haag,2020-07-09,1823,2
+Netherlands,Den Haag,2020-07-10,1830,7
+Netherlands,Den Haag,2020-07-11,1836,6
+Netherlands,Den Haag,2020-07-12,1841,5
+Netherlands,Den Haag,2020-07-13,1850,9
+Netherlands,Den Haag,2020-07-14,1859,9
+Netherlands,Den Haag,2020-07-15,1868,9
+Netherlands,Den Haag,2020-07-16,1879,11
+Netherlands,Den Haag,2020-07-17,1886,7
+Netherlands,Den Haag,2020-07-18,1901,15
+Netherlands,Den Haag,2020-07-19,1904,3
+Netherlands,Den Haag,2020-07-20,1912,8
+Netherlands,Den Haag,2020-07-21,1921,9
+Netherlands,Den Haag,2020-07-22,1930,9
+Netherlands,Den Haag,2020-07-23,1947,17
+Netherlands,Den Haag,2020-07-24,1959,12
+Netherlands,Den Haag,2020-07-25,1961,2
+Netherlands,Den Haag,2020-07-26,1975,14
+Netherlands,Den Haag,2020-07-27,1991,16
+Netherlands,Den Haag,2020-07-28,2006,15
+Netherlands,Den Haag,2020-07-29,2014,8
+Netherlands,Den Haag,2020-07-30,2026,12
+Netherlands,Den Haag,2020-07-31,2068,42
+Netherlands,Den Haag,2020-08-01,2107,39
+Netherlands,Den Haag,2020-08-02,2148,41
+Netherlands,Den Haag,2020-08-03,2179,31
+Netherlands,Den Haag,2020-08-04,2216,37
+Netherlands,Den Haag,2020-08-05,2240,24
+Netherlands,Den Haag,2020-08-06,2299,59
+Netherlands,Den Haag,2020-08-07,2337,38
+Netherlands,Den Haag,2020-08-08,2382,45
+Netherlands,Den Haag,2020-08-09,2412,30
+Netherlands,Den Haag,2020-08-10,2458,46
+Netherlands,Den Haag,2020-08-11,2502,44
+Netherlands,Den Haag,2020-08-12,2541,39
+Netherlands,Den Haag,2020-08-13,2588,47
+Netherlands,Den Haag,2020-08-14,2642,54
+Netherlands,Den Haag,2020-08-15,2689,47
+Netherlands,Den Haag,2020-08-16,2717,28
+Netherlands,Den Haag,2020-08-17,2762,45
+Netherlands,Den Haag,2020-08-18,2801,39
+Netherlands,Den Haag,2020-08-19,2838,37
+Netherlands,Den Haag,2020-08-20,2876,38
+Netherlands,Den Haag,2020-08-21,2907,31
+Netherlands,Den Haag,2020-08-22,2965,58
+Netherlands,Den Haag,2020-08-23,2996,31
+Netherlands,Den Haag,2020-08-24,3056,60
+Netherlands,Den Haag,2020-08-25,3079,23
+Netherlands,Den Haag,2020-08-26,3132,53
+Netherlands,Den Haag,2020-08-27,3172,40
+Netherlands,Den Haag,2020-08-28,3200,28
+Netherlands,Den Haag,2020-08-29,3242,42
+Netherlands,Den Haag,2020-08-30,3301,59
+Netherlands,Den Haag,2020-08-31,3361,60
+Netherlands,Den Haag,2020-09-01,3410,49
+Netherlands,Den Haag,2020-09-02,3475,65
+Netherlands,Den Haag,2020-09-03,3536,61
+Netherlands,Den Haag,2020-09-04,3635,99
+Netherlands,Den Haag,2020-09-05,3685,50
+Netherlands,Den Haag,2020-09-06,3800,115
+Netherlands,Den Haag,2020-09-07,3844,44
+Netherlands,Den Haag,2020-09-08,3935,91
+Netherlands,Den Haag,2020-09-09,4055,120
+Netherlands,Den Haag,2020-09-10,4102,47
+Netherlands,Den Haag,2020-09-11,4225,123
+Netherlands,Den Haag,2020-09-12,4347,122
+Netherlands,Den Haag,2020-09-13,4430,83
+Netherlands,Den Haag,2020-09-14,4562,132
+Netherlands,Den Haag,2020-09-15,4696,134
+Netherlands,Den Haag,2020-09-16,4813,117
+Netherlands,Den Haag,2020-09-17,4915,102
+Netherlands,Den Haag,2020-09-18,5039,124
+Netherlands,Den Haag,2020-09-19,5179,140
+Netherlands,Den Haag,2020-09-20,5360,181
+Netherlands,Den Haag,2020-09-21,5483,123
+Netherlands,Den Haag,2020-09-22,5717,234
+Netherlands,Den Haag,2020-09-23,5847,130
+Netherlands,Den Haag,2020-09-24,5983,136
+Netherlands,Den Haag,2020-09-25,6161,178
+Netherlands,Den Haag,2020-09-26,6358,197
+Netherlands,Den Haag,2020-09-27,6587,229
+Netherlands,Den Haag,2020-09-28,6814,227
+Netherlands,Den Haag,2020-09-29,6958,144
+Netherlands,Den Haag,2020-09-30,7207,249
+Netherlands,Den Haag,2020-10-01,7434,227
+Netherlands,Den Haag,2020-10-02,7649,215
+Netherlands,Den Haag,2020-10-03,7859,210
+Netherlands,Den Haag,2020-10-04,8115,256
+Netherlands,Den Haag,2020-10-05,8384,269
+Netherlands,Den Haag,2020-10-06,8571,187
+Netherlands,Den Haag,2020-10-07,8821,250
+Netherlands,Den Haag,2020-10-08,9138,317
+Netherlands,Den Haag,2020-10-09,9547,409
+Netherlands,Den Haag,2020-10-10,9735,188
+Netherlands,Den Haag,2020-10-11,10008,273
+Netherlands,Den Haag,2020-10-12,10294,286
+Netherlands,Den Haag,2020-10-13,10647,353
+Netherlands,Den Haag,2020-10-14,10972,325
+Netherlands,Den Haag,2020-10-15,11310,338
+Netherlands,Den Haag,2020-10-16,11615,305
+Netherlands,Den Haag,2020-10-17,11917,302
+Netherlands,Den Haag,2020-10-18,12262,345
+Netherlands,Den Haag,2020-10-19,12538,276
+Netherlands,Den Haag,2020-10-20,12894,356
+Netherlands,Den Haag,2020-10-21,13186,292
+Netherlands,Den Haag,2020-10-22,13632,446
+Netherlands,Den Haag,2020-10-23,13981,349
+Netherlands,Den Haag,2020-10-24,14389,408
+Netherlands,Den Haag,2020-10-25,14797,408
+Netherlands,Den Haag,2020-10-26,15180,383
+Netherlands,Den Haag,2020-10-27,15593,413
+Netherlands,Den Haag,2020-10-28,15879,286
+Netherlands,Den Haag,2020-10-29,16308,429
+Netherlands,Den Haag,2020-10-30,16660,352
+Netherlands,Den Haag,2020-10-31,17036,376
+Netherlands,Den Haag,2020-11-01,17324,288
+Netherlands,Den Haag,2020-11-02,17600,276
+Netherlands,Den Haag,2020-11-03,17967,367
+Netherlands,Den Haag,2020-11-04,18196,229
+Netherlands,Den Haag,2020-11-05,18483,287
+Netherlands,Den Haag,2020-11-06,18704,221
+Netherlands,Den Haag,2020-11-07,18914,210
+Netherlands,Den Haag,2020-11-08,19061,147
+Netherlands,Den Haag,2020-11-09,19211,150
+Netherlands,Den Haag,2020-11-10,19387,176
+Netherlands,Den Haag,2020-11-11,19558,171
+Netherlands,Den Haag,2020-11-12,19732,174
+Netherlands,Den Haag,2020-11-13,19909,177
+Netherlands,Den Haag,2020-11-14,20065,156
+Netherlands,Den Haag,2020-11-15,20178,113
+Netherlands,Den Haag,2020-11-16,20313,135
+Netherlands,Den Haag,2020-11-17,20430,117
+Netherlands,Den Haag,2020-11-18,20587,157
+Netherlands,Den Haag,2020-11-19,20748,161
+Netherlands,Den Haag,2020-11-20,20893,145
+Netherlands,Den Haag,2020-11-21,21026,133
+Netherlands,Den Haag,2020-11-22,21150,124
+Netherlands,Den Haag,2020-11-23,21266,116
+Netherlands,Den Haag,2020-11-24,21393,127
+Netherlands,Den Haag,2020-11-25,21544,151
+Netherlands,Den Haag,2020-11-26,21661,117
+Netherlands,Den Haag,2020-11-27,21759,98
+Netherlands,Den Haag,2020-11-28,21881,122
+Netherlands,Den Haag,2020-11-29,21978,97
+Netherlands,Den Haag,2020-11-30,22070,92
+Netherlands,Den Haag,2020-12-01,22179,109
+Netherlands,Den Haag,2020-12-02,22326,147
+Netherlands,Den Haag,2020-12-03,22461,135
+Netherlands,Den Haag,2020-12-04,22578,117
+Netherlands,Den Haag,2020-12-05,22720,142
+Netherlands,Den Haag,2020-12-06,22872,152
+Netherlands,Den Haag,2020-12-07,22973,101
+Netherlands,Den Haag,2020-12-08,23186,213
+Netherlands,Den Haag,2020-12-09,23326,140
+Netherlands,Den Haag,2020-12-10,23599,273
+Netherlands,Den Haag,2020-12-11,23805,206
+Netherlands,Den Haag,2020-12-12,24089,284
+Netherlands,Den Haag,2020-12-13,24337,248
+Netherlands,Den Haag,2020-12-14,24507,170
+Netherlands,Den Haag,2020-12-15,24638,131
+Netherlands,Den Haag,2020-12-16,24868,230
+Netherlands,Den Haag,2020-12-17,25261,393
+Netherlands,Den Haag,2020-12-18,25557,296
+Netherlands,Den Haag,2020-12-19,25827,270
+Netherlands,Den Haag,2020-12-20,26055,228
+Netherlands,Den Haag,2020-12-21,26344,289
+Netherlands,Den Haag,2020-12-22,26611,267
+Netherlands,Den Haag,2020-12-23,26879,268
+Netherlands,Den Haag,2020-12-24,27124,245
+Netherlands,Den Haag,2020-12-25,27287,163
+Netherlands,Den Haag,2020-12-26,27566,279
+Netherlands,Den Haag,2020-12-27,27714,148
+Netherlands,Den Haag,2020-12-28,27874,160
+Netherlands,Den Haag,2020-12-29,28073,199
+Netherlands,Den Haag,2020-12-30,28296,223
+Netherlands,Den Haag,2020-12-31,28484,188
+Netherlands,Den Haag,2021-01-01,28625,141
+Netherlands,Den Haag,2021-01-02,28813,188
+Netherlands,Den Haag,2021-01-03,28981,168
+Netherlands,Den Haag,2021-01-04,29104,123
+Netherlands,Den Haag,2021-01-05,29304,200
+Netherlands,Den Haag,2021-01-06,29526,222
+Netherlands,Den Haag,2021-01-07,29759,233
+Netherlands,Den Haag,2021-01-08,29892,133
+Netherlands,Den Haag,2021-01-09,30115,223
+Netherlands,Den Haag,2021-01-10,30220,105
+Netherlands,Den Haag,2021-01-11,30345,125
+Netherlands,Den Haag,2021-01-12,30462,117
+Netherlands,Den Haag,2021-01-13,30600,138
+Netherlands,Den Haag,2021-01-14,30744,144
+Netherlands,Den Haag,2021-01-15,30878,134
+Netherlands,Den Haag,2021-01-16,30955,77
+Netherlands,Den Haag,2021-01-17,31110,155
+Netherlands,Den Haag,2021-01-18,31181,71
+Netherlands,Den Haag,2021-01-19,31279,98
+Netherlands,Den Haag,2021-01-20,31411,132
+Netherlands,Den Haag,2021-01-21,31547,136
+Netherlands,Den Haag,2021-01-22,31671,124
+Netherlands,Den Haag,2021-01-23,31818,147
+Netherlands,Den Haag,2021-01-24,31917,99
+Netherlands,Den Haag,2021-01-25,32031,114
+Netherlands,Den Haag,2021-01-26,32123,92
+Netherlands,Den Haag,2021-01-27,32257,134
+Netherlands,Den Haag,2021-01-28,32348,91
+Netherlands,Den Haag,2021-01-29,32455,107
+Netherlands,Den Haag,2021-01-30,32550,95
+Netherlands,Den Haag,2021-01-31,32649,99
+Netherlands,Den Haag,2021-02-01,32713,64
+Netherlands,Den Haag,2021-02-02,32786,73
+Netherlands,Den Haag,2021-02-03,32841,55
+Netherlands,Den Haag,2021-02-04,32944,103
+Netherlands,Den Haag,2021-02-05,33044,100
+Netherlands,Den Haag,2021-02-06,33150,106
+Netherlands,Den Haag,2021-02-07,33248,98
+Netherlands,Den Haag,2021-02-08,33296,48
+Netherlands,Den Haag,2021-02-09,33333,37
+Netherlands,Den Haag,2021-02-10,33410,77
+Netherlands,Den Haag,2021-02-11,33531,121
+Netherlands,Den Haag,2021-02-12,33663,132
+Netherlands,Den Haag,2021-02-13,33790,127
+Netherlands,Den Haag,2021-02-14,33875,85
+Netherlands,Den Haag,2021-02-15,33915,40
+Netherlands,Den Haag,2021-02-16,33981,66
+Netherlands,Den Haag,2021-02-17,34078,97
+Netherlands,Den Haag,2021-02-18,34201,123
+Netherlands,Den Haag,2021-02-19,34290,89
+Netherlands,Den Haag,2021-02-20,34420,130
+Netherlands,Den Haag,2021-02-21,34524,104
+Netherlands,Den Haag,2021-02-22,34592,68
+Netherlands,Den Haag,2021-02-23,34665,73
+Netherlands,Den Haag,2021-02-24,34764,99
+Netherlands,Den Haag,2021-02-25,34896,132
+Netherlands,Den Haag,2021-02-26,35014,118
+Netherlands,Den Haag,2021-02-27,35122,108
+Netherlands,Den Haag,2021-02-28,35236,114
+Netherlands,Den Haag,2021-03-01,35336,100
+Netherlands,Den Haag,2021-03-02,35416,80
+Netherlands,Den Haag,2021-03-03,35535,119
+Netherlands,Den Haag,2021-03-04,35654,119
+Netherlands,Den Haag,2021-03-05,35784,130
+Netherlands,Den Haag,2021-03-06,35940,156
+Netherlands,Den Haag,2021-03-07,36052,112
+Netherlands,Den Haag,2021-03-08,36137,85
+Netherlands,Den Haag,2021-03-09,36228,91
+Netherlands,Den Haag,2021-03-10,36348,120
+Netherlands,Den Haag,2021-03-11,36513,165
+Netherlands,Den Haag,2021-03-12,36627,114
+Netherlands,Den Haag,2021-03-13,36770,143
+Netherlands,Den Haag,2021-03-14,36923,153
+Netherlands,Den Haag,2021-03-15,37123,200
+Netherlands,Den Haag,2021-03-16,37252,129
+Netherlands,Den Haag,2021-03-17,37422,170
+Netherlands,Den Haag,2021-03-18,37528,106
+Netherlands,Den Haag,2021-03-19,37753,225
+Netherlands,Den Haag,2021-03-20,37915,162
+Netherlands,Den Haag,2021-03-21,38130,215
+Netherlands,Den Haag,2021-03-22,38304,174
+Netherlands,Den Haag,2021-03-23,38485,181
+Netherlands,Den Haag,2021-03-24,38690,205
+Netherlands,Den Haag,2021-03-25,38903,213
+Netherlands,Den Haag,2021-03-26,39159,256
+Netherlands,Den Haag,2021-03-27,39379,220
+Netherlands,Den Haag,2021-03-28,39648,269
+Netherlands,Den Haag,2021-03-29,39852,204
+Netherlands,Den Haag,2021-03-30,40079,227
+Netherlands,Den Haag,2021-03-31,40320,241
+Netherlands,Den Haag,2021-04-01,40648,328
+Netherlands,Den Haag,2021-04-02,40918,270
+Netherlands,Den Haag,2021-04-03,41151,233
+Netherlands,Den Haag,2021-04-04,41376,225
+Netherlands,Den Haag,2021-04-05,41541,165
+Netherlands,Den Haag,2021-04-06,41746,205
+Netherlands,Den Haag,2021-04-07,41975,229
+Netherlands,Den Haag,2021-04-08,42185,210
+Netherlands,Den Haag,2021-04-09,42492,307
+Netherlands,Den Haag,2021-04-10,42739,247
+Netherlands,Den Haag,2021-04-11,43060,321
+Netherlands,Den Haag,2021-04-12,43240,180
+Netherlands,Den Haag,2021-04-13,43446,206
+Netherlands,Den Haag,2021-04-14,43645,199
+Netherlands,Den Haag,2021-04-15,43943,298
+Netherlands,Den Haag,2021-04-16,44231,288
+Netherlands,Den Haag,2021-04-17,44536,305
+Netherlands,Den Haag,2021-04-18,44847,311
+Netherlands,Den Haag,2021-04-19,45100,253
+Netherlands,Den Haag,2021-04-20,45345,245
+Netherlands,Den Haag,2021-04-21,45674,329
+Netherlands,Den Haag,2021-04-22,46005,331
+Netherlands,Den Haag,2021-04-23,46307,302
+Netherlands,Den Haag,2021-04-24,46631,324
+Netherlands,Den Haag,2021-04-25,46875,244
+Netherlands,Den Haag,2021-04-26,47097,222
+Netherlands,Den Haag,2021-04-27,47213,116
+Netherlands,Den Haag,2021-04-28,47502,289
+Netherlands,Den Haag,2021-04-29,47783,281
+Netherlands,Den Haag,2021-04-30,48037,254
+Netherlands,Den Haag,2021-05-01,48156,119
+Netherlands,Den Haag,2021-05-02,48348,192
+Netherlands,Den Haag,2021-05-03,48726,378
+Netherlands,Den Haag,2021-05-04,48958,232
+Netherlands,Den Haag,2021-05-05,49244,286
+Netherlands,Den Haag,2021-05-06,49434,190
+Netherlands,Den Haag,2021-05-07,49773,339
+Netherlands,Den Haag,2021-05-08,50008,235
+Netherlands,Den Haag,2021-05-09,50186,178
+Netherlands,Den Haag,2021-05-10,50370,184
+Netherlands,Den Haag,2021-05-11,50563,193
+Netherlands,Den Haag,2021-05-12,50752,189
+Netherlands,Den Haag,2021-05-13,50983,231
+Netherlands,Den Haag,2021-05-14,51160,177
+Netherlands,Den Haag,2021-05-15,51306,146
+Netherlands,Den Haag,2021-05-16,51430,124
+Netherlands,Den Haag,2021-05-17,51511,81
+Netherlands,Den Haag,2021-05-18,51712,201
+Netherlands,Den Haag,2021-05-19,51871,159
+Netherlands,Den Haag,2021-05-20,52019,148
+Netherlands,Den Haag,2021-05-21,52133,114
+Netherlands,Den Haag,2021-05-22,52281,148
+Netherlands,Den Haag,2021-05-23,52404,123
+Netherlands,Den Haag,2021-05-24,52485,81
+Netherlands,Den Haag,2021-05-25,52564,79
+Netherlands,Den Haag,2021-05-26,52668,104
+Netherlands,Den Haag,2021-05-27,52757,89
+Netherlands,Den Haag,2021-05-28,52890,133
+Netherlands,Den Haag,2021-05-29,53003,113
+Netherlands,Den Haag,2021-05-30,53101,98
+Netherlands,Den Haag,2021-05-31,53164,63
+Netherlands,Den Haag,2021-06-01,53239,75
+Netherlands,Den Haag,2021-06-02,53335,96
+Netherlands,Den Haag,2021-06-03,53440,105
+Netherlands,Den Haag,2021-06-04,53541,101
+Netherlands,Den Haag,2021-06-05,53617,76
+Netherlands,Den Haag,2021-06-06,53672,55
+Netherlands,Den Haag,2021-06-07,53743,71
+Netherlands,Den Haag,2021-06-08,53802,59
+Netherlands,Den Haag,2021-06-09,53886,84
+Netherlands,Den Haag,2021-06-10,53956,70
+Netherlands,Den Haag,2021-06-11,54048,92
+Netherlands,Den Haag,2021-06-12,54111,63
+Netherlands,Den Haag,2021-06-13,54165,54
+Netherlands,Den Haag,2021-06-14,54214,49
+Netherlands,Den Haag,2021-06-15,54264,50
+Netherlands,Den Haag,2021-06-16,54317,53
+Netherlands,Den Haag,2021-06-17,54363,46
+Netherlands,Den Haag,2021-06-18,54410,47
+Netherlands,Den Haag,2021-06-19,54446,36
+Netherlands,Den Haag,2021-06-20,54480,34
+Netherlands,Den Haag,2021-06-21,54498,18
+Netherlands,Den Haag,2021-06-22,54530,32
+Netherlands,Den Haag,2021-06-23,54557,27
+Netherlands,Den Haag,2021-06-24,54582,25
+Netherlands,Den Haag,2021-06-25,54604,22
+Netherlands,Den Haag,2021-06-26,54625,21
+Netherlands,Den Haag,2021-06-27,54647,22
+Netherlands,Den Haag,2021-06-28,54666,19
+Netherlands,Den Haag,2021-06-29,54688,22
+Netherlands,Den Haag,2021-06-30,54709,21
+Netherlands,Den Haag,2021-07-01,54723,14
+Netherlands,Den Haag,2021-07-02,54762,39
+Netherlands,Den Haag,2021-07-03,54788,26
+Netherlands,Den Haag,2021-07-04,54824,36
+Netherlands,Den Haag,2021-07-05,54890,66
+Netherlands,Den Haag,2021-07-06,55015,125
+Netherlands,Den Haag,2021-07-07,55144,129
+Netherlands,Den Haag,2021-07-08,55289,145
+Netherlands,Den Haag,2021-07-09,55462,173
+Netherlands,Den Haag,2021-07-10,55850,388
+Netherlands,Den Haag,2021-07-11,56143,293
+Netherlands,Den Haag,2021-07-12,56322,179
+Netherlands,Den Haag,2021-07-13,56556,234
+Netherlands,Den Haag,2021-07-14,56864,308
+Netherlands,Den Haag,2021-07-15,57197,333
+Netherlands,Den Haag,2021-07-16,57494,297
+Netherlands,Den Haag,2021-07-17,57721,227
+Netherlands,Den Haag,2021-07-18,57988,267
+Netherlands,Den Haag,2021-07-19,58371,383
+Netherlands,Den Haag,2021-07-20,58558,187
+Netherlands,Den Haag,2021-07-21,58754,196
+Netherlands,Den Haag,2021-07-22,58914,160
+Netherlands,Den Haag,2021-07-23,59075,161
+Netherlands,Den Haag,2021-07-24,59244,169
+Netherlands,Den Haag,2021-07-25,59343,99
+Netherlands,Den Haag,2021-07-26,59459,116
+Netherlands,Den Haag,2021-07-27,59583,124
+Netherlands,Den Haag,2021-07-28,59690,107
+Netherlands,Den Haag,2021-07-29,59858,168
+Netherlands,Den Haag,2021-07-30,59977,119
+Netherlands,Den Haag,2021-07-31,60073,96
+Netherlands,Den Haag,2021-08-01,60160,87
+Netherlands,Den Haag,2021-08-02,60235,75
+Netherlands,Den Haag,2021-08-03,60322,87
+Netherlands,Den Haag,2021-08-04,60418,96
+Netherlands,Den Haag,2021-08-05,60541,123
+Netherlands,Den Haag,2021-08-06,60646,105
+Netherlands,Den Haag,2021-08-07,60760,114
+Netherlands,Den Haag,2021-08-08,60842,82
+Netherlands,Den Haag,2021-08-09,60905,63
+Netherlands,Den Haag,2021-08-10,61009,104
+Netherlands,Den Haag,2021-08-11,61063,54
+Netherlands,Den Haag,2021-08-12,61177,114
+Netherlands,Den Haag,2021-08-13,61282,105
+Netherlands,Den Haag,2021-08-14,61374,92
+Netherlands,Den Haag,2021-08-15,61465,91
+Netherlands,Den Haag,2021-08-16,61543,78
+Netherlands,Den Haag,2021-08-17,61610,67
+Netherlands,Den Haag,2021-08-18,61758,148
+Netherlands,Den Haag,2021-08-19,61842,84
+Netherlands,Den Haag,2021-08-20,61926,84
+Netherlands,Den Haag,2021-08-21,62047,121
+Netherlands,Den Haag,2021-08-22,62129,82
+Netherlands,Den Haag,2021-08-23,62244,115
+Netherlands,Den Haag,2021-08-24,62338,94
+Netherlands,Den Haag,2021-08-25,62458,120
+Netherlands,Den Haag,2021-08-26,62577,119
+Netherlands,Den Haag,2021-08-27,62696,119
+Netherlands,Den Haag,2021-08-28,62859,163
+Netherlands,Den Haag,2021-08-29,62966,107
+Netherlands,Den Haag,2021-08-30,63073,107
+Netherlands,Den Haag,2021-08-31,63211,138
+Netherlands,Den Haag,2021-09-01,63345,134
+Netherlands,Den Haag,2021-09-02,63476,131
+Netherlands,Den Haag,2021-09-03,63592,116
+Netherlands,Den Haag,2021-09-04,63762,170
+Netherlands,Den Haag,2021-09-05,63853,91
+Netherlands,Den Haag,2021-09-06,63934,81
+Netherlands,Den Haag,2021-09-07,64025,91
+Netherlands,Den Haag,2021-09-08,64163,138
+Netherlands,Den Haag,2021-09-09,64264,101
+Netherlands,Den Haag,2021-09-10,64400,136
+Netherlands,Den Haag,2021-09-11,64522,122
+Netherlands,Den Haag,2021-09-12,64610,88
+Netherlands,Den Haag,2021-09-13,64697,87
+Netherlands,Den Haag,2021-09-14,64768,71
+Netherlands,Den Haag,2021-09-15,64916,148
+Netherlands,Den Haag,2021-09-16,65032,116
+Netherlands,Den Haag,2021-09-17,65115,83
+Netherlands,Den Haag,2021-09-18,65209,94
+Netherlands,Den Haag,2021-09-19,65279,70
+Netherlands,Den Haag,2021-09-20,65337,58
+Netherlands,Den Haag,2021-09-21,65444,107
+Netherlands,Den Haag,2021-09-22,65531,87
+Netherlands,Den Haag,2021-09-23,65615,84
+Netherlands,Den Haag,2021-09-24,65698,83
+Netherlands,Den Haag,2021-09-25,65771,73
+Netherlands,Den Haag,2021-09-26,65846,75
+Netherlands,Den Haag,2021-09-27,65903,57
+Netherlands,Den Haag,2021-09-28,65976,73
+Netherlands,Den Haag,2021-09-29,66066,90
+Netherlands,Den Haag,2021-09-30,66148,82
+Netherlands,Den Haag,2021-10-01,66214,66
+Netherlands,Den Haag,2021-10-02,66301,87
+Netherlands,Den Haag,2021-10-03,66379,78
+Netherlands,Den Haag,2021-10-04,66446,67
+Netherlands,Den Haag,2021-10-05,66524,78
+Netherlands,Den Haag,2021-10-06,66591,67
+Netherlands,Den Haag,2021-10-07,66690,99
+Netherlands,Den Haag,2021-10-08,66742,52
+Netherlands,Den Haag,2021-10-09,66830,88
+Netherlands,Den Haag,2021-10-10,66919,89
+Netherlands,Den Haag,2021-10-11,66986,67
+Netherlands,Den Haag,2021-10-12,67121,135
+Netherlands,Den Haag,2021-10-13,67216,95
+Netherlands,Den Haag,2021-10-14,67324,108
+Netherlands,Den Haag,2021-10-15,67434,110
+Netherlands,Den Haag,2021-10-16,67560,126
+Netherlands,Den Haag,2021-10-17,67636,76
+Netherlands,Den Haag,2021-10-18,67713,77
+Netherlands,Den Haag,2021-10-19,67797,84
+Netherlands,Den Haag,2021-10-20,67906,109
+Netherlands,Den Haag,2021-10-21,68008,102
+Netherlands,Den Haag,2021-10-22,68138,130
+Netherlands,Den Haag,2021-10-23,68267,129
+Netherlands,Den Haag,2021-10-24,68417,150
+Netherlands,Den Haag,2021-10-25,68565,148
+Netherlands,Den Haag,2021-10-26,68686,121
+Netherlands,Den Haag,2021-10-27,68831,145
+Netherlands,Den Haag,2021-10-28,69046,215
+Netherlands,Den Haag,2021-10-29,69211,165
+Netherlands,Den Haag,2021-10-30,69432,221
+Netherlands,Den Haag,2021-10-31,69633,201
+Netherlands,Den Haag,2021-11-01,69827,194
+Netherlands,Den Haag,2021-11-02,69989,162
+Netherlands,Den Haag,2021-11-03,70221,232
+Netherlands,Den Haag,2021-11-04,70438,217
+Netherlands,Den Haag,2021-11-05,70792,354
+Netherlands,Den Haag,2021-11-06,71065,273
+Netherlands,Den Haag,2021-11-07,71356,291
+Netherlands,Den Haag,2021-11-08,71644,288
+Netherlands,Den Haag,2021-11-09,71964,320
+Netherlands,Den Haag,2021-11-10,72270,306
+Netherlands,Den Haag,2021-11-11,72661,391
+Netherlands,Den Haag,2021-11-12,73075,414
+Netherlands,Den Haag,2021-11-13,73451,376
+Netherlands,Den Haag,2021-11-14,73687,236
+Netherlands,Den Haag,2021-11-15,74115,428
+Netherlands,Den Haag,2021-11-16,74604,489
+Netherlands,Den Haag,2021-11-17,75218,614
+Netherlands,Den Haag,2021-11-18,75751,533
+Netherlands,Den Haag,2021-11-19,76244,493
+Netherlands,Den Haag,2021-11-20,76622,378
+Netherlands,Den Haag,2021-11-21,77070,448
+Netherlands,Den Haag,2021-11-22,77597,527
+Netherlands,Den Haag,2021-11-23,78139,542
+Netherlands,Den Haag,2021-11-24,78709,570
+Netherlands,Den Haag,2021-11-25,79216,507
+Netherlands,Den Haag,2021-11-26,79618,402
+Netherlands,Den Haag,2021-11-27,80143,525
+Netherlands,Den Haag,2021-11-28,80709,566
+Netherlands,Den Haag,2021-11-29,81252,543
+Netherlands,Den Haag,2021-11-30,81828,576
+Netherlands,Den Haag,2021-12-01,82234,406
+Netherlands,Den Haag,2021-12-02,82758,524
+Netherlands,Den Haag,2021-12-03,83228,470
+Netherlands,Den Haag,2021-12-04,83866,638
+Netherlands,Den Haag,2021-12-05,84452,586
+Netherlands,Den Haag,2021-12-06,85020,568
+Netherlands,Den Haag,2021-12-07,85424,404
+Netherlands,Den Haag,2021-12-08,85871,447
+Netherlands,Den Haag,2021-12-09,86392,521
+Netherlands,Den Haag,2021-12-10,86947,555
+Netherlands,Den Haag,2021-12-11,87367,420
+Netherlands,Den Haag,2021-12-12,87893,526
+Netherlands,Den Haag,2021-12-13,88285,392
+Netherlands,Den Haag,2021-12-14,88620,335
+Netherlands,Den Haag,2021-12-15,89086,466
+Netherlands,Den Haag,2021-12-16,89562,476
+Netherlands,Den Haag,2021-12-17,90031,469
+Netherlands,Den Haag,2021-12-18,90546,515
+Netherlands,Den Haag,2021-12-19,90915,369
+Netherlands,Den Haag,2021-12-20,91346,431
+Netherlands,Den Haag,2021-12-21,91631,285
+Netherlands,Den Haag,2021-12-22,92012,381
+Netherlands,Den Haag,2021-12-23,92414,402
+Netherlands,Den Haag,2021-12-24,92763,349
+Netherlands,Den Haag,2021-12-25,93169,406
+Netherlands,Den Haag,2021-12-26,93492,323
+Netherlands,Den Haag,2021-12-27,93857,365
+Netherlands,Den Haag,2021-12-28,94108,251
+Netherlands,Den Haag,2021-12-29,94669,561
+Netherlands,Den Haag,2021-12-30,95142,473
+Netherlands,Den Haag,2021-12-31,95511,369
+Netherlands,Den Haag,2022-01-01,95860,349
+Netherlands,Den Haag,2022-01-02,96304,444
+Netherlands,Den Haag,2022-01-03,97036,732
+Netherlands,Den Haag,2022-01-04,97499,463
+Netherlands,Den Haag,2022-01-05,98165,666
+Netherlands,Den Haag,2022-01-06,98845,680
+Netherlands,Den Haag,2022-01-07,99571,726
+Netherlands,Den Haag,2022-01-08,100654,1083
+Netherlands,Den Haag,2022-01-09,102387,1733
+Netherlands,Den Haag,2022-01-10,103274,887
+Netherlands,Den Haag,2022-01-11,103897,623
+Netherlands,Den Haag,2022-01-12,105339,1442
+Netherlands,Den Haag,2022-01-13,106446,1107
+Netherlands,Den Haag,2022-01-14,107787,1341
+Netherlands,Den Haag,2022-01-15,109244,1457
+Netherlands,Den Haag,2022-01-16,110830,1586
+Netherlands,Den Haag,2022-01-17,112241,1411
+Netherlands,Den Haag,2022-01-18,113132,891
+Netherlands,Den Haag,2022-01-19,114694,1562
+Netherlands,Den Haag,2022-01-20,115968,1274
+Netherlands,Den Haag,2022-01-21,117838,1870
+Netherlands,Den Haag,2022-01-22,119582,1744
+Netherlands,Den Haag,2022-01-23,124025,4443
+Netherlands,Den Haag,2022-01-24,125870,1845
+Netherlands,Den Haag,2022-01-25,127889,2019
+Netherlands,Den Haag,2022-01-26,130209,2320
+Netherlands,Den Haag,2022-01-27,131866,1657
+Netherlands,Den Haag,2022-01-28,134917,3051
+Netherlands,Den Haag,2022-01-29,135317,400
+Netherlands,Den Haag,2022-01-30,138221,2904
+Netherlands,Den Haag,2022-01-31,143910,5689
+Netherlands,Den Haag,2022-02-01,146172,2262
+Netherlands,Den Haag,2022-02-02,148402,2230
+Netherlands,Den Haag,2022-02-03,150786,2384
+Netherlands,Den Haag,2022-02-04,153684,2898
+Netherlands,Den Haag,2022-02-05,155336,1652
+Netherlands,Den Haag,2022-02-06,158175,2839
+Netherlands,Den Haag,2022-02-07,160019,1844
+Netherlands,Den Haag,2022-02-08,166863,6844
+Netherlands,Den Haag,2022-02-09,169169,2306
+Netherlands,Den Haag,2022-02-10,171463,2294
+Netherlands,Den Haag,2022-02-11,173301,1838
+Netherlands,Den Haag,2022-02-12,175094,1793
+Netherlands,Den Haag,2022-02-13,176476,1382
+Netherlands,Den Haag,2022-02-14,177539,1063
+Netherlands,Den Haag,2022-02-15,178635,1096
+Netherlands,Den Haag,2022-02-16,180150,1515
+Netherlands,Den Haag,2022-02-17,181455,1305
+Netherlands,Den Haag,2022-02-18,182734,1279
+Netherlands,Den Haag,2022-02-19,183431,697
+Netherlands,Den Haag,2022-02-20,184383,952
+Netherlands,Den Haag,2022-02-21,185063,680
+Netherlands,Den Haag,2022-02-22,186095,1032
+Netherlands,Den Haag,2022-02-23,187086,991
+Netherlands,Den Haag,2022-02-24,188083,997
+Netherlands,Den Haag,2022-02-25,188865,782
+Netherlands,Den Haag,2022-02-26,189601,736
+Netherlands,Den Haag,2022-02-27,190191,590
+Netherlands,Den Haag,2022-02-28,190667,476
+Netherlands,Den Haag,2022-03-01,191420,753
+Netherlands,Den Haag,2022-03-02,192547,1127
+Netherlands,Den Haag,2022-03-03,193688,1141
+Netherlands,Den Haag,2022-03-04,194794,1106
+Netherlands,Den Haag,2022-03-05,195836,1042
+Netherlands,Den Haag,2022-03-06,196734,898
+Netherlands,Den Haag,2022-03-07,197686,952
+Netherlands,Den Haag,2022-03-08,198924,1238
+Netherlands,Den Haag,2022-03-09,200415,1491
+Netherlands,Den Haag,2022-03-10,201932,1517
+Netherlands,Den Haag,2022-03-11,203333,1401
+Netherlands,Den Haag,2022-03-12,204487,1154
+Netherlands,Den Haag,2022-03-13,205565,1078
+Netherlands,Den Haag,2022-03-14,206493,928
+Netherlands,Den Haag,2022-03-15,207962,1469
+Netherlands,Den Haag,2022-03-16,209276,1314
+Netherlands,Den Haag,2022-03-17,210618,1342
+Netherlands,Den Haag,2022-03-18,212180,1562
+Netherlands,Den Haag,2022-03-19,213134,954
+Netherlands,Den Haag,2022-03-20,213935,801
+Netherlands,Den Haag,2022-03-21,214766,831
+Netherlands,Den Haag,2022-03-22,215913,1147
+Netherlands,Den Haag,2022-03-23,217013,1100
+Netherlands,Den Haag,2022-03-24,218071,1058
+Netherlands,Den Haag,2022-03-25,218933,862
+Netherlands,Den Haag,2022-03-26,219660,727
+Netherlands,Den Haag,2022-03-27,220316,656
+Netherlands,Den Haag,2022-03-28,220894,578
+Netherlands,Den Haag,2022-03-29,221760,866
+Netherlands,Den Haag,2022-03-30,222512,752
+Netherlands,Den Haag,2022-03-31,223321,809
+Netherlands,Den Haag,2022-04-01,223946,625
+Netherlands,Den Haag,2022-04-02,224400,454
+Netherlands,Den Haag,2022-04-03,224714,314
+Netherlands,Den Haag,2022-04-04,225048,334
+Netherlands,Den Haag,2022-04-05,225456,408
+Netherlands,Den Haag,2022-04-06,225852,396
+Netherlands,Den Haag,2022-04-07,226267,415
+Netherlands,Den Haag,2022-04-08,226619,352
+Netherlands,Den Haag,2022-04-09,226929,310
+Netherlands,Den Haag,2022-04-10,227155,226
+Netherlands,Den Haag,2022-04-11,227357,202
+Netherlands,Den Haag,2022-04-12,227553,196
+Netherlands,Den Haag,2022-04-13,227719,166
+Netherlands,Den Haag,2022-04-14,227871,152
+Netherlands,Den Haag,2022-04-15,228020,149
+Netherlands,Den Haag,2022-04-16,228128,108
+Netherlands,Den Haag,2022-04-17,228210,82
+Netherlands,Den Haag,2022-04-18,228279,69
+Netherlands,Den Haag,2022-04-19,228380,101
+Netherlands,Den Haag,2022-04-20,228486,106
+Netherlands,Den Haag,2022-04-21,228575,89
+Netherlands,Den Haag,2022-04-22,228667,92
+Netherlands,Den Haag,2022-04-23,228745,78
+Netherlands,Den Haag,2022-04-24,228810,65
+Netherlands,Den Haag,2022-04-25,228863,53
+Netherlands,Den Haag,2022-04-26,228945,82
+Netherlands,Den Haag,2022-04-27,229004,59
+Netherlands,Den Haag,2022-04-28,229041,37
+Netherlands,Den Haag,2022-04-29,229092,51
+Netherlands,Den Haag,2022-04-30,229153,61
+Netherlands,Den Haag,2022-05-01,229185,32
+Netherlands,Den Haag,2022-05-02,229220,35
+Netherlands,Den Haag,2022-05-03,229282,62
+Netherlands,Den Haag,2022-05-04,229331,49
+Netherlands,Den Haag,2022-05-05,229385,54
+Netherlands,Den Haag,2022-05-06,229438,53
+Netherlands,Den Haag,2022-05-07,229498,60
+Netherlands,Den Haag,2022-05-08,229536,38
+Netherlands,Den Haag,2022-05-09,229592,56
+Netherlands,Den Haag,2022-05-10,229646,54
+Netherlands,Den Haag,2022-05-11,229695,49
+Netherlands,Den Haag,2022-05-12,229738,43
+Netherlands,Den Haag,2022-05-13,229777,39
+Netherlands,Den Haag,2022-05-14,229827,50
+Netherlands,Den Haag,2022-05-15,229860,33
+Netherlands,Den Haag,2022-05-16,229905,45
+Netherlands,Den Haag,2022-05-17,229946,41
+Netherlands,Den Haag,2022-05-18,229982,36
+Netherlands,Den Haag,2022-05-19,230023,41
+Netherlands,Den Haag,2022-05-20,230068,45
+Netherlands,Den Haag,2022-05-21,230108,40
+Netherlands,Den Haag,2022-05-22,230124,16
+Netherlands,Den Haag,2022-05-23,230143,19
+Netherlands,Den Haag,2022-05-24,230190,47
+Netherlands,Den Haag,2022-05-25,230228,38
+Netherlands,Den Haag,2022-05-26,230279,51
+Netherlands,Den Haag,2022-05-27,230312,33
+Netherlands,Den Haag,2022-05-28,230346,34
+Netherlands,Den Haag,2022-05-29,230399,53
+Netherlands,Den Haag,2022-05-30,230438,39
+Netherlands,Den Haag,2022-05-31,230492,54
+Netherlands,Den Haag,2022-06-01,230538,46
+Netherlands,Den Haag,2022-06-02,230600,62
+Netherlands,Den Haag,2022-06-03,230653,53
+Netherlands,Den Haag,2022-06-04,230709,56
+Netherlands,Den Haag,2022-06-05,230749,40
+Netherlands,Den Haag,2022-06-06,230787,38
+Netherlands,Den Haag,2022-06-07,230844,57
+Netherlands,Den Haag,2022-06-08,230905,61
+Netherlands,Den Haag,2022-06-09,231008,103
+Netherlands,Den Haag,2022-06-10,231079,71
+Netherlands,Den Haag,2022-06-11,231166,87
+Netherlands,Den Haag,2022-06-12,231237,71
+Netherlands,Den Haag,2022-06-13,231299,62
+Netherlands,Den Haag,2022-06-14,231411,112
+Netherlands,Den Haag,2022-06-15,231541,130
+Netherlands,Den Haag,2022-06-16,231653,112
+Netherlands,Den Haag,2022-06-17,231839,186
+Netherlands,Den Haag,2022-06-18,231858,19
+Netherlands,Den Haag,2022-06-19,232103,245
+Netherlands,Den Haag,2022-06-20,232186,83
+Netherlands,Den Haag,2022-06-21,232396,210
+Netherlands,Den Haag,2022-06-22,232534,138
+Netherlands,Den Haag,2022-06-23,232717,183
+Netherlands,Den Haag,2022-06-24,232897,180
+Netherlands,Den Haag,2022-06-25,233084,187
+Netherlands,Den Haag,2022-06-26,233215,131
+Netherlands,Den Haag,2022-06-27,233341,126
+Netherlands,Den Haag,2022-06-28,233500,159
+Netherlands,Den Haag,2022-06-29,233656,156
+Netherlands,Den Haag,2022-06-30,233837,181
+Netherlands,Den Haag,2022-07-01,234023,186
+Netherlands,Den Haag,2022-07-02,234188,165
+Netherlands,Den Haag,2022-07-03,234300,112
+Netherlands,Den Haag,2022-07-04,234453,153
+Netherlands,Den Haag,2022-07-05,234644,191
+Netherlands,Den Haag,2022-07-06,234813,169
+Netherlands,Den Haag,2022-07-07,235006,193
+Netherlands,Den Haag,2022-07-08,235215,209
+Netherlands,Den Haag,2022-07-09,235423,208
+Netherlands,Den Haag,2022-07-10,235596,173
+Netherlands,Den Haag,2022-07-11,235732,136
+Netherlands,Den Haag,2022-07-12,235968,236
+Netherlands,Den Haag,2022-07-13,236155,187
+Netherlands,Den Haag,2022-07-14,236328,173
+Netherlands,Den Haag,2022-07-15,236505,177
+Netherlands,Den Haag,2022-07-16,236650,145
+Netherlands,Den Haag,2022-07-17,236755,105
+Netherlands,Den Haag,2022-07-18,236854,99
+Netherlands,Den Haag,2022-07-19,236963,109
+Netherlands,Den Haag,2022-07-20,237051,88
+Netherlands,Den Haag,2022-07-21,237206,155
+Netherlands,Den Haag,2022-07-22,237331,125
+Netherlands,Den Haag,2022-07-23,237456,125
+Netherlands,Den Haag,2022-07-24,237515,59
+Netherlands,Den Haag,2022-07-25,237588,73
+Netherlands,Den Haag,2022-07-26,237671,83
+Netherlands,Den Haag,2022-07-27,237774,103
+Netherlands,Den Haag,2022-07-28,237852,78
+Netherlands,Den Haag,2022-07-29,237923,71
+Netherlands,Den Haag,2022-07-30,237990,67
+Netherlands,Den Haag,2022-07-31,238046,56
+Netherlands,Den Haag,2022-08-01,238134,88
+Netherlands,Den Haag,2022-08-02,238189,55
+Netherlands,Den Haag,2022-08-03,238278,89
+Netherlands,Den Haag,2022-08-04,238350,72
+Netherlands,Den Haag,2022-08-05,238437,87
+Netherlands,Den Haag,2022-08-06,238506,69
+Netherlands,Den Haag,2022-08-07,238557,51
+Netherlands,Den Haag,2022-08-08,238595,38
+Netherlands,Den Haag,2022-08-09,238633,38
+Netherlands,Den Haag,2022-08-10,238710,77
+Netherlands,Den Haag,2022-08-11,238771,61
+Netherlands,Den Haag,2022-08-12,238817,46
+Netherlands,Den Haag,2022-08-13,238851,34
+Netherlands,Den Haag,2022-08-14,238898,47
+Netherlands,Den Haag,2022-08-15,238933,35
+Netherlands,Den Haag,2022-08-16,238999,66
+Netherlands,Den Haag,2022-08-17,239050,51
+Netherlands,Den Haag,2022-08-18,239051,1
+Netherlands,Den Haag,2022-08-19,239126,75
+Netherlands,Den Haag,2022-08-20,239176,50
+Netherlands,Den Haag,2022-08-21,239200,24
+Netherlands,Den Haag,2022-08-22,239244,44
+Netherlands,Den Haag,2022-08-23,239285,41
+Netherlands,Den Haag,2022-08-24,239319,34
+Netherlands,Den Haag,2022-08-25,239358,39
+Netherlands,Den Haag,2022-08-26,239400,42
+Netherlands,Den Haag,2022-08-27,239431,31
+Netherlands,Den Haag,2022-08-28,239451,20
+Netherlands,Den Haag,2022-08-29,239472,21
+Netherlands,Den Haag,2022-08-30,239518,46
+Netherlands,Den Haag,2022-08-31,239551,33
+Netherlands,Den Haag,2022-09-01,239578,27
+Netherlands,Den Haag,2022-09-02,239610,32
+Netherlands,Den Haag,2022-09-03,239637,27
+Netherlands,Den Haag,2022-09-04,239656,19
+Netherlands,Den Haag,2022-09-05,239687,31
+Netherlands,Den Haag,2022-09-06,239730,43
+Netherlands,Den Haag,2022-09-07,239762,32
+Netherlands,Den Haag,2022-09-08,239807,45
+Netherlands,Den Haag,2022-09-09,239863,56
+Netherlands,Eindhoven,2020-03-02,NA,0
+Netherlands,Eindhoven,2020-03-03,1,0
+Netherlands,Eindhoven,2020-03-04,1,0
+Netherlands,Eindhoven,2020-03-05,3,2
+Netherlands,Eindhoven,2020-03-06,4,1
+Netherlands,Eindhoven,2020-03-07,4,0
+Netherlands,Eindhoven,2020-03-08,6,2
+Netherlands,Eindhoven,2020-03-09,7,1
+Netherlands,Eindhoven,2020-03-10,8,1
+Netherlands,Eindhoven,2020-03-11,8,0
+Netherlands,Eindhoven,2020-03-12,8,0
+Netherlands,Eindhoven,2020-03-13,12,4
+Netherlands,Eindhoven,2020-03-14,13,1
+Netherlands,Eindhoven,2020-03-15,21,8
+Netherlands,Eindhoven,2020-03-16,21,0
+Netherlands,Eindhoven,2020-03-17,22,1
+Netherlands,Eindhoven,2020-03-18,23,1
+Netherlands,Eindhoven,2020-03-19,24,1
+Netherlands,Eindhoven,2020-03-20,28,4
+Netherlands,Eindhoven,2020-03-21,35,7
+Netherlands,Eindhoven,2020-03-22,46,11
+Netherlands,Eindhoven,2020-03-23,55,9
+Netherlands,Eindhoven,2020-03-24,68,13
+Netherlands,Eindhoven,2020-03-25,80,12
+Netherlands,Eindhoven,2020-03-26,93,13
+Netherlands,Eindhoven,2020-03-27,113,20
+Netherlands,Eindhoven,2020-03-28,128,15
+Netherlands,Eindhoven,2020-03-29,139,11
+Netherlands,Eindhoven,2020-03-30,143,4
+Netherlands,Eindhoven,2020-03-31,NA,0
+Netherlands,Eindhoven,2020-04-01,NA,0
+Netherlands,Eindhoven,2020-04-02,NA,0
+Netherlands,Eindhoven,2020-04-03,NA,0
+Netherlands,Eindhoven,2020-04-04,NA,0
+Netherlands,Eindhoven,2020-04-05,NA,0
+Netherlands,Eindhoven,2020-04-06,NA,0
+Netherlands,Eindhoven,2020-04-07,NA,0
+Netherlands,Eindhoven,2020-04-08,253,0
+Netherlands,Eindhoven,2020-04-09,256,3
+Netherlands,Eindhoven,2020-04-10,273,17
+Netherlands,Eindhoven,2020-04-11,279,6
+Netherlands,Eindhoven,2020-04-12,294,15
+Netherlands,Eindhoven,2020-04-13,294,0
+Netherlands,Eindhoven,2020-04-14,308,14
+Netherlands,Eindhoven,2020-04-15,316,8
+Netherlands,Eindhoven,2020-04-16,327,11
+Netherlands,Eindhoven,2020-04-17,337,10
+Netherlands,Eindhoven,2020-04-18,353,16
+Netherlands,Eindhoven,2020-04-19,368,15
+Netherlands,Eindhoven,2020-04-20,370,2
+Netherlands,Eindhoven,2020-04-21,374,4
+Netherlands,Eindhoven,2020-04-22,385,11
+Netherlands,Eindhoven,2020-04-23,390,5
+Netherlands,Eindhoven,2020-04-24,402,12
+Netherlands,Eindhoven,2020-04-25,406,4
+Netherlands,Eindhoven,2020-04-26,414,8
+Netherlands,Eindhoven,2020-04-27,416,2
+Netherlands,Eindhoven,2020-04-28,422,6
+Netherlands,Eindhoven,2020-04-29,423,1
+Netherlands,Eindhoven,2020-04-30,428,5
+Netherlands,Eindhoven,2020-05-01,434,6
+Netherlands,Eindhoven,2020-05-02,442,8
+Netherlands,Eindhoven,2020-05-03,451,9
+Netherlands,Eindhoven,2020-05-04,452,1
+Netherlands,Eindhoven,2020-05-05,452,0
+Netherlands,Eindhoven,2020-05-06,452,0
+Netherlands,Eindhoven,2020-05-07,457,5
+Netherlands,Eindhoven,2020-05-08,459,2
+Netherlands,Eindhoven,2020-05-09,462,3
+Netherlands,Eindhoven,2020-05-10,463,1
+Netherlands,Eindhoven,2020-05-11,464,1
+Netherlands,Eindhoven,2020-05-12,471,7
+Netherlands,Eindhoven,2020-05-13,474,3
+Netherlands,Eindhoven,2020-05-14,481,7
+Netherlands,Eindhoven,2020-05-15,482,1
+Netherlands,Eindhoven,2020-05-16,484,2
+Netherlands,Eindhoven,2020-05-17,485,1
+Netherlands,Eindhoven,2020-05-18,485,0
+Netherlands,Eindhoven,2020-05-19,486,1
+Netherlands,Eindhoven,2020-05-20,488,2
+Netherlands,Eindhoven,2020-05-21,488,0
+Netherlands,Eindhoven,2020-05-22,488,0
+Netherlands,Eindhoven,2020-05-23,490,2
+Netherlands,Eindhoven,2020-05-24,492,2
+Netherlands,Eindhoven,2020-05-25,494,2
+Netherlands,Eindhoven,2020-05-26,496,2
+Netherlands,Eindhoven,2020-05-27,496,0
+Netherlands,Eindhoven,2020-05-28,501,5
+Netherlands,Eindhoven,2020-05-29,502,1
+Netherlands,Eindhoven,2020-05-30,503,1
+Netherlands,Eindhoven,2020-05-31,504,1
+Netherlands,Eindhoven,2020-06-01,504,0
+Netherlands,Eindhoven,2020-06-02,506,2
+Netherlands,Eindhoven,2020-06-03,509,3
+Netherlands,Eindhoven,2020-06-04,510,1
+Netherlands,Eindhoven,2020-06-05,512,2
+Netherlands,Eindhoven,2020-06-06,512,0
+Netherlands,Eindhoven,2020-06-07,513,1
+Netherlands,Eindhoven,2020-06-08,515,2
+Netherlands,Eindhoven,2020-06-09,516,1
+Netherlands,Eindhoven,2020-06-10,518,2
+Netherlands,Eindhoven,2020-06-11,521,3
+Netherlands,Eindhoven,2020-06-12,524,3
+Netherlands,Eindhoven,2020-06-13,524,0
+Netherlands,Eindhoven,2020-06-14,525,1
+Netherlands,Eindhoven,2020-06-15,527,2
+Netherlands,Eindhoven,2020-06-16,528,1
+Netherlands,Eindhoven,2020-06-17,529,1
+Netherlands,Eindhoven,2020-06-18,529,0
+Netherlands,Eindhoven,2020-06-19,533,4
+Netherlands,Eindhoven,2020-06-20,533,0
+Netherlands,Eindhoven,2020-06-21,533,0
+Netherlands,Eindhoven,2020-06-22,533,0
+Netherlands,Eindhoven,2020-06-23,536,3
+Netherlands,Eindhoven,2020-06-24,536,0
+Netherlands,Eindhoven,2020-06-25,536,0
+Netherlands,Eindhoven,2020-06-26,537,1
+Netherlands,Eindhoven,2020-06-27,537,0
+Netherlands,Eindhoven,2020-06-28,537,0
+Netherlands,Eindhoven,2020-06-29,538,1
+Netherlands,Eindhoven,2020-06-30,538,0
+Netherlands,Eindhoven,2020-07-01,538,0
+Netherlands,Eindhoven,2020-07-02,539,1
+Netherlands,Eindhoven,2020-07-03,540,1
+Netherlands,Eindhoven,2020-07-04,540,0
+Netherlands,Eindhoven,2020-07-05,542,2
+Netherlands,Eindhoven,2020-07-06,543,1
+Netherlands,Eindhoven,2020-07-07,545,2
+Netherlands,Eindhoven,2020-07-08,545,0
+Netherlands,Eindhoven,2020-07-09,546,1
+Netherlands,Eindhoven,2020-07-10,548,2
+Netherlands,Eindhoven,2020-07-11,548,0
+Netherlands,Eindhoven,2020-07-12,548,0
+Netherlands,Eindhoven,2020-07-13,548,0
+Netherlands,Eindhoven,2020-07-14,549,1
+Netherlands,Eindhoven,2020-07-15,549,0
+Netherlands,Eindhoven,2020-07-16,553,4
+Netherlands,Eindhoven,2020-07-17,555,2
+Netherlands,Eindhoven,2020-07-18,555,0
+Netherlands,Eindhoven,2020-07-19,557,2
+Netherlands,Eindhoven,2020-07-20,561,4
+Netherlands,Eindhoven,2020-07-21,562,1
+Netherlands,Eindhoven,2020-07-22,562,0
+Netherlands,Eindhoven,2020-07-23,561,0
+Netherlands,Eindhoven,2020-07-24,564,3
+Netherlands,Eindhoven,2020-07-25,565,1
+Netherlands,Eindhoven,2020-07-26,566,1
+Netherlands,Eindhoven,2020-07-27,566,0
+Netherlands,Eindhoven,2020-07-28,568,2
+Netherlands,Eindhoven,2020-07-29,570,2
+Netherlands,Eindhoven,2020-07-30,573,3
+Netherlands,Eindhoven,2020-07-31,578,5
+Netherlands,Eindhoven,2020-08-01,580,2
+Netherlands,Eindhoven,2020-08-02,590,10
+Netherlands,Eindhoven,2020-08-03,593,3
+Netherlands,Eindhoven,2020-08-04,599,6
+Netherlands,Eindhoven,2020-08-05,602,3
+Netherlands,Eindhoven,2020-08-06,604,2
+Netherlands,Eindhoven,2020-08-07,609,5
+Netherlands,Eindhoven,2020-08-08,612,3
+Netherlands,Eindhoven,2020-08-09,614,2
+Netherlands,Eindhoven,2020-08-10,622,8
+Netherlands,Eindhoven,2020-08-11,625,3
+Netherlands,Eindhoven,2020-08-12,629,4
+Netherlands,Eindhoven,2020-08-13,629,0
+Netherlands,Eindhoven,2020-08-14,634,5
+Netherlands,Eindhoven,2020-08-15,644,10
+Netherlands,Eindhoven,2020-08-16,647,3
+Netherlands,Eindhoven,2020-08-17,650,3
+Netherlands,Eindhoven,2020-08-18,657,7
+Netherlands,Eindhoven,2020-08-19,660,3
+Netherlands,Eindhoven,2020-08-20,662,2
+Netherlands,Eindhoven,2020-08-21,668,6
+Netherlands,Eindhoven,2020-08-22,672,4
+Netherlands,Eindhoven,2020-08-23,679,7
+Netherlands,Eindhoven,2020-08-24,687,8
+Netherlands,Eindhoven,2020-08-25,690,3
+Netherlands,Eindhoven,2020-08-26,700,10
+Netherlands,Eindhoven,2020-08-27,713,13
+Netherlands,Eindhoven,2020-08-28,729,16
+Netherlands,Eindhoven,2020-08-29,741,12
+Netherlands,Eindhoven,2020-08-30,744,3
+Netherlands,Eindhoven,2020-08-31,749,5
+Netherlands,Eindhoven,2020-09-01,755,6
+Netherlands,Eindhoven,2020-09-02,766,11
+Netherlands,Eindhoven,2020-09-03,771,5
+Netherlands,Eindhoven,2020-09-04,778,7
+Netherlands,Eindhoven,2020-09-05,781,3
+Netherlands,Eindhoven,2020-09-06,793,12
+Netherlands,Eindhoven,2020-09-07,810,17
+Netherlands,Eindhoven,2020-09-08,821,11
+Netherlands,Eindhoven,2020-09-09,836,15
+Netherlands,Eindhoven,2020-09-10,842,6
+Netherlands,Eindhoven,2020-09-11,860,18
+Netherlands,Eindhoven,2020-09-12,866,6
+Netherlands,Eindhoven,2020-09-13,882,16
+Netherlands,Eindhoven,2020-09-14,902,20
+Netherlands,Eindhoven,2020-09-15,919,17
+Netherlands,Eindhoven,2020-09-16,935,16
+Netherlands,Eindhoven,2020-09-17,960,25
+Netherlands,Eindhoven,2020-09-18,985,25
+Netherlands,Eindhoven,2020-09-19,1003,18
+Netherlands,Eindhoven,2020-09-20,1021,18
+Netherlands,Eindhoven,2020-09-21,1057,36
+Netherlands,Eindhoven,2020-09-22,1093,36
+Netherlands,Eindhoven,2020-09-23,1130,37
+Netherlands,Eindhoven,2020-09-24,1172,42
+Netherlands,Eindhoven,2020-09-25,1186,14
+Netherlands,Eindhoven,2020-09-26,1204,18
+Netherlands,Eindhoven,2020-09-27,1254,50
+Netherlands,Eindhoven,2020-09-28,1290,36
+Netherlands,Eindhoven,2020-09-29,1341,51
+Netherlands,Eindhoven,2020-09-30,1363,22
+Netherlands,Eindhoven,2020-10-01,1392,29
+Netherlands,Eindhoven,2020-10-02,1447,55
+Netherlands,Eindhoven,2020-10-03,1488,41
+Netherlands,Eindhoven,2020-10-04,1520,32
+Netherlands,Eindhoven,2020-10-05,1579,59
+Netherlands,Eindhoven,2020-10-06,1662,83
+Netherlands,Eindhoven,2020-10-07,1739,77
+Netherlands,Eindhoven,2020-10-08,1812,73
+Netherlands,Eindhoven,2020-10-09,1878,66
+Netherlands,Eindhoven,2020-10-10,1965,87
+Netherlands,Eindhoven,2020-10-11,2039,74
+Netherlands,Eindhoven,2020-10-12,2079,40
+Netherlands,Eindhoven,2020-10-13,2198,119
+Netherlands,Eindhoven,2020-10-14,2298,100
+Netherlands,Eindhoven,2020-10-15,2394,96
+Netherlands,Eindhoven,2020-10-16,2480,86
+Netherlands,Eindhoven,2020-10-17,2574,94
+Netherlands,Eindhoven,2020-10-18,2663,89
+Netherlands,Eindhoven,2020-10-19,2767,104
+Netherlands,Eindhoven,2020-10-20,2865,98
+Netherlands,Eindhoven,2020-10-21,2983,118
+Netherlands,Eindhoven,2020-10-22,3094,111
+Netherlands,Eindhoven,2020-10-23,3230,136
+Netherlands,Eindhoven,2020-10-24,3324,94
+Netherlands,Eindhoven,2020-10-25,3425,101
+Netherlands,Eindhoven,2020-10-26,3594,169
+Netherlands,Eindhoven,2020-10-27,3671,77
+Netherlands,Eindhoven,2020-10-28,3763,92
+Netherlands,Eindhoven,2020-10-29,3943,180
+Netherlands,Eindhoven,2020-10-30,4038,95
+Netherlands,Eindhoven,2020-10-31,4177,139
+Netherlands,Eindhoven,2020-11-01,4304,127
+Netherlands,Eindhoven,2020-11-02,4379,75
+Netherlands,Eindhoven,2020-11-03,4473,94
+Netherlands,Eindhoven,2020-11-04,4585,112
+Netherlands,Eindhoven,2020-11-05,4700,115
+Netherlands,Eindhoven,2020-11-06,4793,93
+Netherlands,Eindhoven,2020-11-07,4835,42
+Netherlands,Eindhoven,2020-11-08,4933,98
+Netherlands,Eindhoven,2020-11-09,4984,51
+Netherlands,Eindhoven,2020-11-10,5049,65
+Netherlands,Eindhoven,2020-11-11,5144,95
+Netherlands,Eindhoven,2020-11-12,5213,69
+Netherlands,Eindhoven,2020-11-13,5322,109
+Netherlands,Eindhoven,2020-11-14,5400,78
+Netherlands,Eindhoven,2020-11-15,5472,72
+Netherlands,Eindhoven,2020-11-16,5572,100
+Netherlands,Eindhoven,2020-11-17,5648,76
+Netherlands,Eindhoven,2020-11-18,5680,32
+Netherlands,Eindhoven,2020-11-19,5754,74
+Netherlands,Eindhoven,2020-11-20,5825,71
+Netherlands,Eindhoven,2020-11-21,5905,80
+Netherlands,Eindhoven,2020-11-22,5983,78
+Netherlands,Eindhoven,2020-11-23,6054,71
+Netherlands,Eindhoven,2020-11-24,6116,62
+Netherlands,Eindhoven,2020-11-25,6198,82
+Netherlands,Eindhoven,2020-11-26,6261,63
+Netherlands,Eindhoven,2020-11-27,6369,108
+Netherlands,Eindhoven,2020-11-28,6410,41
+Netherlands,Eindhoven,2020-11-29,6511,101
+Netherlands,Eindhoven,2020-11-30,6552,41
+Netherlands,Eindhoven,2020-12-01,6609,57
+Netherlands,Eindhoven,2020-12-02,6654,45
+Netherlands,Eindhoven,2020-12-03,6733,79
+Netherlands,Eindhoven,2020-12-04,6811,78
+Netherlands,Eindhoven,2020-12-05,6887,76
+Netherlands,Eindhoven,2020-12-06,6967,80
+Netherlands,Eindhoven,2020-12-07,7042,75
+Netherlands,Eindhoven,2020-12-08,7126,84
+Netherlands,Eindhoven,2020-12-09,7203,77
+Netherlands,Eindhoven,2020-12-10,7323,120
+Netherlands,Eindhoven,2020-12-11,7460,137
+Netherlands,Eindhoven,2020-12-12,7561,101
+Netherlands,Eindhoven,2020-12-13,7713,152
+Netherlands,Eindhoven,2020-12-14,7806,93
+Netherlands,Eindhoven,2020-12-15,7833,27
+Netherlands,Eindhoven,2020-12-16,7984,151
+Netherlands,Eindhoven,2020-12-17,8123,139
+Netherlands,Eindhoven,2020-12-18,8239,116
+Netherlands,Eindhoven,2020-12-19,8370,131
+Netherlands,Eindhoven,2020-12-20,8501,131
+Netherlands,Eindhoven,2020-12-21,8597,96
+Netherlands,Eindhoven,2020-12-22,8746,149
+Netherlands,Eindhoven,2020-12-23,8847,101
+Netherlands,Eindhoven,2020-12-24,8981,134
+Netherlands,Eindhoven,2020-12-25,9098,117
+Netherlands,Eindhoven,2020-12-26,9201,103
+Netherlands,Eindhoven,2020-12-27,9304,103
+Netherlands,Eindhoven,2020-12-28,9369,65
+Netherlands,Eindhoven,2020-12-29,9447,78
+Netherlands,Eindhoven,2020-12-30,9545,98
+Netherlands,Eindhoven,2020-12-31,9649,104
+Netherlands,Eindhoven,2021-01-01,9742,93
+Netherlands,Eindhoven,2021-01-02,9820,78
+Netherlands,Eindhoven,2021-01-03,9907,87
+Netherlands,Eindhoven,2021-01-04,9979,72
+Netherlands,Eindhoven,2021-01-05,10056,77
+Netherlands,Eindhoven,2021-01-06,10153,97
+Netherlands,Eindhoven,2021-01-07,10268,115
+Netherlands,Eindhoven,2021-01-08,10377,109
+Netherlands,Eindhoven,2021-01-09,10457,80
+Netherlands,Eindhoven,2021-01-10,10524,67
+Netherlands,Eindhoven,2021-01-11,10601,77
+Netherlands,Eindhoven,2021-01-12,10677,76
+Netherlands,Eindhoven,2021-01-13,10756,79
+Netherlands,Eindhoven,2021-01-14,10838,82
+Netherlands,Eindhoven,2021-01-15,10939,101
+Netherlands,Eindhoven,2021-01-16,11028,89
+Netherlands,Eindhoven,2021-01-17,11085,57
+Netherlands,Eindhoven,2021-01-18,11162,77
+Netherlands,Eindhoven,2021-01-19,11234,72
+Netherlands,Eindhoven,2021-01-20,11332,98
+Netherlands,Eindhoven,2021-01-21,11437,105
+Netherlands,Eindhoven,2021-01-22,11532,95
+Netherlands,Eindhoven,2021-01-23,11646,114
+Netherlands,Eindhoven,2021-01-24,11719,73
+Netherlands,Eindhoven,2021-01-25,11787,68
+Netherlands,Eindhoven,2021-01-26,11863,76
+Netherlands,Eindhoven,2021-01-27,11959,96
+Netherlands,Eindhoven,2021-01-28,12061,102
+Netherlands,Eindhoven,2021-01-29,12140,79
+Netherlands,Eindhoven,2021-01-30,12225,85
+Netherlands,Eindhoven,2021-01-31,12296,71
+Netherlands,Eindhoven,2021-02-01,12366,70
+Netherlands,Eindhoven,2021-02-02,12415,49
+Netherlands,Eindhoven,2021-02-03,12492,77
+Netherlands,Eindhoven,2021-02-04,12587,95
+Netherlands,Eindhoven,2021-02-05,12653,66
+Netherlands,Eindhoven,2021-02-06,12756,103
+Netherlands,Eindhoven,2021-02-07,12808,52
+Netherlands,Eindhoven,2021-02-08,12831,23
+Netherlands,Eindhoven,2021-02-09,12878,47
+Netherlands,Eindhoven,2021-02-10,12946,68
+Netherlands,Eindhoven,2021-02-11,12998,52
+Netherlands,Eindhoven,2021-02-12,13061,63
+Netherlands,Eindhoven,2021-02-13,13128,67
+Netherlands,Eindhoven,2021-02-14,13208,80
+Netherlands,Eindhoven,2021-02-15,13232,24
+Netherlands,Eindhoven,2021-02-16,13297,65
+Netherlands,Eindhoven,2021-02-17,13338,41
+Netherlands,Eindhoven,2021-02-18,13401,63
+Netherlands,Eindhoven,2021-02-19,13470,69
+Netherlands,Eindhoven,2021-02-20,13563,93
+Netherlands,Eindhoven,2021-02-21,13642,79
+Netherlands,Eindhoven,2021-02-22,13704,62
+Netherlands,Eindhoven,2021-02-23,13771,67
+Netherlands,Eindhoven,2021-02-24,13834,63
+Netherlands,Eindhoven,2021-02-25,13922,88
+Netherlands,Eindhoven,2021-02-26,13990,68
+Netherlands,Eindhoven,2021-02-27,14044,54
+Netherlands,Eindhoven,2021-02-28,14109,65
+Netherlands,Eindhoven,2021-03-01,14144,35
+Netherlands,Eindhoven,2021-03-02,14192,48
+Netherlands,Eindhoven,2021-03-03,14260,68
+Netherlands,Eindhoven,2021-03-04,14310,50
+Netherlands,Eindhoven,2021-03-05,14368,58
+Netherlands,Eindhoven,2021-03-06,14467,99
+Netherlands,Eindhoven,2021-03-07,14543,76
+Netherlands,Eindhoven,2021-03-08,14583,40
+Netherlands,Eindhoven,2021-03-09,14641,58
+Netherlands,Eindhoven,2021-03-10,14704,63
+Netherlands,Eindhoven,2021-03-11,14784,80
+Netherlands,Eindhoven,2021-03-12,14855,71
+Netherlands,Eindhoven,2021-03-13,14932,77
+Netherlands,Eindhoven,2021-03-14,15001,69
+Netherlands,Eindhoven,2021-03-15,15057,56
+Netherlands,Eindhoven,2021-03-16,15133,76
+Netherlands,Eindhoven,2021-03-17,15209,76
+Netherlands,Eindhoven,2021-03-18,15298,89
+Netherlands,Eindhoven,2021-03-19,15358,60
+Netherlands,Eindhoven,2021-03-20,15515,157
+Netherlands,Eindhoven,2021-03-21,15632,117
+Netherlands,Eindhoven,2021-03-22,15717,85
+Netherlands,Eindhoven,2021-03-23,15781,64
+Netherlands,Eindhoven,2021-03-24,15891,110
+Netherlands,Eindhoven,2021-03-25,16011,120
+Netherlands,Eindhoven,2021-03-26,16110,99
+Netherlands,Eindhoven,2021-03-27,16236,126
+Netherlands,Eindhoven,2021-03-28,16362,126
+Netherlands,Eindhoven,2021-03-29,16441,79
+Netherlands,Eindhoven,2021-03-30,16541,100
+Netherlands,Eindhoven,2021-03-31,16642,101
+Netherlands,Eindhoven,2021-04-01,16770,128
+Netherlands,Eindhoven,2021-04-02,16871,101
+Netherlands,Eindhoven,2021-04-03,16965,94
+Netherlands,Eindhoven,2021-04-04,17081,116
+Netherlands,Eindhoven,2021-04-05,17147,66
+Netherlands,Eindhoven,2021-04-06,17218,71
+Netherlands,Eindhoven,2021-04-07,17308,90
+Netherlands,Eindhoven,2021-04-08,17395,87
+Netherlands,Eindhoven,2021-04-09,17556,161
+Netherlands,Eindhoven,2021-04-10,17674,118
+Netherlands,Eindhoven,2021-04-11,17791,117
+Netherlands,Eindhoven,2021-04-12,17873,82
+Netherlands,Eindhoven,2021-04-13,17991,118
+Netherlands,Eindhoven,2021-04-14,18096,105
+Netherlands,Eindhoven,2021-04-15,18231,135
+Netherlands,Eindhoven,2021-04-16,18395,164
+Netherlands,Eindhoven,2021-04-17,18500,105
+Netherlands,Eindhoven,2021-04-18,18664,164
+Netherlands,Eindhoven,2021-04-19,18744,80
+Netherlands,Eindhoven,2021-04-20,18840,96
+Netherlands,Eindhoven,2021-04-21,18984,144
+Netherlands,Eindhoven,2021-04-22,19127,143
+Netherlands,Eindhoven,2021-04-23,19266,139
+Netherlands,Eindhoven,2021-04-24,19382,116
+Netherlands,Eindhoven,2021-04-25,19576,194
+Netherlands,Eindhoven,2021-04-26,19625,49
+Netherlands,Eindhoven,2021-04-27,19739,114
+Netherlands,Eindhoven,2021-04-28,19879,140
+Netherlands,Eindhoven,2021-04-29,20015,136
+Netherlands,Eindhoven,2021-04-30,20106,91
+Netherlands,Eindhoven,2021-05-01,20215,109
+Netherlands,Eindhoven,2021-05-02,20316,101
+Netherlands,Eindhoven,2021-05-03,20468,152
+Netherlands,Eindhoven,2021-05-04,20566,98
+Netherlands,Eindhoven,2021-05-05,20681,115
+Netherlands,Eindhoven,2021-05-06,20769,88
+Netherlands,Eindhoven,2021-05-07,20885,116
+Netherlands,Eindhoven,2021-05-08,20979,94
+Netherlands,Eindhoven,2021-05-09,21111,132
+Netherlands,Eindhoven,2021-05-10,21166,55
+Netherlands,Eindhoven,2021-05-11,21233,67
+Netherlands,Eindhoven,2021-05-12,21338,105
+Netherlands,Eindhoven,2021-05-13,21404,66
+Netherlands,Eindhoven,2021-05-14,21498,94
+Netherlands,Eindhoven,2021-05-15,21596,98
+Netherlands,Eindhoven,2021-05-16,21673,77
+Netherlands,Eindhoven,2021-05-17,21723,50
+Netherlands,Eindhoven,2021-05-18,21835,112
+Netherlands,Eindhoven,2021-05-19,21889,54
+Netherlands,Eindhoven,2021-05-20,21970,81
+Netherlands,Eindhoven,2021-05-21,22015,45
+Netherlands,Eindhoven,2021-05-22,22073,58
+Netherlands,Eindhoven,2021-05-23,22136,63
+Netherlands,Eindhoven,2021-05-24,22179,43
+Netherlands,Eindhoven,2021-05-25,22218,39
+Netherlands,Eindhoven,2021-05-26,22252,34
+Netherlands,Eindhoven,2021-05-27,22301,49
+Netherlands,Eindhoven,2021-05-28,22348,47
+Netherlands,Eindhoven,2021-05-29,22408,60
+Netherlands,Eindhoven,2021-05-30,22463,55
+Netherlands,Eindhoven,2021-05-31,22482,19
+Netherlands,Eindhoven,2021-06-01,22521,39
+Netherlands,Eindhoven,2021-06-02,22563,42
+Netherlands,Eindhoven,2021-06-03,22615,52
+Netherlands,Eindhoven,2021-06-04,22651,36
+Netherlands,Eindhoven,2021-06-05,22699,48
+Netherlands,Eindhoven,2021-06-06,22721,22
+Netherlands,Eindhoven,2021-06-07,22746,25
+Netherlands,Eindhoven,2021-06-08,22780,34
+Netherlands,Eindhoven,2021-06-09,22804,24
+Netherlands,Eindhoven,2021-06-10,22816,12
+Netherlands,Eindhoven,2021-06-11,22831,15
+Netherlands,Eindhoven,2021-06-12,22845,14
+Netherlands,Eindhoven,2021-06-13,22859,14
+Netherlands,Eindhoven,2021-06-14,22875,16
+Netherlands,Eindhoven,2021-06-15,22895,20
+Netherlands,Eindhoven,2021-06-16,22905,10
+Netherlands,Eindhoven,2021-06-17,22910,5
+Netherlands,Eindhoven,2021-06-18,22919,9
+Netherlands,Eindhoven,2021-06-19,22929,10
+Netherlands,Eindhoven,2021-06-20,22944,15
+Netherlands,Eindhoven,2021-06-21,22948,4
+Netherlands,Eindhoven,2021-06-22,22955,7
+Netherlands,Eindhoven,2021-06-23,22968,13
+Netherlands,Eindhoven,2021-06-24,22977,9
+Netherlands,Eindhoven,2021-06-25,22984,7
+Netherlands,Eindhoven,2021-06-26,22990,6
+Netherlands,Eindhoven,2021-06-27,22997,7
+Netherlands,Eindhoven,2021-06-28,23000,3
+Netherlands,Eindhoven,2021-06-29,23006,6
+Netherlands,Eindhoven,2021-06-30,23016,10
+Netherlands,Eindhoven,2021-07-01,23032,16
+Netherlands,Eindhoven,2021-07-02,23047,15
+Netherlands,Eindhoven,2021-07-03,23067,20
+Netherlands,Eindhoven,2021-07-04,23082,15
+Netherlands,Eindhoven,2021-07-05,23112,30
+Netherlands,Eindhoven,2021-07-06,23189,77
+Netherlands,Eindhoven,2021-07-07,23259,70
+Netherlands,Eindhoven,2021-07-08,23394,135
+Netherlands,Eindhoven,2021-07-09,23500,106
+Netherlands,Eindhoven,2021-07-10,23650,150
+Netherlands,Eindhoven,2021-07-11,23795,145
+Netherlands,Eindhoven,2021-07-12,23845,50
+Netherlands,Eindhoven,2021-07-13,23936,91
+Netherlands,Eindhoven,2021-07-14,24104,168
+Netherlands,Eindhoven,2021-07-15,24271,167
+Netherlands,Eindhoven,2021-07-16,24490,219
+Netherlands,Eindhoven,2021-07-17,24689,199
+Netherlands,Eindhoven,2021-07-18,24834,145
+Netherlands,Eindhoven,2021-07-19,24914,80
+Netherlands,Eindhoven,2021-07-20,24997,83
+Netherlands,Eindhoven,2021-07-21,25105,108
+Netherlands,Eindhoven,2021-07-22,25166,61
+Netherlands,Eindhoven,2021-07-23,25297,131
+Netherlands,Eindhoven,2021-07-24,25373,76
+Netherlands,Eindhoven,2021-07-25,25448,75
+Netherlands,Eindhoven,2021-07-26,25480,32
+Netherlands,Eindhoven,2021-07-27,25523,43
+Netherlands,Eindhoven,2021-07-28,25564,41
+Netherlands,Eindhoven,2021-07-29,25655,91
+Netherlands,Eindhoven,2021-07-30,25688,33
+Netherlands,Eindhoven,2021-07-31,25719,31
+Netherlands,Eindhoven,2021-08-01,25760,41
+Netherlands,Eindhoven,2021-08-02,25778,18
+Netherlands,Eindhoven,2021-08-03,25804,26
+Netherlands,Eindhoven,2021-08-04,25845,41
+Netherlands,Eindhoven,2021-08-05,25881,36
+Netherlands,Eindhoven,2021-08-06,25911,30
+Netherlands,Eindhoven,2021-08-07,25941,30
+Netherlands,Eindhoven,2021-08-08,25959,18
+Netherlands,Eindhoven,2021-08-09,25990,31
+Netherlands,Eindhoven,2021-08-10,26020,30
+Netherlands,Eindhoven,2021-08-11,26044,24
+Netherlands,Eindhoven,2021-08-12,26077,33
+Netherlands,Eindhoven,2021-08-13,26113,36
+Netherlands,Eindhoven,2021-08-14,26132,19
+Netherlands,Eindhoven,2021-08-15,26168,36
+Netherlands,Eindhoven,2021-08-16,26184,16
+Netherlands,Eindhoven,2021-08-17,26214,30
+Netherlands,Eindhoven,2021-08-18,26242,28
+Netherlands,Eindhoven,2021-08-19,26274,32
+Netherlands,Eindhoven,2021-08-20,26284,10
+Netherlands,Eindhoven,2021-08-21,26316,32
+Netherlands,Eindhoven,2021-08-22,26350,34
+Netherlands,Eindhoven,2021-08-23,26371,21
+Netherlands,Eindhoven,2021-08-24,26395,24
+Netherlands,Eindhoven,2021-08-25,26433,38
+Netherlands,Eindhoven,2021-08-26,26472,39
+Netherlands,Eindhoven,2021-08-27,26502,30
+Netherlands,Eindhoven,2021-08-28,26528,26
+Netherlands,Eindhoven,2021-08-29,26548,20
+Netherlands,Eindhoven,2021-08-30,26565,17
+Netherlands,Eindhoven,2021-08-31,26585,20
+Netherlands,Eindhoven,2021-09-01,26606,21
+Netherlands,Eindhoven,2021-09-02,26622,16
+Netherlands,Eindhoven,2021-09-03,26667,45
+Netherlands,Eindhoven,2021-09-04,26720,53
+Netherlands,Eindhoven,2021-09-05,26745,25
+Netherlands,Eindhoven,2021-09-06,26774,29
+Netherlands,Eindhoven,2021-09-07,26809,35
+Netherlands,Eindhoven,2021-09-08,26850,41
+Netherlands,Eindhoven,2021-09-09,26874,24
+Netherlands,Eindhoven,2021-09-10,26906,32
+Netherlands,Eindhoven,2021-09-11,26920,14
+Netherlands,Eindhoven,2021-09-12,26952,32
+Netherlands,Eindhoven,2021-09-13,26988,36
+Netherlands,Eindhoven,2021-09-14,27014,26
+Netherlands,Eindhoven,2021-09-15,27039,25
+Netherlands,Eindhoven,2021-09-16,27064,25
+Netherlands,Eindhoven,2021-09-17,27080,16
+Netherlands,Eindhoven,2021-09-18,27094,14
+Netherlands,Eindhoven,2021-09-19,27117,23
+Netherlands,Eindhoven,2021-09-20,27132,15
+Netherlands,Eindhoven,2021-09-21,27141,9
+Netherlands,Eindhoven,2021-09-22,27154,13
+Netherlands,Eindhoven,2021-09-23,27177,23
+Netherlands,Eindhoven,2021-09-24,27195,18
+Netherlands,Eindhoven,2021-09-25,27199,4
+Netherlands,Eindhoven,2021-09-26,27223,24
+Netherlands,Eindhoven,2021-09-27,27238,15
+Netherlands,Eindhoven,2021-09-28,27265,27
+Netherlands,Eindhoven,2021-09-29,27280,15
+Netherlands,Eindhoven,2021-09-30,27300,20
+Netherlands,Eindhoven,2021-10-01,27305,5
+Netherlands,Eindhoven,2021-10-02,27328,23
+Netherlands,Eindhoven,2021-10-03,27345,17
+Netherlands,Eindhoven,2021-10-04,27363,18
+Netherlands,Eindhoven,2021-10-05,27392,29
+Netherlands,Eindhoven,2021-10-06,27424,32
+Netherlands,Eindhoven,2021-10-07,27447,23
+Netherlands,Eindhoven,2021-10-08,27477,30
+Netherlands,Eindhoven,2021-10-09,27513,36
+Netherlands,Eindhoven,2021-10-10,27535,22
+Netherlands,Eindhoven,2021-10-11,27555,20
+Netherlands,Eindhoven,2021-10-12,27578,23
+Netherlands,Eindhoven,2021-10-13,27599,21
+Netherlands,Eindhoven,2021-10-14,27626,27
+Netherlands,Eindhoven,2021-10-15,27640,14
+Netherlands,Eindhoven,2021-10-16,27666,26
+Netherlands,Eindhoven,2021-10-17,27701,35
+Netherlands,Eindhoven,2021-10-18,27725,24
+Netherlands,Eindhoven,2021-10-19,27751,26
+Netherlands,Eindhoven,2021-10-20,27787,36
+Netherlands,Eindhoven,2021-10-21,27839,52
+Netherlands,Eindhoven,2021-10-22,27854,15
+Netherlands,Eindhoven,2021-10-23,27918,64
+Netherlands,Eindhoven,2021-10-24,27955,37
+Netherlands,Eindhoven,2021-10-25,28026,71
+Netherlands,Eindhoven,2021-10-26,28063,37
+Netherlands,Eindhoven,2021-10-27,28136,73
+Netherlands,Eindhoven,2021-10-28,28217,81
+Netherlands,Eindhoven,2021-10-29,28290,73
+Netherlands,Eindhoven,2021-10-30,28329,39
+Netherlands,Eindhoven,2021-10-31,28426,97
+Netherlands,Eindhoven,2021-11-01,28518,92
+Netherlands,Eindhoven,2021-11-02,28617,99
+Netherlands,Eindhoven,2021-11-03,28718,101
+Netherlands,Eindhoven,2021-11-04,28838,120
+Netherlands,Eindhoven,2021-11-05,28929,91
+Netherlands,Eindhoven,2021-11-06,29101,172
+Netherlands,Eindhoven,2021-11-07,29176,75
+Netherlands,Eindhoven,2021-11-08,29281,105
+Netherlands,Eindhoven,2021-11-09,29415,134
+Netherlands,Eindhoven,2021-11-10,29547,132
+Netherlands,Eindhoven,2021-11-11,29705,158
+Netherlands,Eindhoven,2021-11-12,29897,192
+Netherlands,Eindhoven,2021-11-13,29988,91
+Netherlands,Eindhoven,2021-11-14,30210,222
+Netherlands,Eindhoven,2021-11-15,30409,199
+Netherlands,Eindhoven,2021-11-16,30648,239
+Netherlands,Eindhoven,2021-11-17,30938,290
+Netherlands,Eindhoven,2021-11-18,31240,302
+Netherlands,Eindhoven,2021-11-19,31502,262
+Netherlands,Eindhoven,2021-11-20,31783,281
+Netherlands,Eindhoven,2021-11-21,31995,212
+Netherlands,Eindhoven,2021-11-22,32297,302
+Netherlands,Eindhoven,2021-11-23,32529,232
+Netherlands,Eindhoven,2021-11-24,32849,320
+Netherlands,Eindhoven,2021-11-25,33054,205
+Netherlands,Eindhoven,2021-11-26,33293,239
+Netherlands,Eindhoven,2021-11-27,33504,211
+Netherlands,Eindhoven,2021-11-28,33752,248
+Netherlands,Eindhoven,2021-11-29,34005,253
+Netherlands,Eindhoven,2021-11-30,34289,284
+Netherlands,Eindhoven,2021-12-01,34631,342
+Netherlands,Eindhoven,2021-12-02,34769,138
+Netherlands,Eindhoven,2021-12-03,35053,284
+Netherlands,Eindhoven,2021-12-04,35378,325
+Netherlands,Eindhoven,2021-12-05,35724,346
+Netherlands,Eindhoven,2021-12-06,36019,295
+Netherlands,Eindhoven,2021-12-07,36269,250
+Netherlands,Eindhoven,2021-12-08,36507,238
+Netherlands,Eindhoven,2021-12-09,36864,357
+Netherlands,Eindhoven,2021-12-10,37085,221
+Netherlands,Eindhoven,2021-12-11,37362,277
+Netherlands,Eindhoven,2021-12-12,37569,207
+Netherlands,Eindhoven,2021-12-13,37725,156
+Netherlands,Eindhoven,2021-12-14,37937,212
+Netherlands,Eindhoven,2021-12-15,38045,108
+Netherlands,Eindhoven,2021-12-16,38378,333
+Netherlands,Eindhoven,2021-12-17,38535,157
+Netherlands,Eindhoven,2021-12-18,38721,186
+Netherlands,Eindhoven,2021-12-19,38885,164
+Netherlands,Eindhoven,2021-12-20,39036,151
+Netherlands,Eindhoven,2021-12-21,39139,103
+Netherlands,Eindhoven,2021-12-22,39301,162
+Netherlands,Eindhoven,2021-12-23,39597,296
+Netherlands,Eindhoven,2021-12-24,39753,156
+Netherlands,Eindhoven,2021-12-25,39890,137
+Netherlands,Eindhoven,2021-12-26,40047,157
+Netherlands,Eindhoven,2021-12-27,40247,200
+Netherlands,Eindhoven,2021-12-28,40370,123
+Netherlands,Eindhoven,2021-12-29,40588,218
+Netherlands,Eindhoven,2021-12-30,40804,216
+Netherlands,Eindhoven,2021-12-31,41000,196
+Netherlands,Eindhoven,2022-01-01,41202,202
+Netherlands,Eindhoven,2022-01-02,41396,194
+Netherlands,Eindhoven,2022-01-03,41563,167
+Netherlands,Eindhoven,2022-01-04,41953,390
+Netherlands,Eindhoven,2022-01-05,42190,237
+Netherlands,Eindhoven,2022-01-06,42701,511
+Netherlands,Eindhoven,2022-01-07,43005,304
+Netherlands,Eindhoven,2022-01-08,43370,365
+Netherlands,Eindhoven,2022-01-09,43753,383
+Netherlands,Eindhoven,2022-01-10,44162,409
+Netherlands,Eindhoven,2022-01-11,44590,428
+Netherlands,Eindhoven,2022-01-12,45130,540
+Netherlands,Eindhoven,2022-01-13,45455,325
+Netherlands,Eindhoven,2022-01-14,45911,456
+Netherlands,Eindhoven,2022-01-15,46422,511
+Netherlands,Eindhoven,2022-01-16,46929,507
+Netherlands,Eindhoven,2022-01-17,47463,534
+Netherlands,Eindhoven,2022-01-18,47782,319
+Netherlands,Eindhoven,2022-01-19,48412,630
+Netherlands,Eindhoven,2022-01-20,48961,549
+Netherlands,Eindhoven,2022-01-21,49239,278
+Netherlands,Eindhoven,2022-01-22,49297,58
+Netherlands,Eindhoven,2022-01-23,49438,141
+Netherlands,Eindhoven,2022-01-24,49598,160
+Netherlands,Eindhoven,2022-01-25,49632,34
+Netherlands,Eindhoven,2022-01-26,50928,1296
+Netherlands,Eindhoven,2022-01-27,52937,2009
+Netherlands,Eindhoven,2022-01-28,53687,750
+Netherlands,Eindhoven,2022-01-29,53924,237
+Netherlands,Eindhoven,2022-01-30,54629,705
+Netherlands,Eindhoven,2022-01-31,58000,3371
+Netherlands,Eindhoven,2022-02-01,59909,1909
+Netherlands,Eindhoven,2022-02-02,60726,817
+Netherlands,Eindhoven,2022-02-03,62191,1465
+Netherlands,Eindhoven,2022-02-04,62390,199
+Netherlands,Eindhoven,2022-02-05,63161,771
+Netherlands,Eindhoven,2022-02-06,64488,1327
+Netherlands,Eindhoven,2022-02-07,64750,262
+Netherlands,Eindhoven,2022-02-08,69845,5095
+Netherlands,Eindhoven,2022-02-09,70925,1080
+Netherlands,Eindhoven,2022-02-10,71910,985
+Netherlands,Eindhoven,2022-02-11,72993,1083
+Netherlands,Eindhoven,2022-02-12,73761,768
+Netherlands,Eindhoven,2022-02-13,74333,572
+Netherlands,Eindhoven,2022-02-14,74942,609
+Netherlands,Eindhoven,2022-02-15,75655,713
+Netherlands,Eindhoven,2022-02-16,76277,622
+Netherlands,Eindhoven,2022-02-17,77074,797
+Netherlands,Eindhoven,2022-02-18,77691,617
+Netherlands,Eindhoven,2022-02-19,77949,258
+Netherlands,Eindhoven,2022-02-20,78507,558
+Netherlands,Eindhoven,2022-02-21,78919,412
+Netherlands,Eindhoven,2022-02-22,79414,495
+Netherlands,Eindhoven,2022-02-23,79978,564
+Netherlands,Eindhoven,2022-02-24,80550,572
+Netherlands,Eindhoven,2022-02-25,81013,463
+Netherlands,Eindhoven,2022-02-26,81419,406
+Netherlands,Eindhoven,2022-02-27,81736,317
+Netherlands,Eindhoven,2022-02-28,82119,383
+Netherlands,Eindhoven,2022-03-01,82757,638
+Netherlands,Eindhoven,2022-03-02,83586,829
+Netherlands,Eindhoven,2022-03-03,84506,920
+Netherlands,Eindhoven,2022-03-04,85865,1359
+Netherlands,Eindhoven,2022-03-05,87605,1740
+Netherlands,Eindhoven,2022-03-06,88919,1314
+Netherlands,Eindhoven,2022-03-07,90130,1211
+Netherlands,Eindhoven,2022-03-08,91347,1217
+Netherlands,Eindhoven,2022-03-09,92720,1373
+Netherlands,Eindhoven,2022-03-10,94098,1378
+Netherlands,Eindhoven,2022-03-11,95311,1213
+Netherlands,Eindhoven,2022-03-12,95934,623
+Netherlands,Eindhoven,2022-03-13,96592,658
+Netherlands,Eindhoven,2022-03-14,97176,584
+Netherlands,Eindhoven,2022-03-15,97895,719
+Netherlands,Eindhoven,2022-03-16,98584,689
+Netherlands,Eindhoven,2022-03-17,99189,605
+Netherlands,Eindhoven,2022-03-18,99824,635
+Netherlands,Eindhoven,2022-03-19,100261,437
+Netherlands,Eindhoven,2022-03-20,100612,351
+Netherlands,Eindhoven,2022-03-21,100950,338
+Netherlands,Eindhoven,2022-03-22,101413,463
+Netherlands,Eindhoven,2022-03-23,101847,434
+Netherlands,Eindhoven,2022-03-24,102295,448
+Netherlands,Eindhoven,2022-03-25,102627,332
+Netherlands,Eindhoven,2022-03-26,102946,319
+Netherlands,Eindhoven,2022-03-27,103202,256
+Netherlands,Eindhoven,2022-03-28,103444,242
+Netherlands,Eindhoven,2022-03-29,103774,330
+Netherlands,Eindhoven,2022-03-30,104044,270
+Netherlands,Eindhoven,2022-03-31,104324,280
+Netherlands,Eindhoven,2022-04-01,104492,168
+Netherlands,Eindhoven,2022-04-02,104660,168
+Netherlands,Eindhoven,2022-04-03,104786,126
+Netherlands,Eindhoven,2022-04-04,104900,114
+Netherlands,Eindhoven,2022-04-05,105065,165
+Netherlands,Eindhoven,2022-04-06,105167,102
+Netherlands,Eindhoven,2022-04-07,105319,152
+Netherlands,Eindhoven,2022-04-08,105438,119
+Netherlands,Eindhoven,2022-04-09,105529,91
+Netherlands,Eindhoven,2022-04-10,105606,77
+Netherlands,Eindhoven,2022-04-11,105670,64
+Netherlands,Eindhoven,2022-04-12,105706,36
+Netherlands,Eindhoven,2022-04-13,105761,55
+Netherlands,Eindhoven,2022-04-14,105802,41
+Netherlands,Eindhoven,2022-04-15,105842,40
+Netherlands,Eindhoven,2022-04-16,105884,42
+Netherlands,Eindhoven,2022-04-17,105920,36
+Netherlands,Eindhoven,2022-04-18,105951,31
+Netherlands,Eindhoven,2022-04-19,105986,35
+Netherlands,Eindhoven,2022-04-20,106014,28
+Netherlands,Eindhoven,2022-04-21,106055,41
+Netherlands,Eindhoven,2022-04-22,106088,33
+Netherlands,Eindhoven,2022-04-23,106097,9
+Netherlands,Eindhoven,2022-04-24,106128,31
+Netherlands,Eindhoven,2022-04-25,106167,39
+Netherlands,Eindhoven,2022-04-26,106193,26
+Netherlands,Eindhoven,2022-04-27,106209,16
+Netherlands,Eindhoven,2022-04-28,106226,17
+Netherlands,Eindhoven,2022-04-29,106238,12
+Netherlands,Eindhoven,2022-04-30,106274,36
+Netherlands,Eindhoven,2022-05-01,106285,11
+Netherlands,Eindhoven,2022-05-02,106301,16
+Netherlands,Eindhoven,2022-05-03,106320,19
+Netherlands,Eindhoven,2022-05-04,106341,21
+Netherlands,Eindhoven,2022-05-05,106369,28
+Netherlands,Eindhoven,2022-05-06,106381,12
+Netherlands,Eindhoven,2022-05-07,106400,19
+Netherlands,Eindhoven,2022-05-08,106409,9
+Netherlands,Eindhoven,2022-05-09,106425,16
+Netherlands,Eindhoven,2022-05-10,106445,20
+Netherlands,Eindhoven,2022-05-11,106465,20
+Netherlands,Eindhoven,2022-05-12,106485,20
+Netherlands,Eindhoven,2022-05-13,106496,11
+Netherlands,Eindhoven,2022-05-14,106508,12
+Netherlands,Eindhoven,2022-05-15,106516,8
+Netherlands,Eindhoven,2022-05-16,106522,6
+Netherlands,Eindhoven,2022-05-17,106545,23
+Netherlands,Eindhoven,2022-05-18,106561,16
+Netherlands,Eindhoven,2022-05-19,106579,18
+Netherlands,Eindhoven,2022-05-20,106597,18
+Netherlands,Eindhoven,2022-05-21,106610,13
+Netherlands,Eindhoven,2022-05-22,106616,6
+Netherlands,Eindhoven,2022-05-23,106630,14
+Netherlands,Eindhoven,2022-05-24,106641,11
+Netherlands,Eindhoven,2022-05-25,106649,8
+Netherlands,Eindhoven,2022-05-26,106675,26
+Netherlands,Eindhoven,2022-05-27,106682,7
+Netherlands,Eindhoven,2022-05-28,106698,16
+Netherlands,Eindhoven,2022-05-29,106709,11
+Netherlands,Eindhoven,2022-05-30,106716,7
+Netherlands,Eindhoven,2022-05-31,106736,20
+Netherlands,Eindhoven,2022-06-01,106749,13
+Netherlands,Eindhoven,2022-06-02,106760,11
+Netherlands,Eindhoven,2022-06-03,106781,21
+Netherlands,Eindhoven,2022-06-04,106805,24
+Netherlands,Eindhoven,2022-06-05,106818,13
+Netherlands,Eindhoven,2022-06-06,106827,9
+Netherlands,Eindhoven,2022-06-07,106843,16
+Netherlands,Eindhoven,2022-06-08,106865,22
+Netherlands,Eindhoven,2022-06-09,106889,24
+Netherlands,Eindhoven,2022-06-10,106913,24
+Netherlands,Eindhoven,2022-06-11,106942,29
+Netherlands,Eindhoven,2022-06-12,106966,24
+Netherlands,Eindhoven,2022-06-13,106986,20
+Netherlands,Eindhoven,2022-06-14,107017,31
+Netherlands,Eindhoven,2022-06-15,107053,36
+Netherlands,Eindhoven,2022-06-16,107099,46
+Netherlands,Eindhoven,2022-06-17,107142,43
+Netherlands,Eindhoven,2022-06-18,107195,53
+Netherlands,Eindhoven,2022-06-19,107245,50
+Netherlands,Eindhoven,2022-06-20,107281,36
+Netherlands,Eindhoven,2022-06-21,107305,24
+Netherlands,Eindhoven,2022-06-22,107398,93
+Netherlands,Eindhoven,2022-06-23,107438,40
+Netherlands,Eindhoven,2022-06-24,107541,103
+Netherlands,Eindhoven,2022-06-25,107564,23
+Netherlands,Eindhoven,2022-06-26,107665,101
+Netherlands,Eindhoven,2022-06-27,107676,11
+Netherlands,Eindhoven,2022-06-28,107719,43
+Netherlands,Eindhoven,2022-06-29,107821,102
+Netherlands,Eindhoven,2022-06-30,107860,39
+Netherlands,Eindhoven,2022-07-01,107939,79
+Netherlands,Eindhoven,2022-07-02,107991,52
+Netherlands,Eindhoven,2022-07-03,108036,45
+Netherlands,Eindhoven,2022-07-04,108053,17
+Netherlands,Eindhoven,2022-07-05,108152,99
+Netherlands,Eindhoven,2022-07-06,108213,61
+Netherlands,Eindhoven,2022-07-07,108292,79
+Netherlands,Eindhoven,2022-07-08,108371,79
+Netherlands,Eindhoven,2022-07-09,108452,81
+Netherlands,Eindhoven,2022-07-10,108511,59
+Netherlands,Eindhoven,2022-07-11,108527,16
+Netherlands,Eindhoven,2022-07-12,108613,86
+Netherlands,Eindhoven,2022-07-13,108706,93
+Netherlands,Eindhoven,2022-07-14,108791,85
+Netherlands,Eindhoven,2022-07-15,108853,62
+Netherlands,Eindhoven,2022-07-16,108921,68
+Netherlands,Eindhoven,2022-07-17,108967,46
+Netherlands,Eindhoven,2022-07-18,108976,9
+Netherlands,Eindhoven,2022-07-19,109049,73
+Netherlands,Eindhoven,2022-07-20,109166,117
+Netherlands,Eindhoven,2022-07-21,109213,47
+Netherlands,Eindhoven,2022-07-22,109359,146
+Netherlands,Eindhoven,2022-07-23,109406,47
+Netherlands,Eindhoven,2022-07-24,109481,75
+Netherlands,Eindhoven,2022-07-25,109487,6
+Netherlands,Eindhoven,2022-07-26,109549,62
+Netherlands,Eindhoven,2022-07-27,109651,102
+Netherlands,Eindhoven,2022-07-28,109677,26
+Netherlands,Eindhoven,2022-07-29,109751,74
+Netherlands,Eindhoven,2022-07-30,109777,26
+Netherlands,Eindhoven,2022-07-31,109826,49
+Netherlands,Eindhoven,2022-08-01,109836,10
+Netherlands,Eindhoven,2022-08-02,109863,27
+Netherlands,Eindhoven,2022-08-03,109930,67
+Netherlands,Eindhoven,2022-08-04,109949,19
+Netherlands,Eindhoven,2022-08-05,109998,49
+Netherlands,Eindhoven,2022-08-06,110013,15
+Netherlands,Eindhoven,2022-08-07,110053,40
+Netherlands,Eindhoven,2022-08-08,110056,3
+Netherlands,Eindhoven,2022-08-09,110078,22
+Netherlands,Eindhoven,2022-08-10,110129,51
+Netherlands,Eindhoven,2022-08-11,110138,9
+Netherlands,Eindhoven,2022-08-12,110181,43
+Netherlands,Eindhoven,2022-08-13,110202,21
+Netherlands,Eindhoven,2022-08-14,110237,35
+Netherlands,Eindhoven,2022-08-15,110239,2
+Netherlands,Eindhoven,2022-08-16,110266,27
+Netherlands,Eindhoven,2022-08-17,110307,41
+Netherlands,Eindhoven,2022-08-18,110309,2
+Netherlands,Eindhoven,2022-08-19,110362,53
+Netherlands,Eindhoven,2022-08-20,110381,19
+Netherlands,Eindhoven,2022-08-21,110391,10
+Netherlands,Eindhoven,2022-08-22,110394,3
+Netherlands,Eindhoven,2022-08-23,110414,20
+Netherlands,Eindhoven,2022-08-24,110443,29
+Netherlands,Eindhoven,2022-08-25,110452,9
+Netherlands,Eindhoven,2022-08-26,110470,18
+Netherlands,Eindhoven,2022-08-27,110472,2
+Netherlands,Eindhoven,2022-08-28,110495,23
+Netherlands,Eindhoven,2022-08-29,110497,2
+Netherlands,Eindhoven,2022-08-30,110507,10
+Netherlands,Eindhoven,2022-08-31,110529,22
+Netherlands,Eindhoven,2022-09-01,110540,11
+Netherlands,Eindhoven,2022-09-02,110571,31
+Netherlands,Eindhoven,2022-09-03,110581,10
+Netherlands,Eindhoven,2022-09-04,110597,16
+Netherlands,Eindhoven,2022-09-05,110599,2
+Netherlands,Eindhoven,2022-09-06,110613,14
+Netherlands,Eindhoven,2022-09-07,110658,45
+Netherlands,Eindhoven,2022-09-08,110669,11
+Netherlands,Eindhoven,2022-09-09,110691,22
+Netherlands,Rotterdam,2020-03-02,NA,0
+Netherlands,Rotterdam,2020-03-03,1,0
+Netherlands,Rotterdam,2020-03-04,3,2
+Netherlands,Rotterdam,2020-03-05,5,2
+Netherlands,Rotterdam,2020-03-06,9,4
+Netherlands,Rotterdam,2020-03-07,11,2
+Netherlands,Rotterdam,2020-03-08,14,3
+Netherlands,Rotterdam,2020-03-09,14,0
+Netherlands,Rotterdam,2020-03-10,15,1
+Netherlands,Rotterdam,2020-03-11,15,0
+Netherlands,Rotterdam,2020-03-12,15,0
+Netherlands,Rotterdam,2020-03-13,20,5
+Netherlands,Rotterdam,2020-03-14,24,4
+Netherlands,Rotterdam,2020-03-15,25,1
+Netherlands,Rotterdam,2020-03-16,30,5
+Netherlands,Rotterdam,2020-03-17,41,11
+Netherlands,Rotterdam,2020-03-18,58,17
+Netherlands,Rotterdam,2020-03-19,81,23
+Netherlands,Rotterdam,2020-03-20,104,23
+Netherlands,Rotterdam,2020-03-21,120,16
+Netherlands,Rotterdam,2020-03-22,139,19
+Netherlands,Rotterdam,2020-03-23,149,10
+Netherlands,Rotterdam,2020-03-24,163,14
+Netherlands,Rotterdam,2020-03-25,186,23
+Netherlands,Rotterdam,2020-03-26,204,18
+Netherlands,Rotterdam,2020-03-27,249,45
+Netherlands,Rotterdam,2020-03-28,308,59
+Netherlands,Rotterdam,2020-03-29,341,33
+Netherlands,Rotterdam,2020-03-30,375,34
+Netherlands,Rotterdam,2020-03-31,NA,0
+Netherlands,Rotterdam,2020-04-01,NA,0
+Netherlands,Rotterdam,2020-04-02,NA,0
+Netherlands,Rotterdam,2020-04-03,NA,0
+Netherlands,Rotterdam,2020-04-04,NA,0
+Netherlands,Rotterdam,2020-04-05,NA,0
+Netherlands,Rotterdam,2020-04-06,NA,0
+Netherlands,Rotterdam,2020-04-07,NA,0
+Netherlands,Rotterdam,2020-04-08,863,0
+Netherlands,Rotterdam,2020-04-09,947,84
+Netherlands,Rotterdam,2020-04-10,985,38
+Netherlands,Rotterdam,2020-04-11,1120,135
+Netherlands,Rotterdam,2020-04-12,1180,60
+Netherlands,Rotterdam,2020-04-13,1230,50
+Netherlands,Rotterdam,2020-04-14,1281,51
+Netherlands,Rotterdam,2020-04-15,1323,42
+Netherlands,Rotterdam,2020-04-16,1374,51
+Netherlands,Rotterdam,2020-04-17,1420,46
+Netherlands,Rotterdam,2020-04-18,1502,82
+Netherlands,Rotterdam,2020-04-19,1557,55
+Netherlands,Rotterdam,2020-04-20,1586,29
+Netherlands,Rotterdam,2020-04-21,1620,34
+Netherlands,Rotterdam,2020-04-22,1651,31
+Netherlands,Rotterdam,2020-04-23,1701,50
+Netherlands,Rotterdam,2020-04-24,1746,45
+Netherlands,Rotterdam,2020-04-25,1788,42
+Netherlands,Rotterdam,2020-04-26,1823,35
+Netherlands,Rotterdam,2020-04-27,1857,34
+Netherlands,Rotterdam,2020-04-28,1860,3
+Netherlands,Rotterdam,2020-04-29,1890,30
+Netherlands,Rotterdam,2020-04-30,1926,36
+Netherlands,Rotterdam,2020-05-01,1967,41
+Netherlands,Rotterdam,2020-05-02,1999,32
+Netherlands,Rotterdam,2020-05-03,2025,26
+Netherlands,Rotterdam,2020-05-04,2025,0
+Netherlands,Rotterdam,2020-05-05,2056,31
+Netherlands,Rotterdam,2020-05-06,2061,5
+Netherlands,Rotterdam,2020-05-07,2095,34
+Netherlands,Rotterdam,2020-05-08,2104,9
+Netherlands,Rotterdam,2020-05-09,2122,18
+Netherlands,Rotterdam,2020-05-10,2135,13
+Netherlands,Rotterdam,2020-05-11,2139,4
+Netherlands,Rotterdam,2020-05-12,2161,22
+Netherlands,Rotterdam,2020-05-13,2178,17
+Netherlands,Rotterdam,2020-05-14,2194,16
+Netherlands,Rotterdam,2020-05-15,2205,11
+Netherlands,Rotterdam,2020-05-16,2229,24
+Netherlands,Rotterdam,2020-05-17,2236,7
+Netherlands,Rotterdam,2020-05-18,2258,22
+Netherlands,Rotterdam,2020-05-19,2264,6
+Netherlands,Rotterdam,2020-05-20,2273,9
+Netherlands,Rotterdam,2020-05-21,2299,26
+Netherlands,Rotterdam,2020-05-22,2312,13
+Netherlands,Rotterdam,2020-05-23,2317,5
+Netherlands,Rotterdam,2020-05-24,2327,10
+Netherlands,Rotterdam,2020-05-25,2341,14
+Netherlands,Rotterdam,2020-05-26,2346,5
+Netherlands,Rotterdam,2020-05-27,2357,11
+Netherlands,Rotterdam,2020-05-28,2363,6
+Netherlands,Rotterdam,2020-05-29,2366,3
+Netherlands,Rotterdam,2020-05-30,2372,6
+Netherlands,Rotterdam,2020-05-31,2373,1
+Netherlands,Rotterdam,2020-06-01,2376,3
+Netherlands,Rotterdam,2020-06-02,2378,2
+Netherlands,Rotterdam,2020-06-03,2384,6
+Netherlands,Rotterdam,2020-06-04,2395,11
+Netherlands,Rotterdam,2020-06-05,2416,21
+Netherlands,Rotterdam,2020-06-06,2434,18
+Netherlands,Rotterdam,2020-06-07,2454,20
+Netherlands,Rotterdam,2020-06-08,2465,11
+Netherlands,Rotterdam,2020-06-09,2479,14
+Netherlands,Rotterdam,2020-06-10,2493,14
+Netherlands,Rotterdam,2020-06-11,2505,12
+Netherlands,Rotterdam,2020-06-12,2532,27
+Netherlands,Rotterdam,2020-06-13,2550,18
+Netherlands,Rotterdam,2020-06-14,2559,9
+Netherlands,Rotterdam,2020-06-15,2568,9
+Netherlands,Rotterdam,2020-06-16,2585,17
+Netherlands,Rotterdam,2020-06-17,2594,9
+Netherlands,Rotterdam,2020-06-18,2602,8
+Netherlands,Rotterdam,2020-06-19,2610,8
+Netherlands,Rotterdam,2020-06-20,2622,12
+Netherlands,Rotterdam,2020-06-21,2628,6
+Netherlands,Rotterdam,2020-06-22,2629,1
+Netherlands,Rotterdam,2020-06-23,2632,3
+Netherlands,Rotterdam,2020-06-24,2639,7
+Netherlands,Rotterdam,2020-06-25,2646,7
+Netherlands,Rotterdam,2020-06-26,2654,8
+Netherlands,Rotterdam,2020-06-27,2660,6
+Netherlands,Rotterdam,2020-06-28,2673,13
+Netherlands,Rotterdam,2020-06-29,2681,8
+Netherlands,Rotterdam,2020-06-30,2686,5
+Netherlands,Rotterdam,2020-07-01,2694,8
+Netherlands,Rotterdam,2020-07-02,2702,8
+Netherlands,Rotterdam,2020-07-03,2706,4
+Netherlands,Rotterdam,2020-07-04,2713,7
+Netherlands,Rotterdam,2020-07-05,2720,7
+Netherlands,Rotterdam,2020-07-06,2732,12
+Netherlands,Rotterdam,2020-07-07,2732,0
+Netherlands,Rotterdam,2020-07-08,2736,4
+Netherlands,Rotterdam,2020-07-09,2746,10
+Netherlands,Rotterdam,2020-07-10,2753,7
+Netherlands,Rotterdam,2020-07-11,2767,14
+Netherlands,Rotterdam,2020-07-12,2797,30
+Netherlands,Rotterdam,2020-07-13,2804,7
+Netherlands,Rotterdam,2020-07-14,2835,31
+Netherlands,Rotterdam,2020-07-15,2855,20
+Netherlands,Rotterdam,2020-07-16,2870,15
+Netherlands,Rotterdam,2020-07-17,2885,15
+Netherlands,Rotterdam,2020-07-18,2895,10
+Netherlands,Rotterdam,2020-07-19,2917,22
+Netherlands,Rotterdam,2020-07-20,2950,33
+Netherlands,Rotterdam,2020-07-21,2973,23
+Netherlands,Rotterdam,2020-07-22,3001,28
+Netherlands,Rotterdam,2020-07-23,3036,35
+Netherlands,Rotterdam,2020-07-24,3085,49
+Netherlands,Rotterdam,2020-07-25,3108,23
+Netherlands,Rotterdam,2020-07-26,3157,49
+Netherlands,Rotterdam,2020-07-27,3196,39
+Netherlands,Rotterdam,2020-07-28,3244,48
+Netherlands,Rotterdam,2020-07-29,3287,43
+Netherlands,Rotterdam,2020-07-30,3363,76
+Netherlands,Rotterdam,2020-07-31,3427,64
+Netherlands,Rotterdam,2020-08-01,3522,95
+Netherlands,Rotterdam,2020-08-02,3599,77
+Netherlands,Rotterdam,2020-08-03,3692,93
+Netherlands,Rotterdam,2020-08-04,3785,93
+Netherlands,Rotterdam,2020-08-05,3874,89
+Netherlands,Rotterdam,2020-08-06,3963,89
+Netherlands,Rotterdam,2020-08-07,4046,83
+Netherlands,Rotterdam,2020-08-08,4099,53
+Netherlands,Rotterdam,2020-08-09,4206,107
+Netherlands,Rotterdam,2020-08-10,4311,105
+Netherlands,Rotterdam,2020-08-11,4426,115
+Netherlands,Rotterdam,2020-08-12,4553,127
+Netherlands,Rotterdam,2020-08-13,4630,77
+Netherlands,Rotterdam,2020-08-14,4704,74
+Netherlands,Rotterdam,2020-08-15,4814,110
+Netherlands,Rotterdam,2020-08-16,4872,58
+Netherlands,Rotterdam,2020-08-17,4917,45
+Netherlands,Rotterdam,2020-08-18,4975,58
+Netherlands,Rotterdam,2020-08-19,5036,61
+Netherlands,Rotterdam,2020-08-20,5106,70
+Netherlands,Rotterdam,2020-08-21,5157,51
+Netherlands,Rotterdam,2020-08-22,5217,60
+Netherlands,Rotterdam,2020-08-23,5268,51
+Netherlands,Rotterdam,2020-08-24,5324,56
+Netherlands,Rotterdam,2020-08-25,5358,34
+Netherlands,Rotterdam,2020-08-26,5423,65
+Netherlands,Rotterdam,2020-08-27,5483,60
+Netherlands,Rotterdam,2020-08-28,5539,56
+Netherlands,Rotterdam,2020-08-29,5587,48
+Netherlands,Rotterdam,2020-08-30,5637,50
+Netherlands,Rotterdam,2020-08-31,5668,31
+Netherlands,Rotterdam,2020-09-01,5732,64
+Netherlands,Rotterdam,2020-09-02,5840,108
+Netherlands,Rotterdam,2020-09-03,5913,73
+Netherlands,Rotterdam,2020-09-04,5970,57
+Netherlands,Rotterdam,2020-09-05,6013,43
+Netherlands,Rotterdam,2020-09-06,6091,78
+Netherlands,Rotterdam,2020-09-07,6168,77
+Netherlands,Rotterdam,2020-09-08,6243,75
+Netherlands,Rotterdam,2020-09-09,6328,85
+Netherlands,Rotterdam,2020-09-10,6434,106
+Netherlands,Rotterdam,2020-09-11,6555,121
+Netherlands,Rotterdam,2020-09-12,6643,88
+Netherlands,Rotterdam,2020-09-13,6751,108
+Netherlands,Rotterdam,2020-09-14,6841,90
+Netherlands,Rotterdam,2020-09-15,6944,103
+Netherlands,Rotterdam,2020-09-16,7107,163
+Netherlands,Rotterdam,2020-09-17,7268,161
+Netherlands,Rotterdam,2020-09-18,7455,187
+Netherlands,Rotterdam,2020-09-19,7568,113
+Netherlands,Rotterdam,2020-09-20,7679,111
+Netherlands,Rotterdam,2020-09-21,7898,219
+Netherlands,Rotterdam,2020-09-22,8029,131
+Netherlands,Rotterdam,2020-09-23,8185,156
+Netherlands,Rotterdam,2020-09-24,8433,248
+Netherlands,Rotterdam,2020-09-25,8607,174
+Netherlands,Rotterdam,2020-09-26,8771,164
+Netherlands,Rotterdam,2020-09-27,9053,282
+Netherlands,Rotterdam,2020-09-28,9325,272
+Netherlands,Rotterdam,2020-09-29,9569,244
+Netherlands,Rotterdam,2020-09-30,9828,259
+Netherlands,Rotterdam,2020-10-01,10105,277
+Netherlands,Rotterdam,2020-10-02,10407,302
+Netherlands,Rotterdam,2020-10-03,10692,285
+Netherlands,Rotterdam,2020-10-04,10961,269
+Netherlands,Rotterdam,2020-10-05,11362,401
+Netherlands,Rotterdam,2020-10-06,11632,270
+Netherlands,Rotterdam,2020-10-07,11961,329
+Netherlands,Rotterdam,2020-10-08,12385,424
+Netherlands,Rotterdam,2020-10-09,12832,447
+Netherlands,Rotterdam,2020-10-10,13223,391
+Netherlands,Rotterdam,2020-10-11,13599,376
+Netherlands,Rotterdam,2020-10-12,14038,439
+Netherlands,Rotterdam,2020-10-13,14471,433
+Netherlands,Rotterdam,2020-10-14,15031,560
+Netherlands,Rotterdam,2020-10-15,15500,469
+Netherlands,Rotterdam,2020-10-16,15833,333
+Netherlands,Rotterdam,2020-10-17,16240,407
+Netherlands,Rotterdam,2020-10-18,16856,616
+Netherlands,Rotterdam,2020-10-19,17402,546
+Netherlands,Rotterdam,2020-10-20,17896,494
+Netherlands,Rotterdam,2020-10-21,18371,475
+Netherlands,Rotterdam,2020-10-22,19050,679
+Netherlands,Rotterdam,2020-10-23,19612,562
+Netherlands,Rotterdam,2020-10-24,20083,471
+Netherlands,Rotterdam,2020-10-25,20711,628
+Netherlands,Rotterdam,2020-10-26,21365,654
+Netherlands,Rotterdam,2020-10-27,21964,599
+Netherlands,Rotterdam,2020-10-28,22520,556
+Netherlands,Rotterdam,2020-10-29,23096,576
+Netherlands,Rotterdam,2020-10-30,23765,669
+Netherlands,Rotterdam,2020-10-31,24409,644
+Netherlands,Rotterdam,2020-11-01,25028,619
+Netherlands,Rotterdam,2020-11-02,25538,510
+Netherlands,Rotterdam,2020-11-03,26133,595
+Netherlands,Rotterdam,2020-11-04,26547,414
+Netherlands,Rotterdam,2020-11-05,27062,515
+Netherlands,Rotterdam,2020-11-06,27597,535
+Netherlands,Rotterdam,2020-11-07,28019,422
+Netherlands,Rotterdam,2020-11-08,28393,374
+Netherlands,Rotterdam,2020-11-09,28737,344
+Netherlands,Rotterdam,2020-11-10,28936,199
+Netherlands,Rotterdam,2020-11-11,29222,286
+Netherlands,Rotterdam,2020-11-12,29551,329
+Netherlands,Rotterdam,2020-11-13,29886,335
+Netherlands,Rotterdam,2020-11-14,30217,331
+Netherlands,Rotterdam,2020-11-15,30523,306
+Netherlands,Rotterdam,2020-11-16,30823,300
+Netherlands,Rotterdam,2020-11-17,31029,206
+Netherlands,Rotterdam,2020-11-18,31267,238
+Netherlands,Rotterdam,2020-11-19,31474,207
+Netherlands,Rotterdam,2020-11-20,31771,297
+Netherlands,Rotterdam,2020-11-21,32100,329
+Netherlands,Rotterdam,2020-11-22,32375,275
+Netherlands,Rotterdam,2020-11-23,32575,200
+Netherlands,Rotterdam,2020-11-24,32695,120
+Netherlands,Rotterdam,2020-11-25,32962,267
+Netherlands,Rotterdam,2020-11-26,33161,199
+Netherlands,Rotterdam,2020-11-27,33485,324
+Netherlands,Rotterdam,2020-11-28,33673,188
+Netherlands,Rotterdam,2020-11-29,33985,312
+Netherlands,Rotterdam,2020-11-30,34165,180
+Netherlands,Rotterdam,2020-12-01,34330,165
+Netherlands,Rotterdam,2020-12-02,34613,283
+Netherlands,Rotterdam,2020-12-03,34829,216
+Netherlands,Rotterdam,2020-12-04,34965,136
+Netherlands,Rotterdam,2020-12-05,35120,155
+Netherlands,Rotterdam,2020-12-06,35333,213
+Netherlands,Rotterdam,2020-12-07,35672,339
+Netherlands,Rotterdam,2020-12-08,35830,158
+Netherlands,Rotterdam,2020-12-09,36046,216
+Netherlands,Rotterdam,2020-12-10,36326,280
+Netherlands,Rotterdam,2020-12-11,36619,293
+Netherlands,Rotterdam,2020-12-12,36906,287
+Netherlands,Rotterdam,2020-12-13,37208,302
+Netherlands,Rotterdam,2020-12-14,37459,251
+Netherlands,Rotterdam,2020-12-15,37560,101
+Netherlands,Rotterdam,2020-12-16,37922,362
+Netherlands,Rotterdam,2020-12-17,38395,473
+Netherlands,Rotterdam,2020-12-18,38730,335
+Netherlands,Rotterdam,2020-12-19,38977,247
+Netherlands,Rotterdam,2020-12-20,39343,366
+Netherlands,Rotterdam,2020-12-21,39614,271
+Netherlands,Rotterdam,2020-12-22,39788,174
+Netherlands,Rotterdam,2020-12-23,40018,230
+Netherlands,Rotterdam,2020-12-24,40329,311
+Netherlands,Rotterdam,2020-12-25,40635,306
+Netherlands,Rotterdam,2020-12-26,40940,305
+Netherlands,Rotterdam,2020-12-27,41126,186
+Netherlands,Rotterdam,2020-12-28,41279,153
+Netherlands,Rotterdam,2020-12-29,41464,185
+Netherlands,Rotterdam,2020-12-30,41698,234
+Netherlands,Rotterdam,2020-12-31,41960,262
+Netherlands,Rotterdam,2021-01-01,42151,191
+Netherlands,Rotterdam,2021-01-02,42355,204
+Netherlands,Rotterdam,2021-01-03,42481,126
+Netherlands,Rotterdam,2021-01-04,42660,179
+Netherlands,Rotterdam,2021-01-05,42788,128
+Netherlands,Rotterdam,2021-01-06,42953,165
+Netherlands,Rotterdam,2021-01-07,43255,302
+Netherlands,Rotterdam,2021-01-08,43447,192
+Netherlands,Rotterdam,2021-01-09,43648,201
+Netherlands,Rotterdam,2021-01-10,43798,150
+Netherlands,Rotterdam,2021-01-11,43946,148
+Netherlands,Rotterdam,2021-01-12,44025,79
+Netherlands,Rotterdam,2021-01-13,44219,194
+Netherlands,Rotterdam,2021-01-14,44416,197
+Netherlands,Rotterdam,2021-01-15,44590,174
+Netherlands,Rotterdam,2021-01-16,44690,100
+Netherlands,Rotterdam,2021-01-17,44866,176
+Netherlands,Rotterdam,2021-01-18,45008,142
+Netherlands,Rotterdam,2021-01-19,45060,52
+Netherlands,Rotterdam,2021-01-20,45257,197
+Netherlands,Rotterdam,2021-01-21,45484,227
+Netherlands,Rotterdam,2021-01-22,45694,210
+Netherlands,Rotterdam,2021-01-23,45840,146
+Netherlands,Rotterdam,2021-01-24,45970,130
+Netherlands,Rotterdam,2021-01-25,46127,157
+Netherlands,Rotterdam,2021-01-26,46210,83
+Netherlands,Rotterdam,2021-01-27,46388,178
+Netherlands,Rotterdam,2021-01-28,46533,145
+Netherlands,Rotterdam,2021-01-29,46662,129
+Netherlands,Rotterdam,2021-01-30,46767,105
+Netherlands,Rotterdam,2021-01-31,46885,118
+Netherlands,Rotterdam,2021-02-01,46990,105
+Netherlands,Rotterdam,2021-02-02,47137,147
+Netherlands,Rotterdam,2021-02-03,47269,132
+Netherlands,Rotterdam,2021-02-04,47401,132
+Netherlands,Rotterdam,2021-02-05,47588,187
+Netherlands,Rotterdam,2021-02-06,47710,122
+Netherlands,Rotterdam,2021-02-07,47826,116
+Netherlands,Rotterdam,2021-02-08,47916,90
+Netherlands,Rotterdam,2021-02-09,47968,52
+Netherlands,Rotterdam,2021-02-10,48041,73
+Netherlands,Rotterdam,2021-02-11,48199,158
+Netherlands,Rotterdam,2021-02-12,48307,108
+Netherlands,Rotterdam,2021-02-13,48472,165
+Netherlands,Rotterdam,2021-02-14,48563,91
+Netherlands,Rotterdam,2021-02-15,48650,87
+Netherlands,Rotterdam,2021-02-16,48754,104
+Netherlands,Rotterdam,2021-02-17,48861,107
+Netherlands,Rotterdam,2021-02-18,48971,110
+Netherlands,Rotterdam,2021-02-19,49184,213
+Netherlands,Rotterdam,2021-02-20,49283,99
+Netherlands,Rotterdam,2021-02-21,49405,122
+Netherlands,Rotterdam,2021-02-22,49554,149
+Netherlands,Rotterdam,2021-02-23,49692,138
+Netherlands,Rotterdam,2021-02-24,49785,93
+Netherlands,Rotterdam,2021-02-25,50004,219
+Netherlands,Rotterdam,2021-02-26,50147,143
+Netherlands,Rotterdam,2021-02-27,50313,166
+Netherlands,Rotterdam,2021-02-28,50491,178
+Netherlands,Rotterdam,2021-03-01,50656,165
+Netherlands,Rotterdam,2021-03-02,50827,171
+Netherlands,Rotterdam,2021-03-03,51021,194
+Netherlands,Rotterdam,2021-03-04,51238,217
+Netherlands,Rotterdam,2021-03-05,51389,151
+Netherlands,Rotterdam,2021-03-06,51606,217
+Netherlands,Rotterdam,2021-03-07,51782,176
+Netherlands,Rotterdam,2021-03-08,51950,168
+Netherlands,Rotterdam,2021-03-09,52150,200
+Netherlands,Rotterdam,2021-03-10,52327,177
+Netherlands,Rotterdam,2021-03-11,52533,206
+Netherlands,Rotterdam,2021-03-12,52771,238
+Netherlands,Rotterdam,2021-03-13,53061,290
+Netherlands,Rotterdam,2021-03-14,53316,255
+Netherlands,Rotterdam,2021-03-15,53557,241
+Netherlands,Rotterdam,2021-03-16,53732,175
+Netherlands,Rotterdam,2021-03-17,53951,219
+Netherlands,Rotterdam,2021-03-18,54228,277
+Netherlands,Rotterdam,2021-03-19,54576,348
+Netherlands,Rotterdam,2021-03-20,54838,262
+Netherlands,Rotterdam,2021-03-21,55128,290
+Netherlands,Rotterdam,2021-03-22,55427,299
+Netherlands,Rotterdam,2021-03-23,55629,202
+Netherlands,Rotterdam,2021-03-24,55932,303
+Netherlands,Rotterdam,2021-03-25,56274,342
+Netherlands,Rotterdam,2021-03-26,56589,315
+Netherlands,Rotterdam,2021-03-27,57066,477
+Netherlands,Rotterdam,2021-03-28,57412,346
+Netherlands,Rotterdam,2021-03-29,57707,295
+Netherlands,Rotterdam,2021-03-30,57992,285
+Netherlands,Rotterdam,2021-03-31,58395,403
+Netherlands,Rotterdam,2021-04-01,58745,350
+Netherlands,Rotterdam,2021-04-02,59100,355
+Netherlands,Rotterdam,2021-04-03,59430,330
+Netherlands,Rotterdam,2021-04-04,59713,283
+Netherlands,Rotterdam,2021-04-05,60019,306
+Netherlands,Rotterdam,2021-04-06,60208,189
+Netherlands,Rotterdam,2021-04-07,60539,331
+Netherlands,Rotterdam,2021-04-08,60995,456
+Netherlands,Rotterdam,2021-04-09,61403,408
+Netherlands,Rotterdam,2021-04-10,61778,375
+Netherlands,Rotterdam,2021-04-11,62136,358
+Netherlands,Rotterdam,2021-04-12,62418,282
+Netherlands,Rotterdam,2021-04-13,62772,354
+Netherlands,Rotterdam,2021-04-14,62961,189
+Netherlands,Rotterdam,2021-04-15,63357,396
+Netherlands,Rotterdam,2021-04-16,63887,530
+Netherlands,Rotterdam,2021-04-17,64311,424
+Netherlands,Rotterdam,2021-04-18,64728,417
+Netherlands,Rotterdam,2021-04-19,65039,311
+Netherlands,Rotterdam,2021-04-20,65325,286
+Netherlands,Rotterdam,2021-04-21,65712,387
+Netherlands,Rotterdam,2021-04-22,66160,448
+Netherlands,Rotterdam,2021-04-23,66617,457
+Netherlands,Rotterdam,2021-04-24,67024,407
+Netherlands,Rotterdam,2021-04-25,67455,431
+Netherlands,Rotterdam,2021-04-26,67685,230
+Netherlands,Rotterdam,2021-04-27,67903,218
+Netherlands,Rotterdam,2021-04-28,68397,494
+Netherlands,Rotterdam,2021-04-29,68783,386
+Netherlands,Rotterdam,2021-04-30,69114,331
+Netherlands,Rotterdam,2021-05-01,69441,327
+Netherlands,Rotterdam,2021-05-02,69706,265
+Netherlands,Rotterdam,2021-05-03,70129,423
+Netherlands,Rotterdam,2021-05-04,70632,503
+Netherlands,Rotterdam,2021-05-05,70977,345
+Netherlands,Rotterdam,2021-05-06,71352,375
+Netherlands,Rotterdam,2021-05-07,71690,338
+Netherlands,Rotterdam,2021-05-08,72000,310
+Netherlands,Rotterdam,2021-05-09,72433,433
+Netherlands,Rotterdam,2021-05-10,72677,244
+Netherlands,Rotterdam,2021-05-11,72901,224
+Netherlands,Rotterdam,2021-05-12,73266,365
+Netherlands,Rotterdam,2021-05-13,73603,337
+Netherlands,Rotterdam,2021-05-14,73911,308
+Netherlands,Rotterdam,2021-05-15,74124,213
+Netherlands,Rotterdam,2021-05-16,74376,252
+Netherlands,Rotterdam,2021-05-17,74567,191
+Netherlands,Rotterdam,2021-05-18,74796,229
+Netherlands,Rotterdam,2021-05-19,75105,309
+Netherlands,Rotterdam,2021-05-20,75398,293
+Netherlands,Rotterdam,2021-05-21,75677,279
+Netherlands,Rotterdam,2021-05-22,75914,237
+Netherlands,Rotterdam,2021-05-23,76092,178
+Netherlands,Rotterdam,2021-05-24,76249,157
+Netherlands,Rotterdam,2021-05-25,76406,157
+Netherlands,Rotterdam,2021-05-26,76463,57
+Netherlands,Rotterdam,2021-05-27,76724,261
+Netherlands,Rotterdam,2021-05-28,76949,225
+Netherlands,Rotterdam,2021-05-29,77119,170
+Netherlands,Rotterdam,2021-05-30,77277,158
+Netherlands,Rotterdam,2021-05-31,77381,104
+Netherlands,Rotterdam,2021-06-01,77535,154
+Netherlands,Rotterdam,2021-06-02,77699,164
+Netherlands,Rotterdam,2021-06-03,77855,156
+Netherlands,Rotterdam,2021-06-04,78022,167
+Netherlands,Rotterdam,2021-06-05,78163,141
+Netherlands,Rotterdam,2021-06-06,78247,84
+Netherlands,Rotterdam,2021-06-07,78306,59
+Netherlands,Rotterdam,2021-06-08,78366,60
+Netherlands,Rotterdam,2021-06-09,78474,108
+Netherlands,Rotterdam,2021-06-10,78554,80
+Netherlands,Rotterdam,2021-06-11,78637,83
+Netherlands,Rotterdam,2021-06-12,78707,70
+Netherlands,Rotterdam,2021-06-13,78743,36
+Netherlands,Rotterdam,2021-06-14,78782,39
+Netherlands,Rotterdam,2021-06-15,78843,61
+Netherlands,Rotterdam,2021-06-16,78886,43
+Netherlands,Rotterdam,2021-06-17,78932,46
+Netherlands,Rotterdam,2021-06-18,78991,59
+Netherlands,Rotterdam,2021-06-19,79012,21
+Netherlands,Rotterdam,2021-06-20,79042,30
+Netherlands,Rotterdam,2021-06-21,79076,34
+Netherlands,Rotterdam,2021-06-22,79117,41
+Netherlands,Rotterdam,2021-06-23,79152,35
+Netherlands,Rotterdam,2021-06-24,79207,55
+Netherlands,Rotterdam,2021-06-25,79254,47
+Netherlands,Rotterdam,2021-06-26,79287,33
+Netherlands,Rotterdam,2021-06-27,79314,27
+Netherlands,Rotterdam,2021-06-28,79377,63
+Netherlands,Rotterdam,2021-06-29,79405,28
+Netherlands,Rotterdam,2021-06-30,79447,42
+Netherlands,Rotterdam,2021-07-01,79520,73
+Netherlands,Rotterdam,2021-07-02,79568,48
+Netherlands,Rotterdam,2021-07-03,79645,77
+Netherlands,Rotterdam,2021-07-04,79708,63
+Netherlands,Rotterdam,2021-07-05,79777,69
+Netherlands,Rotterdam,2021-07-06,79953,176
+Netherlands,Rotterdam,2021-07-07,80355,402
+Netherlands,Rotterdam,2021-07-08,80774,419
+Netherlands,Rotterdam,2021-07-09,81267,493
+Netherlands,Rotterdam,2021-07-10,81968,701
+Netherlands,Rotterdam,2021-07-11,82524,556
+Netherlands,Rotterdam,2021-07-12,82971,447
+Netherlands,Rotterdam,2021-07-13,83349,378
+Netherlands,Rotterdam,2021-07-14,84093,744
+Netherlands,Rotterdam,2021-07-15,84777,684
+Netherlands,Rotterdam,2021-07-16,85520,743
+Netherlands,Rotterdam,2021-07-17,86281,761
+Netherlands,Rotterdam,2021-07-18,86945,664
+Netherlands,Rotterdam,2021-07-19,87427,482
+Netherlands,Rotterdam,2021-07-20,87799,372
+Netherlands,Rotterdam,2021-07-21,88251,452
+Netherlands,Rotterdam,2021-07-22,88566,315
+Netherlands,Rotterdam,2021-07-23,88951,385
+Netherlands,Rotterdam,2021-07-24,89186,235
+Netherlands,Rotterdam,2021-07-25,89462,276
+Netherlands,Rotterdam,2021-07-26,89665,203
+Netherlands,Rotterdam,2021-07-27,89872,207
+Netherlands,Rotterdam,2021-07-28,90029,157
+Netherlands,Rotterdam,2021-07-29,90282,253
+Netherlands,Rotterdam,2021-07-30,90473,191
+Netherlands,Rotterdam,2021-07-31,90690,217
+Netherlands,Rotterdam,2021-08-01,90795,105
+Netherlands,Rotterdam,2021-08-02,90855,60
+Netherlands,Rotterdam,2021-08-03,90950,95
+Netherlands,Rotterdam,2021-08-04,91053,103
+Netherlands,Rotterdam,2021-08-05,91348,295
+Netherlands,Rotterdam,2021-08-06,91477,129
+Netherlands,Rotterdam,2021-08-07,91596,119
+Netherlands,Rotterdam,2021-08-08,91696,100
+Netherlands,Rotterdam,2021-08-09,91770,74
+Netherlands,Rotterdam,2021-08-10,91861,91
+Netherlands,Rotterdam,2021-08-11,91996,135
+Netherlands,Rotterdam,2021-08-12,92113,117
+Netherlands,Rotterdam,2021-08-13,92274,161
+Netherlands,Rotterdam,2021-08-14,92402,128
+Netherlands,Rotterdam,2021-08-15,92502,100
+Netherlands,Rotterdam,2021-08-16,92620,118
+Netherlands,Rotterdam,2021-08-17,92744,124
+Netherlands,Rotterdam,2021-08-18,92882,138
+Netherlands,Rotterdam,2021-08-19,93044,162
+Netherlands,Rotterdam,2021-08-20,93177,133
+Netherlands,Rotterdam,2021-08-21,93312,135
+Netherlands,Rotterdam,2021-08-22,93463,151
+Netherlands,Rotterdam,2021-08-23,93575,112
+Netherlands,Rotterdam,2021-08-24,93681,106
+Netherlands,Rotterdam,2021-08-25,93845,164
+Netherlands,Rotterdam,2021-08-26,94018,173
+Netherlands,Rotterdam,2021-08-27,94178,160
+Netherlands,Rotterdam,2021-08-28,94351,173
+Netherlands,Rotterdam,2021-08-29,94469,118
+Netherlands,Rotterdam,2021-08-30,94607,138
+Netherlands,Rotterdam,2021-08-31,94711,104
+Netherlands,Rotterdam,2021-09-01,94876,165
+Netherlands,Rotterdam,2021-09-02,95068,192
+Netherlands,Rotterdam,2021-09-03,95254,186
+Netherlands,Rotterdam,2021-09-04,95418,164
+Netherlands,Rotterdam,2021-09-05,95584,166
+Netherlands,Rotterdam,2021-09-06,95688,104
+Netherlands,Rotterdam,2021-09-07,95813,125
+Netherlands,Rotterdam,2021-09-08,95960,147
+Netherlands,Rotterdam,2021-09-09,96106,146
+Netherlands,Rotterdam,2021-09-10,96308,202
+Netherlands,Rotterdam,2021-09-11,96490,182
+Netherlands,Rotterdam,2021-09-12,96578,88
+Netherlands,Rotterdam,2021-09-13,96680,102
+Netherlands,Rotterdam,2021-09-14,96810,130
+Netherlands,Rotterdam,2021-09-15,96980,170
+Netherlands,Rotterdam,2021-09-16,97089,109
+Netherlands,Rotterdam,2021-09-17,97269,180
+Netherlands,Rotterdam,2021-09-18,97440,171
+Netherlands,Rotterdam,2021-09-19,97572,132
+Netherlands,Rotterdam,2021-09-20,97612,40
+Netherlands,Rotterdam,2021-09-21,97715,103
+Netherlands,Rotterdam,2021-09-22,97838,123
+Netherlands,Rotterdam,2021-09-23,97927,89
+Netherlands,Rotterdam,2021-09-24,98022,95
+Netherlands,Rotterdam,2021-09-25,98141,119
+Netherlands,Rotterdam,2021-09-26,98237,96
+Netherlands,Rotterdam,2021-09-27,98296,59
+Netherlands,Rotterdam,2021-09-28,98393,97
+Netherlands,Rotterdam,2021-09-29,98512,119
+Netherlands,Rotterdam,2021-09-30,98590,78
+Netherlands,Rotterdam,2021-10-01,98713,123
+Netherlands,Rotterdam,2021-10-02,98790,77
+Netherlands,Rotterdam,2021-10-03,98861,71
+Netherlands,Rotterdam,2021-10-04,98914,53
+Netherlands,Rotterdam,2021-10-05,98999,85
+Netherlands,Rotterdam,2021-10-06,99101,102
+Netherlands,Rotterdam,2021-10-07,99234,133
+Netherlands,Rotterdam,2021-10-08,99413,179
+Netherlands,Rotterdam,2021-10-09,99509,96
+Netherlands,Rotterdam,2021-10-10,99569,60
+Netherlands,Rotterdam,2021-10-11,99677,108
+Netherlands,Rotterdam,2021-10-12,99769,92
+Netherlands,Rotterdam,2021-10-13,99974,205
+Netherlands,Rotterdam,2021-10-14,100144,170
+Netherlands,Rotterdam,2021-10-15,100293,149
+Netherlands,Rotterdam,2021-10-16,100414,121
+Netherlands,Rotterdam,2021-10-17,100557,143
+Netherlands,Rotterdam,2021-10-18,100628,71
+Netherlands,Rotterdam,2021-10-19,100744,116
+Netherlands,Rotterdam,2021-10-20,100871,127
+Netherlands,Rotterdam,2021-10-21,101040,169
+Netherlands,Rotterdam,2021-10-22,101225,185
+Netherlands,Rotterdam,2021-10-23,101378,153
+Netherlands,Rotterdam,2021-10-24,101510,132
+Netherlands,Rotterdam,2021-10-25,101715,205
+Netherlands,Rotterdam,2021-10-26,101815,100
+Netherlands,Rotterdam,2021-10-27,102147,332
+Netherlands,Rotterdam,2021-10-28,102373,226
+Netherlands,Rotterdam,2021-10-29,102602,229
+Netherlands,Rotterdam,2021-10-30,102810,208
+Netherlands,Rotterdam,2021-10-31,103081,271
+Netherlands,Rotterdam,2021-11-01,103239,158
+Netherlands,Rotterdam,2021-11-02,103429,190
+Netherlands,Rotterdam,2021-11-03,103700,271
+Netherlands,Rotterdam,2021-11-04,103952,252
+Netherlands,Rotterdam,2021-11-05,104303,351
+Netherlands,Rotterdam,2021-11-06,104632,329
+Netherlands,Rotterdam,2021-11-07,104921,289
+Netherlands,Rotterdam,2021-11-08,105327,406
+Netherlands,Rotterdam,2021-11-09,105645,318
+Netherlands,Rotterdam,2021-11-10,106192,547
+Netherlands,Rotterdam,2021-11-11,106781,589
+Netherlands,Rotterdam,2021-11-12,107264,483
+Netherlands,Rotterdam,2021-11-13,107635,371
+Netherlands,Rotterdam,2021-11-14,107880,245
+Netherlands,Rotterdam,2021-11-15,108348,468
+Netherlands,Rotterdam,2021-11-16,108946,598
+Netherlands,Rotterdam,2021-11-17,109915,969
+Netherlands,Rotterdam,2021-11-18,110466,551
+Netherlands,Rotterdam,2021-11-19,110939,473
+Netherlands,Rotterdam,2021-11-20,111638,699
+Netherlands,Rotterdam,2021-11-21,112235,597
+Netherlands,Rotterdam,2021-11-22,112901,666
+Netherlands,Rotterdam,2021-11-23,113460,559
+Netherlands,Rotterdam,2021-11-24,114024,564
+Netherlands,Rotterdam,2021-11-25,114773,749
+Netherlands,Rotterdam,2021-11-26,115428,655
+Netherlands,Rotterdam,2021-11-27,116172,744
+Netherlands,Rotterdam,2021-11-28,116814,642
+Netherlands,Rotterdam,2021-11-29,117430,616
+Netherlands,Rotterdam,2021-11-30,117981,551
+Netherlands,Rotterdam,2021-12-01,118588,607
+Netherlands,Rotterdam,2021-12-02,119521,933
+Netherlands,Rotterdam,2021-12-03,120249,728
+Netherlands,Rotterdam,2021-12-04,120944,695
+Netherlands,Rotterdam,2021-12-05,121781,837
+Netherlands,Rotterdam,2021-12-06,122343,562
+Netherlands,Rotterdam,2021-12-07,122975,632
+Netherlands,Rotterdam,2021-12-08,123491,516
+Netherlands,Rotterdam,2021-12-09,124307,816
+Netherlands,Rotterdam,2021-12-10,124941,634
+Netherlands,Rotterdam,2021-12-11,125605,664
+Netherlands,Rotterdam,2021-12-12,126252,647
+Netherlands,Rotterdam,2021-12-13,126777,525
+Netherlands,Rotterdam,2021-12-14,127229,452
+Netherlands,Rotterdam,2021-12-15,127675,446
+Netherlands,Rotterdam,2021-12-16,128340,665
+Netherlands,Rotterdam,2021-12-17,128871,531
+Netherlands,Rotterdam,2021-12-18,129436,565
+Netherlands,Rotterdam,2021-12-19,129800,364
+Netherlands,Rotterdam,2021-12-20,130259,459
+Netherlands,Rotterdam,2021-12-21,130563,304
+Netherlands,Rotterdam,2021-12-22,131095,532
+Netherlands,Rotterdam,2021-12-23,131695,600
+Netherlands,Rotterdam,2021-12-24,132284,589
+Netherlands,Rotterdam,2021-12-25,132698,414
+Netherlands,Rotterdam,2021-12-26,133346,648
+Netherlands,Rotterdam,2021-12-27,133842,496
+Netherlands,Rotterdam,2021-12-28,134200,358
+Netherlands,Rotterdam,2021-12-29,134797,597
+Netherlands,Rotterdam,2021-12-30,135592,795
+Netherlands,Rotterdam,2021-12-31,136364,772
+Netherlands,Rotterdam,2022-01-01,137033,669
+Netherlands,Rotterdam,2022-01-02,138030,997
+Netherlands,Rotterdam,2022-01-03,138684,654
+Netherlands,Rotterdam,2022-01-04,139449,765
+Netherlands,Rotterdam,2022-01-05,140713,1264
+Netherlands,Rotterdam,2022-01-06,141893,1180
+Netherlands,Rotterdam,2022-01-07,144313,2420
+Netherlands,Rotterdam,2022-01-08,145892,1579
+Netherlands,Rotterdam,2022-01-09,147705,1813
+Netherlands,Rotterdam,2022-01-10,149015,1310
+Netherlands,Rotterdam,2022-01-11,150486,1471
+Netherlands,Rotterdam,2022-01-12,152031,1545
+Netherlands,Rotterdam,2022-01-13,154220,2189
+Netherlands,Rotterdam,2022-01-14,156217,1997
+Netherlands,Rotterdam,2022-01-15,157619,1402
+Netherlands,Rotterdam,2022-01-16,159443,1824
+Netherlands,Rotterdam,2022-01-17,161334,1891
+Netherlands,Rotterdam,2022-01-18,163056,1722
+Netherlands,Rotterdam,2022-01-19,164652,1596
+Netherlands,Rotterdam,2022-01-20,165730,1078
+Netherlands,Rotterdam,2022-01-21,167639,1909
+Netherlands,Rotterdam,2022-01-22,173181,5542
+Netherlands,Rotterdam,2022-01-23,175631,2450
+Netherlands,Rotterdam,2022-01-24,178616,2985
+Netherlands,Rotterdam,2022-01-25,180952,2336
+Netherlands,Rotterdam,2022-01-26,183604,2652
+Netherlands,Rotterdam,2022-01-27,185492,1888
+Netherlands,Rotterdam,2022-01-28,189233,3741
+Netherlands,Rotterdam,2022-01-29,190062,829
+Netherlands,Rotterdam,2022-01-30,191675,1613
+Netherlands,Rotterdam,2022-01-31,198270,6595
+Netherlands,Rotterdam,2022-02-01,200800,2530
+Netherlands,Rotterdam,2022-02-02,204939,4139
+Netherlands,Rotterdam,2022-02-03,208470,3531
+Netherlands,Rotterdam,2022-02-04,209813,1343
+Netherlands,Rotterdam,2022-02-05,211744,1931
+Netherlands,Rotterdam,2022-02-06,217320,5576
+Netherlands,Rotterdam,2022-02-07,218371,1051
+Netherlands,Rotterdam,2022-02-08,227884,9513
+Netherlands,Rotterdam,2022-02-09,230716,2832
+Netherlands,Rotterdam,2022-02-10,233039,2323
+Netherlands,Rotterdam,2022-02-11,235231,2192
+Netherlands,Rotterdam,2022-02-12,236990,1759
+Netherlands,Rotterdam,2022-02-13,238528,1538
+Netherlands,Rotterdam,2022-02-14,239658,1130
+Netherlands,Rotterdam,2022-02-15,241261,1603
+Netherlands,Rotterdam,2022-02-16,242919,1658
+Netherlands,Rotterdam,2022-02-17,244498,1579
+Netherlands,Rotterdam,2022-02-18,245747,1249
+Netherlands,Rotterdam,2022-02-19,246431,684
+Netherlands,Rotterdam,2022-02-20,247314,883
+Netherlands,Rotterdam,2022-02-21,248064,750
+Netherlands,Rotterdam,2022-02-22,248851,787
+Netherlands,Rotterdam,2022-02-23,249944,1093
+Netherlands,Rotterdam,2022-02-24,250998,1054
+Netherlands,Rotterdam,2022-02-25,251709,711
+Netherlands,Rotterdam,2022-02-26,252589,880
+Netherlands,Rotterdam,2022-02-27,253143,554
+Netherlands,Rotterdam,2022-02-28,253747,604
+Netherlands,Rotterdam,2022-03-01,254606,859
+Netherlands,Rotterdam,2022-03-02,255582,976
+Netherlands,Rotterdam,2022-03-03,257145,1563
+Netherlands,Rotterdam,2022-03-04,258345,1200
+Netherlands,Rotterdam,2022-03-05,259573,1228
+Netherlands,Rotterdam,2022-03-06,260605,1032
+Netherlands,Rotterdam,2022-03-07,261776,1171
+Netherlands,Rotterdam,2022-03-08,263381,1605
+Netherlands,Rotterdam,2022-03-09,264989,1608
+Netherlands,Rotterdam,2022-03-10,266639,1650
+Netherlands,Rotterdam,2022-03-11,268205,1566
+Netherlands,Rotterdam,2022-03-12,269474,1269
+Netherlands,Rotterdam,2022-03-13,270681,1207
+Netherlands,Rotterdam,2022-03-14,271808,1127
+Netherlands,Rotterdam,2022-03-15,273202,1394
+Netherlands,Rotterdam,2022-03-16,274791,1589
+Netherlands,Rotterdam,2022-03-17,276185,1394
+Netherlands,Rotterdam,2022-03-18,277879,1694
+Netherlands,Rotterdam,2022-03-19,278897,1018
+Netherlands,Rotterdam,2022-03-20,280019,1122
+Netherlands,Rotterdam,2022-03-21,280891,872
+Netherlands,Rotterdam,2022-03-22,282005,1114
+Netherlands,Rotterdam,2022-03-23,283237,1232
+Netherlands,Rotterdam,2022-03-24,284389,1152
+Netherlands,Rotterdam,2022-03-25,285462,1073
+Netherlands,Rotterdam,2022-03-26,286363,901
+Netherlands,Rotterdam,2022-03-27,287167,804
+Netherlands,Rotterdam,2022-03-28,287828,661
+Netherlands,Rotterdam,2022-03-29,288759,931
+Netherlands,Rotterdam,2022-03-30,289805,1046
+Netherlands,Rotterdam,2022-03-31,290609,804
+Netherlands,Rotterdam,2022-04-01,291330,721
+Netherlands,Rotterdam,2022-04-02,291856,526
+Netherlands,Rotterdam,2022-04-03,292331,475
+Netherlands,Rotterdam,2022-04-04,292710,379
+Netherlands,Rotterdam,2022-04-05,293170,460
+Netherlands,Rotterdam,2022-04-06,293604,434
+Netherlands,Rotterdam,2022-04-07,294087,483
+Netherlands,Rotterdam,2022-04-08,294401,314
+Netherlands,Rotterdam,2022-04-09,294801,400
+Netherlands,Rotterdam,2022-04-10,295067,266
+Netherlands,Rotterdam,2022-04-11,295305,238
+Netherlands,Rotterdam,2022-04-12,295553,248
+Netherlands,Rotterdam,2022-04-13,295738,185
+Netherlands,Rotterdam,2022-04-14,295966,228
+Netherlands,Rotterdam,2022-04-15,296100,134
+Netherlands,Rotterdam,2022-04-16,296240,140
+Netherlands,Rotterdam,2022-04-17,296359,119
+Netherlands,Rotterdam,2022-04-18,296439,80
+Netherlands,Rotterdam,2022-04-19,296576,137
+Netherlands,Rotterdam,2022-04-20,296709,133
+Netherlands,Rotterdam,2022-04-21,296827,118
+Netherlands,Rotterdam,2022-04-22,296954,127
+Netherlands,Rotterdam,2022-04-23,297052,98
+Netherlands,Rotterdam,2022-04-24,297114,62
+Netherlands,Rotterdam,2022-04-25,297166,52
+Netherlands,Rotterdam,2022-04-26,297238,72
+Netherlands,Rotterdam,2022-04-27,297303,65
+Netherlands,Rotterdam,2022-04-28,297377,74
+Netherlands,Rotterdam,2022-04-29,297440,63
+Netherlands,Rotterdam,2022-04-30,297490,50
+Netherlands,Rotterdam,2022-05-01,297546,56
+Netherlands,Rotterdam,2022-05-02,297584,38
+Netherlands,Rotterdam,2022-05-03,297642,58
+Netherlands,Rotterdam,2022-05-04,297715,73
+Netherlands,Rotterdam,2022-05-05,297782,67
+Netherlands,Rotterdam,2022-05-06,297824,42
+Netherlands,Rotterdam,2022-05-07,297878,54
+Netherlands,Rotterdam,2022-05-08,297909,31
+Netherlands,Rotterdam,2022-05-09,297948,39
+Netherlands,Rotterdam,2022-05-10,298008,60
+Netherlands,Rotterdam,2022-05-11,298081,73
+Netherlands,Rotterdam,2022-05-12,298146,65
+Netherlands,Rotterdam,2022-05-13,298201,55
+Netherlands,Rotterdam,2022-05-14,298257,56
+Netherlands,Rotterdam,2022-05-15,298314,57
+Netherlands,Rotterdam,2022-05-16,298343,29
+Netherlands,Rotterdam,2022-05-17,298387,44
+Netherlands,Rotterdam,2022-05-18,298449,62
+Netherlands,Rotterdam,2022-05-19,298584,135
+Netherlands,Rotterdam,2022-05-20,298631,47
+Netherlands,Rotterdam,2022-05-21,298705,74
+Netherlands,Rotterdam,2022-05-22,298743,38
+Netherlands,Rotterdam,2022-05-23,298778,35
+Netherlands,Rotterdam,2022-05-24,298831,53
+Netherlands,Rotterdam,2022-05-25,298892,61
+Netherlands,Rotterdam,2022-05-26,298949,57
+Netherlands,Rotterdam,2022-05-27,298985,36
+Netherlands,Rotterdam,2022-05-28,299034,49
+Netherlands,Rotterdam,2022-05-29,299075,41
+Netherlands,Rotterdam,2022-05-30,299122,47
+Netherlands,Rotterdam,2022-05-31,299194,72
+Netherlands,Rotterdam,2022-06-01,299275,81
+Netherlands,Rotterdam,2022-06-02,299363,88
+Netherlands,Rotterdam,2022-06-03,299456,93
+Netherlands,Rotterdam,2022-06-04,299532,76
+Netherlands,Rotterdam,2022-06-05,299580,48
+Netherlands,Rotterdam,2022-06-06,299627,47
+Netherlands,Rotterdam,2022-06-07,299684,57
+Netherlands,Rotterdam,2022-06-08,299743,59
+Netherlands,Rotterdam,2022-06-09,299842,99
+Netherlands,Rotterdam,2022-06-10,299916,74
+Netherlands,Rotterdam,2022-06-11,300035,119
+Netherlands,Rotterdam,2022-06-12,300113,78
+Netherlands,Rotterdam,2022-06-13,300183,70
+Netherlands,Rotterdam,2022-06-14,300288,105
+Netherlands,Rotterdam,2022-06-15,300403,115
+Netherlands,Rotterdam,2022-06-16,300581,178
+Netherlands,Rotterdam,2022-06-17,300715,134
+Netherlands,Rotterdam,2022-06-18,300910,195
+Netherlands,Rotterdam,2022-06-19,301034,124
+Netherlands,Rotterdam,2022-06-20,301134,100
+Netherlands,Rotterdam,2022-06-21,301339,205
+Netherlands,Rotterdam,2022-06-22,301495,156
+Netherlands,Rotterdam,2022-06-23,301736,241
+Netherlands,Rotterdam,2022-06-24,301929,193
+Netherlands,Rotterdam,2022-06-25,302091,162
+Netherlands,Rotterdam,2022-06-26,302294,203
+Netherlands,Rotterdam,2022-06-27,302407,113
+Netherlands,Rotterdam,2022-06-28,302550,143
+Netherlands,Rotterdam,2022-06-29,302797,247
+Netherlands,Rotterdam,2022-06-30,303068,271
+Netherlands,Rotterdam,2022-07-01,303275,207
+Netherlands,Rotterdam,2022-07-02,303514,239
+Netherlands,Rotterdam,2022-07-03,303663,149
+Netherlands,Rotterdam,2022-07-04,303802,139
+Netherlands,Rotterdam,2022-07-05,303922,120
+Netherlands,Rotterdam,2022-07-06,304287,365
+Netherlands,Rotterdam,2022-07-07,304515,228
+Netherlands,Rotterdam,2022-07-08,304906,391
+Netherlands,Rotterdam,2022-07-09,305184,278
+Netherlands,Rotterdam,2022-07-10,305473,289
+Netherlands,Rotterdam,2022-07-11,305622,149
+Netherlands,Rotterdam,2022-07-12,305941,319
+Netherlands,Rotterdam,2022-07-13,306212,271
+Netherlands,Rotterdam,2022-07-14,306529,317
+Netherlands,Rotterdam,2022-07-15,306781,252
+Netherlands,Rotterdam,2022-07-16,307000,219
+Netherlands,Rotterdam,2022-07-17,307191,191
+Netherlands,Rotterdam,2022-07-18,307297,106
+Netherlands,Rotterdam,2022-07-19,307466,169
+Netherlands,Rotterdam,2022-07-20,307638,172
+Netherlands,Rotterdam,2022-07-21,307852,214
+Netherlands,Rotterdam,2022-07-22,307994,142
+Netherlands,Rotterdam,2022-07-23,308165,171
+Netherlands,Rotterdam,2022-07-24,308286,121
+Netherlands,Rotterdam,2022-07-25,308363,77
+Netherlands,Rotterdam,2022-07-26,308497,134
+Netherlands,Rotterdam,2022-07-27,308582,85
+Netherlands,Rotterdam,2022-07-28,308759,177
+Netherlands,Rotterdam,2022-07-29,308847,88
+Netherlands,Rotterdam,2022-07-30,308965,118
+Netherlands,Rotterdam,2022-07-31,309020,55
+Netherlands,Rotterdam,2022-08-01,309119,99
+Netherlands,Rotterdam,2022-08-02,309213,94
+Netherlands,Rotterdam,2022-08-03,309323,110
+Netherlands,Rotterdam,2022-08-04,309400,77
+Netherlands,Rotterdam,2022-08-05,309481,81
+Netherlands,Rotterdam,2022-08-06,309573,92
+Netherlands,Rotterdam,2022-08-07,309620,47
+Netherlands,Rotterdam,2022-08-08,309661,41
+Netherlands,Rotterdam,2022-08-09,309734,73
+Netherlands,Rotterdam,2022-08-10,309812,78
+Netherlands,Rotterdam,2022-08-11,309893,81
+Netherlands,Rotterdam,2022-08-12,309974,81
+Netherlands,Rotterdam,2022-08-13,310034,60
+Netherlands,Rotterdam,2022-08-14,310098,64
+Netherlands,Rotterdam,2022-08-15,310127,29
+Netherlands,Rotterdam,2022-08-16,310205,78
+Netherlands,Rotterdam,2022-08-17,310279,74
+Netherlands,Rotterdam,2022-08-18,310279,0
+Netherlands,Rotterdam,2022-08-19,310378,99
+Netherlands,Rotterdam,2022-08-20,310430,52
+Netherlands,Rotterdam,2022-08-21,310474,44
+Netherlands,Rotterdam,2022-08-22,310498,24
+Netherlands,Rotterdam,2022-08-23,310525,27
+Netherlands,Rotterdam,2022-08-24,310580,55
+Netherlands,Rotterdam,2022-08-25,310657,77
+Netherlands,Rotterdam,2022-08-26,310699,42
+Netherlands,Rotterdam,2022-08-27,310762,63
+Netherlands,Rotterdam,2022-08-28,310792,30
+Netherlands,Rotterdam,2022-08-29,310816,24
+Netherlands,Rotterdam,2022-08-30,310845,29
+Netherlands,Rotterdam,2022-08-31,310883,38
+Netherlands,Rotterdam,2022-09-01,310925,42
+Netherlands,Rotterdam,2022-09-02,310961,36
+Netherlands,Rotterdam,2022-09-03,311005,44
+Netherlands,Rotterdam,2022-09-04,311032,27
+Netherlands,Rotterdam,2022-09-05,311054,22
+Netherlands,Rotterdam,2022-09-06,311094,40
+Netherlands,Rotterdam,2022-09-07,311156,62
+Netherlands,Rotterdam,2022-09-08,311207,51
+Netherlands,Rotterdam,2022-09-09,311259,52
+Netherlands,Utrecht,2020-03-02,NA,0
+Netherlands,Utrecht,2020-03-03,2,0
+Netherlands,Utrecht,2020-03-04,2,0
+Netherlands,Utrecht,2020-03-05,6,4
+Netherlands,Utrecht,2020-03-06,8,2
+Netherlands,Utrecht,2020-03-07,11,3
+Netherlands,Utrecht,2020-03-08,13,2
+Netherlands,Utrecht,2020-03-09,13,0
+Netherlands,Utrecht,2020-03-10,14,1
+Netherlands,Utrecht,2020-03-11,18,4
+Netherlands,Utrecht,2020-03-12,25,7
+Netherlands,Utrecht,2020-03-13,26,1
+Netherlands,Utrecht,2020-03-14,30,4
+Netherlands,Utrecht,2020-03-15,38,8
+Netherlands,Utrecht,2020-03-16,48,10
+Netherlands,Utrecht,2020-03-17,60,12
+Netherlands,Utrecht,2020-03-18,69,9
+Netherlands,Utrecht,2020-03-19,83,14
+Netherlands,Utrecht,2020-03-20,101,18
+Netherlands,Utrecht,2020-03-21,121,20
+Netherlands,Utrecht,2020-03-22,131,10
+Netherlands,Utrecht,2020-03-23,145,14
+Netherlands,Utrecht,2020-03-24,160,15
+Netherlands,Utrecht,2020-03-25,191,31
+Netherlands,Utrecht,2020-03-26,215,24
+Netherlands,Utrecht,2020-03-27,243,28
+Netherlands,Utrecht,2020-03-28,265,22
+Netherlands,Utrecht,2020-03-29,290,25
+Netherlands,Utrecht,2020-03-30,307,17
+Netherlands,Utrecht,2020-03-31,NA,0
+Netherlands,Utrecht,2020-04-01,NA,0
+Netherlands,Utrecht,2020-04-02,NA,0
+Netherlands,Utrecht,2020-04-03,NA,0
+Netherlands,Utrecht,2020-04-04,NA,0
+Netherlands,Utrecht,2020-04-05,NA,0
+Netherlands,Utrecht,2020-04-06,NA,0
+Netherlands,Utrecht,2020-04-07,NA,0
+Netherlands,Utrecht,2020-04-08,470,0
+Netherlands,Utrecht,2020-04-09,480,10
+Netherlands,Utrecht,2020-04-10,496,16
+Netherlands,Utrecht,2020-04-11,510,14
+Netherlands,Utrecht,2020-04-12,533,23
+Netherlands,Utrecht,2020-04-13,558,25
+Netherlands,Utrecht,2020-04-14,577,19
+Netherlands,Utrecht,2020-04-15,591,14
+Netherlands,Utrecht,2020-04-16,605,14
+Netherlands,Utrecht,2020-04-17,624,19
+Netherlands,Utrecht,2020-04-18,639,15
+Netherlands,Utrecht,2020-04-19,652,13
+Netherlands,Utrecht,2020-04-20,659,7
+Netherlands,Utrecht,2020-04-21,675,16
+Netherlands,Utrecht,2020-04-22,683,8
+Netherlands,Utrecht,2020-04-23,699,16
+Netherlands,Utrecht,2020-04-24,719,20
+Netherlands,Utrecht,2020-04-25,732,13
+Netherlands,Utrecht,2020-04-26,759,27
+Netherlands,Utrecht,2020-04-27,766,7
+Netherlands,Utrecht,2020-04-28,777,11
+Netherlands,Utrecht,2020-04-29,788,11
+Netherlands,Utrecht,2020-04-30,802,14
+Netherlands,Utrecht,2020-05-01,815,13
+Netherlands,Utrecht,2020-05-02,829,14
+Netherlands,Utrecht,2020-05-03,842,13
+Netherlands,Utrecht,2020-05-04,846,4
+Netherlands,Utrecht,2020-05-05,858,12
+Netherlands,Utrecht,2020-05-06,859,1
+Netherlands,Utrecht,2020-05-07,901,42
+Netherlands,Utrecht,2020-05-08,908,7
+Netherlands,Utrecht,2020-05-09,912,4
+Netherlands,Utrecht,2020-05-10,925,13
+Netherlands,Utrecht,2020-05-11,927,2
+Netherlands,Utrecht,2020-05-12,934,7
+Netherlands,Utrecht,2020-05-13,941,7
+Netherlands,Utrecht,2020-05-14,950,9
+Netherlands,Utrecht,2020-05-15,954,4
+Netherlands,Utrecht,2020-05-16,964,10
+Netherlands,Utrecht,2020-05-17,970,6
+Netherlands,Utrecht,2020-05-18,973,3
+Netherlands,Utrecht,2020-05-19,973,0
+Netherlands,Utrecht,2020-05-20,981,8
+Netherlands,Utrecht,2020-05-21,991,10
+Netherlands,Utrecht,2020-05-22,997,6
+Netherlands,Utrecht,2020-05-23,1006,9
+Netherlands,Utrecht,2020-05-24,1010,4
+Netherlands,Utrecht,2020-05-25,1016,6
+Netherlands,Utrecht,2020-05-26,1021,5
+Netherlands,Utrecht,2020-05-27,1029,8
+Netherlands,Utrecht,2020-05-28,1041,12
+Netherlands,Utrecht,2020-05-29,1054,13
+Netherlands,Utrecht,2020-05-30,1059,5
+Netherlands,Utrecht,2020-05-31,1077,18
+Netherlands,Utrecht,2020-06-01,1084,7
+Netherlands,Utrecht,2020-06-02,1092,8
+Netherlands,Utrecht,2020-06-03,1099,7
+Netherlands,Utrecht,2020-06-04,1112,13
+Netherlands,Utrecht,2020-06-05,1129,17
+Netherlands,Utrecht,2020-06-06,1139,10
+Netherlands,Utrecht,2020-06-07,1148,9
+Netherlands,Utrecht,2020-06-08,1156,8
+Netherlands,Utrecht,2020-06-09,1163,7
+Netherlands,Utrecht,2020-06-10,1173,10
+Netherlands,Utrecht,2020-06-11,1181,8
+Netherlands,Utrecht,2020-06-12,1191,10
+Netherlands,Utrecht,2020-06-13,1194,3
+Netherlands,Utrecht,2020-06-14,1203,9
+Netherlands,Utrecht,2020-06-15,1211,8
+Netherlands,Utrecht,2020-06-16,1221,10
+Netherlands,Utrecht,2020-06-17,1228,7
+Netherlands,Utrecht,2020-06-18,1232,4
+Netherlands,Utrecht,2020-06-19,1235,3
+Netherlands,Utrecht,2020-06-20,1240,5
+Netherlands,Utrecht,2020-06-21,1246,6
+Netherlands,Utrecht,2020-06-22,1251,5
+Netherlands,Utrecht,2020-06-23,1261,10
+Netherlands,Utrecht,2020-06-24,1265,4
+Netherlands,Utrecht,2020-06-25,1280,15
+Netherlands,Utrecht,2020-06-26,1283,3
+Netherlands,Utrecht,2020-06-27,1286,3
+Netherlands,Utrecht,2020-06-28,1289,3
+Netherlands,Utrecht,2020-06-29,1296,7
+Netherlands,Utrecht,2020-06-30,1300,4
+Netherlands,Utrecht,2020-07-01,1302,2
+Netherlands,Utrecht,2020-07-02,1302,0
+Netherlands,Utrecht,2020-07-03,1303,1
+Netherlands,Utrecht,2020-07-04,1313,10
+Netherlands,Utrecht,2020-07-05,1319,6
+Netherlands,Utrecht,2020-07-06,1320,1
+Netherlands,Utrecht,2020-07-07,1323,3
+Netherlands,Utrecht,2020-07-08,1323,0
+Netherlands,Utrecht,2020-07-09,1330,7
+Netherlands,Utrecht,2020-07-10,1332,2
+Netherlands,Utrecht,2020-07-11,1338,6
+Netherlands,Utrecht,2020-07-12,1340,2
+Netherlands,Utrecht,2020-07-13,1347,7
+Netherlands,Utrecht,2020-07-14,1351,4
+Netherlands,Utrecht,2020-07-15,1361,10
+Netherlands,Utrecht,2020-07-16,1366,5
+Netherlands,Utrecht,2020-07-17,1371,5
+Netherlands,Utrecht,2020-07-18,1379,8
+Netherlands,Utrecht,2020-07-19,1387,8
+Netherlands,Utrecht,2020-07-20,1399,12
+Netherlands,Utrecht,2020-07-21,1405,6
+Netherlands,Utrecht,2020-07-22,1410,5
+Netherlands,Utrecht,2020-07-23,1416,6
+Netherlands,Utrecht,2020-07-24,1417,1
+Netherlands,Utrecht,2020-07-25,1422,5
+Netherlands,Utrecht,2020-07-26,1427,5
+Netherlands,Utrecht,2020-07-27,1431,4
+Netherlands,Utrecht,2020-07-28,1433,2
+Netherlands,Utrecht,2020-07-29,1444,11
+Netherlands,Utrecht,2020-07-30,1458,14
+Netherlands,Utrecht,2020-07-31,1483,25
+Netherlands,Utrecht,2020-08-01,1489,6
+Netherlands,Utrecht,2020-08-02,1503,14
+Netherlands,Utrecht,2020-08-03,1515,12
+Netherlands,Utrecht,2020-08-04,1532,17
+Netherlands,Utrecht,2020-08-05,1544,12
+Netherlands,Utrecht,2020-08-06,1571,27
+Netherlands,Utrecht,2020-08-07,1604,33
+Netherlands,Utrecht,2020-08-08,1621,17
+Netherlands,Utrecht,2020-08-09,1641,20
+Netherlands,Utrecht,2020-08-10,1657,16
+Netherlands,Utrecht,2020-08-11,1674,17
+Netherlands,Utrecht,2020-08-12,1694,20
+Netherlands,Utrecht,2020-08-13,1712,18
+Netherlands,Utrecht,2020-08-14,1729,17
+Netherlands,Utrecht,2020-08-15,1748,19
+Netherlands,Utrecht,2020-08-16,1761,13
+Netherlands,Utrecht,2020-08-17,1774,13
+Netherlands,Utrecht,2020-08-18,1784,10
+Netherlands,Utrecht,2020-08-19,1800,16
+Netherlands,Utrecht,2020-08-20,1814,14
+Netherlands,Utrecht,2020-08-21,1831,17
+Netherlands,Utrecht,2020-08-22,1856,25
+Netherlands,Utrecht,2020-08-23,1872,16
+Netherlands,Utrecht,2020-08-24,1886,14
+Netherlands,Utrecht,2020-08-25,1899,13
+Netherlands,Utrecht,2020-08-26,1909,10
+Netherlands,Utrecht,2020-08-27,1937,28
+Netherlands,Utrecht,2020-08-28,1949,12
+Netherlands,Utrecht,2020-08-29,1970,21
+Netherlands,Utrecht,2020-08-30,1996,26
+Netherlands,Utrecht,2020-08-31,2014,18
+Netherlands,Utrecht,2020-09-01,2031,17
+Netherlands,Utrecht,2020-09-02,2057,26
+Netherlands,Utrecht,2020-09-03,2074,17
+Netherlands,Utrecht,2020-09-04,2103,29
+Netherlands,Utrecht,2020-09-05,2131,28
+Netherlands,Utrecht,2020-09-06,2159,28
+Netherlands,Utrecht,2020-09-07,2190,31
+Netherlands,Utrecht,2020-09-08,2230,40
+Netherlands,Utrecht,2020-09-09,2274,44
+Netherlands,Utrecht,2020-09-10,2290,16
+Netherlands,Utrecht,2020-09-11,2323,33
+Netherlands,Utrecht,2020-09-12,2368,45
+Netherlands,Utrecht,2020-09-13,2398,30
+Netherlands,Utrecht,2020-09-14,2440,42
+Netherlands,Utrecht,2020-09-15,2482,42
+Netherlands,Utrecht,2020-09-16,2528,46
+Netherlands,Utrecht,2020-09-17,2609,81
+Netherlands,Utrecht,2020-09-18,2680,71
+Netherlands,Utrecht,2020-09-19,2737,57
+Netherlands,Utrecht,2020-09-20,2801,64
+Netherlands,Utrecht,2020-09-21,2877,76
+Netherlands,Utrecht,2020-09-22,2937,60
+Netherlands,Utrecht,2020-09-23,3013,76
+Netherlands,Utrecht,2020-09-24,3099,86
+Netherlands,Utrecht,2020-09-25,3208,109
+Netherlands,Utrecht,2020-09-26,3291,83
+Netherlands,Utrecht,2020-09-27,3369,78
+Netherlands,Utrecht,2020-09-28,3438,69
+Netherlands,Utrecht,2020-09-29,3508,70
+Netherlands,Utrecht,2020-09-30,3632,124
+Netherlands,Utrecht,2020-10-01,3733,101
+Netherlands,Utrecht,2020-10-02,3857,124
+Netherlands,Utrecht,2020-10-03,4000,143
+Netherlands,Utrecht,2020-10-04,4133,133
+Netherlands,Utrecht,2020-10-05,4241,108
+Netherlands,Utrecht,2020-10-06,4416,175
+Netherlands,Utrecht,2020-10-07,4601,185
+Netherlands,Utrecht,2020-10-08,4781,180
+Netherlands,Utrecht,2020-10-09,4997,216
+Netherlands,Utrecht,2020-10-10,5218,221
+Netherlands,Utrecht,2020-10-11,5452,234
+Netherlands,Utrecht,2020-10-12,5635,183
+Netherlands,Utrecht,2020-10-13,5941,306
+Netherlands,Utrecht,2020-10-14,6085,144
+Netherlands,Utrecht,2020-10-15,6388,303
+Netherlands,Utrecht,2020-10-16,6651,263
+Netherlands,Utrecht,2020-10-17,6882,231
+Netherlands,Utrecht,2020-10-18,7149,267
+Netherlands,Utrecht,2020-10-19,7468,319
+Netherlands,Utrecht,2020-10-20,7679,211
+Netherlands,Utrecht,2020-10-21,7868,189
+Netherlands,Utrecht,2020-10-22,8117,249
+Netherlands,Utrecht,2020-10-23,8413,296
+Netherlands,Utrecht,2020-10-24,8659,246
+Netherlands,Utrecht,2020-10-25,8999,340
+Netherlands,Utrecht,2020-10-26,9256,257
+Netherlands,Utrecht,2020-10-27,9532,276
+Netherlands,Utrecht,2020-10-28,9724,192
+Netherlands,Utrecht,2020-10-29,10025,301
+Netherlands,Utrecht,2020-10-30,10314,289
+Netherlands,Utrecht,2020-10-31,10531,217
+Netherlands,Utrecht,2020-11-01,10696,165
+Netherlands,Utrecht,2020-11-02,10887,191
+Netherlands,Utrecht,2020-11-03,11052,165
+Netherlands,Utrecht,2020-11-04,11221,169
+Netherlands,Utrecht,2020-11-05,11368,147
+Netherlands,Utrecht,2020-11-06,11515,147
+Netherlands,Utrecht,2020-11-07,11647,132
+Netherlands,Utrecht,2020-11-08,11788,141
+Netherlands,Utrecht,2020-11-09,11882,94
+Netherlands,Utrecht,2020-11-10,11982,100
+Netherlands,Utrecht,2020-11-11,12062,80
+Netherlands,Utrecht,2020-11-12,12179,117
+Netherlands,Utrecht,2020-11-13,12309,130
+Netherlands,Utrecht,2020-11-14,12424,115
+Netherlands,Utrecht,2020-11-15,12531,107
+Netherlands,Utrecht,2020-11-16,12613,82
+Netherlands,Utrecht,2020-11-17,12684,71
+Netherlands,Utrecht,2020-11-18,12761,77
+Netherlands,Utrecht,2020-11-19,12908,147
+Netherlands,Utrecht,2020-11-20,13057,149
+Netherlands,Utrecht,2020-11-21,13126,69
+Netherlands,Utrecht,2020-11-22,13233,107
+Netherlands,Utrecht,2020-11-23,13303,70
+Netherlands,Utrecht,2020-11-24,13372,69
+Netherlands,Utrecht,2020-11-25,13460,88
+Netherlands,Utrecht,2020-11-26,13561,101
+Netherlands,Utrecht,2020-11-27,13647,86
+Netherlands,Utrecht,2020-11-28,13707,60
+Netherlands,Utrecht,2020-11-29,13794,87
+Netherlands,Utrecht,2020-11-30,13866,72
+Netherlands,Utrecht,2020-12-01,13948,82
+Netherlands,Utrecht,2020-12-02,14044,96
+Netherlands,Utrecht,2020-12-03,14123,79
+Netherlands,Utrecht,2020-12-04,14239,116
+Netherlands,Utrecht,2020-12-05,14358,119
+Netherlands,Utrecht,2020-12-06,14465,107
+Netherlands,Utrecht,2020-12-07,14551,86
+Netherlands,Utrecht,2020-12-08,14648,97
+Netherlands,Utrecht,2020-12-09,14762,114
+Netherlands,Utrecht,2020-12-10,14910,148
+Netherlands,Utrecht,2020-12-11,15050,140
+Netherlands,Utrecht,2020-12-12,15195,145
+Netherlands,Utrecht,2020-12-13,15325,130
+Netherlands,Utrecht,2020-12-14,15427,102
+Netherlands,Utrecht,2020-12-15,15569,142
+Netherlands,Utrecht,2020-12-16,15770,201
+Netherlands,Utrecht,2020-12-17,15885,115
+Netherlands,Utrecht,2020-12-18,16053,168
+Netherlands,Utrecht,2020-12-19,16208,155
+Netherlands,Utrecht,2020-12-20,16402,194
+Netherlands,Utrecht,2020-12-21,16560,158
+Netherlands,Utrecht,2020-12-22,16703,143
+Netherlands,Utrecht,2020-12-23,16860,157
+Netherlands,Utrecht,2020-12-24,17013,153
+Netherlands,Utrecht,2020-12-25,17180,167
+Netherlands,Utrecht,2020-12-26,17317,137
+Netherlands,Utrecht,2020-12-27,17391,74
+Netherlands,Utrecht,2020-12-28,17484,93
+Netherlands,Utrecht,2020-12-29,17589,105
+Netherlands,Utrecht,2020-12-30,17723,134
+Netherlands,Utrecht,2020-12-31,17869,146
+Netherlands,Utrecht,2021-01-01,17981,112
+Netherlands,Utrecht,2021-01-02,18091,110
+Netherlands,Utrecht,2021-01-03,18161,70
+Netherlands,Utrecht,2021-01-04,18259,98
+Netherlands,Utrecht,2021-01-05,18377,118
+Netherlands,Utrecht,2021-01-06,18491,114
+Netherlands,Utrecht,2021-01-07,18617,126
+Netherlands,Utrecht,2021-01-08,18714,97
+Netherlands,Utrecht,2021-01-09,18812,98
+Netherlands,Utrecht,2021-01-10,18901,89
+Netherlands,Utrecht,2021-01-11,18981,80
+Netherlands,Utrecht,2021-01-12,19037,56
+Netherlands,Utrecht,2021-01-13,19159,122
+Netherlands,Utrecht,2021-01-14,19225,66
+Netherlands,Utrecht,2021-01-15,19304,79
+Netherlands,Utrecht,2021-01-16,19400,96
+Netherlands,Utrecht,2021-01-17,19483,83
+Netherlands,Utrecht,2021-01-18,19530,47
+Netherlands,Utrecht,2021-01-19,19579,49
+Netherlands,Utrecht,2021-01-20,19662,83
+Netherlands,Utrecht,2021-01-21,19742,80
+Netherlands,Utrecht,2021-01-22,19827,85
+Netherlands,Utrecht,2021-01-23,19886,59
+Netherlands,Utrecht,2021-01-24,19956,70
+Netherlands,Utrecht,2021-01-25,19986,30
+Netherlands,Utrecht,2021-01-26,20031,45
+Netherlands,Utrecht,2021-01-27,20097,66
+Netherlands,Utrecht,2021-01-28,20155,58
+Netherlands,Utrecht,2021-01-29,20218,63
+Netherlands,Utrecht,2021-01-30,20268,50
+Netherlands,Utrecht,2021-01-31,20315,47
+Netherlands,Utrecht,2021-02-01,20356,41
+Netherlands,Utrecht,2021-02-02,20397,41
+Netherlands,Utrecht,2021-02-03,20452,55
+Netherlands,Utrecht,2021-02-04,20494,42
+Netherlands,Utrecht,2021-02-05,20554,60
+Netherlands,Utrecht,2021-02-06,20607,53
+Netherlands,Utrecht,2021-02-07,20667,60
+Netherlands,Utrecht,2021-02-08,20705,38
+Netherlands,Utrecht,2021-02-09,20720,15
+Netherlands,Utrecht,2021-02-10,20772,52
+Netherlands,Utrecht,2021-02-11,20833,61
+Netherlands,Utrecht,2021-02-12,20898,65
+Netherlands,Utrecht,2021-02-13,20939,41
+Netherlands,Utrecht,2021-02-14,20978,39
+Netherlands,Utrecht,2021-02-15,21028,50
+Netherlands,Utrecht,2021-02-16,21067,39
+Netherlands,Utrecht,2021-02-17,21106,39
+Netherlands,Utrecht,2021-02-18,21161,55
+Netherlands,Utrecht,2021-02-19,21210,49
+Netherlands,Utrecht,2021-02-20,21269,59
+Netherlands,Utrecht,2021-02-21,21336,67
+Netherlands,Utrecht,2021-02-22,21377,41
+Netherlands,Utrecht,2021-02-23,21427,50
+Netherlands,Utrecht,2021-02-24,21474,47
+Netherlands,Utrecht,2021-02-25,21526,52
+Netherlands,Utrecht,2021-02-26,21605,79
+Netherlands,Utrecht,2021-02-27,21659,54
+Netherlands,Utrecht,2021-02-28,21715,56
+Netherlands,Utrecht,2021-03-01,21763,48
+Netherlands,Utrecht,2021-03-02,21816,53
+Netherlands,Utrecht,2021-03-03,21882,66
+Netherlands,Utrecht,2021-03-04,21954,72
+Netherlands,Utrecht,2021-03-05,22027,73
+Netherlands,Utrecht,2021-03-06,22092,65
+Netherlands,Utrecht,2021-03-07,22163,71
+Netherlands,Utrecht,2021-03-08,22228,65
+Netherlands,Utrecht,2021-03-09,22295,67
+Netherlands,Utrecht,2021-03-10,22405,110
+Netherlands,Utrecht,2021-03-11,22484,79
+Netherlands,Utrecht,2021-03-12,22599,115
+Netherlands,Utrecht,2021-03-13,22697,98
+Netherlands,Utrecht,2021-03-14,22784,87
+Netherlands,Utrecht,2021-03-15,22857,73
+Netherlands,Utrecht,2021-03-16,22941,84
+Netherlands,Utrecht,2021-03-17,23041,100
+Netherlands,Utrecht,2021-03-18,23164,123
+Netherlands,Utrecht,2021-03-19,23274,110
+Netherlands,Utrecht,2021-03-20,23388,114
+Netherlands,Utrecht,2021-03-21,23536,148
+Netherlands,Utrecht,2021-03-22,23648,112
+Netherlands,Utrecht,2021-03-23,23745,97
+Netherlands,Utrecht,2021-03-24,23878,133
+Netherlands,Utrecht,2021-03-25,23988,110
+Netherlands,Utrecht,2021-03-26,24160,172
+Netherlands,Utrecht,2021-03-27,24330,170
+Netherlands,Utrecht,2021-03-28,24447,117
+Netherlands,Utrecht,2021-03-29,24571,124
+Netherlands,Utrecht,2021-03-30,24680,109
+Netherlands,Utrecht,2021-03-31,24834,154
+Netherlands,Utrecht,2021-04-01,24949,115
+Netherlands,Utrecht,2021-04-02,25098,149
+Netherlands,Utrecht,2021-04-03,25217,119
+Netherlands,Utrecht,2021-04-04,25333,116
+Netherlands,Utrecht,2021-04-05,25414,81
+Netherlands,Utrecht,2021-04-06,25588,174
+Netherlands,Utrecht,2021-04-07,25714,126
+Netherlands,Utrecht,2021-04-08,25887,173
+Netherlands,Utrecht,2021-04-09,26013,126
+Netherlands,Utrecht,2021-04-10,26168,155
+Netherlands,Utrecht,2021-04-11,26285,117
+Netherlands,Utrecht,2021-04-12,26400,115
+Netherlands,Utrecht,2021-04-13,26503,103
+Netherlands,Utrecht,2021-04-14,26599,96
+Netherlands,Utrecht,2021-04-15,26817,218
+Netherlands,Utrecht,2021-04-16,27037,220
+Netherlands,Utrecht,2021-04-17,27221,184
+Netherlands,Utrecht,2021-04-18,27397,176
+Netherlands,Utrecht,2021-04-19,27564,167
+Netherlands,Utrecht,2021-04-20,27744,180
+Netherlands,Utrecht,2021-04-21,27897,153
+Netherlands,Utrecht,2021-04-22,28100,203
+Netherlands,Utrecht,2021-04-23,28335,235
+Netherlands,Utrecht,2021-04-24,28494,159
+Netherlands,Utrecht,2021-04-25,28636,142
+Netherlands,Utrecht,2021-04-26,28744,108
+Netherlands,Utrecht,2021-04-27,28860,116
+Netherlands,Utrecht,2021-04-28,28978,118
+Netherlands,Utrecht,2021-04-29,29101,123
+Netherlands,Utrecht,2021-04-30,29266,165
+Netherlands,Utrecht,2021-05-01,29419,153
+Netherlands,Utrecht,2021-05-02,29511,92
+Netherlands,Utrecht,2021-05-03,29666,155
+Netherlands,Utrecht,2021-05-04,29805,139
+Netherlands,Utrecht,2021-05-05,29967,162
+Netherlands,Utrecht,2021-05-06,30130,163
+Netherlands,Utrecht,2021-05-07,30263,133
+Netherlands,Utrecht,2021-05-08,30413,150
+Netherlands,Utrecht,2021-05-09,30525,112
+Netherlands,Utrecht,2021-05-10,30633,108
+Netherlands,Utrecht,2021-05-11,30733,100
+Netherlands,Utrecht,2021-05-12,30864,131
+Netherlands,Utrecht,2021-05-13,31019,155
+Netherlands,Utrecht,2021-05-14,31129,110
+Netherlands,Utrecht,2021-05-15,31218,89
+Netherlands,Utrecht,2021-05-16,31300,82
+Netherlands,Utrecht,2021-05-17,31348,48
+Netherlands,Utrecht,2021-05-18,31464,116
+Netherlands,Utrecht,2021-05-19,31572,108
+Netherlands,Utrecht,2021-05-20,31653,81
+Netherlands,Utrecht,2021-05-21,31716,63
+Netherlands,Utrecht,2021-05-22,31786,70
+Netherlands,Utrecht,2021-05-23,31856,70
+Netherlands,Utrecht,2021-05-24,31885,29
+Netherlands,Utrecht,2021-05-25,31942,57
+Netherlands,Utrecht,2021-05-26,31990,48
+Netherlands,Utrecht,2021-05-27,32079,89
+Netherlands,Utrecht,2021-05-28,32146,67
+Netherlands,Utrecht,2021-05-29,32232,86
+Netherlands,Utrecht,2021-05-30,32269,37
+Netherlands,Utrecht,2021-05-31,32301,32
+Netherlands,Utrecht,2021-06-01,32344,43
+Netherlands,Utrecht,2021-06-02,32378,34
+Netherlands,Utrecht,2021-06-03,32437,59
+Netherlands,Utrecht,2021-06-04,32473,36
+Netherlands,Utrecht,2021-06-05,32512,39
+Netherlands,Utrecht,2021-06-06,32546,34
+Netherlands,Utrecht,2021-06-07,32565,19
+Netherlands,Utrecht,2021-06-08,32601,36
+Netherlands,Utrecht,2021-06-09,32635,34
+Netherlands,Utrecht,2021-06-10,32656,21
+Netherlands,Utrecht,2021-06-11,32707,51
+Netherlands,Utrecht,2021-06-12,32736,29
+Netherlands,Utrecht,2021-06-13,32754,18
+Netherlands,Utrecht,2021-06-14,32771,17
+Netherlands,Utrecht,2021-06-15,32807,36
+Netherlands,Utrecht,2021-06-16,32839,32
+Netherlands,Utrecht,2021-06-17,32871,32
+Netherlands,Utrecht,2021-06-18,32895,24
+Netherlands,Utrecht,2021-06-19,32916,21
+Netherlands,Utrecht,2021-06-20,32932,16
+Netherlands,Utrecht,2021-06-21,32950,18
+Netherlands,Utrecht,2021-06-22,32963,13
+Netherlands,Utrecht,2021-06-23,32995,32
+Netherlands,Utrecht,2021-06-24,33015,20
+Netherlands,Utrecht,2021-06-25,33025,10
+Netherlands,Utrecht,2021-06-26,33041,16
+Netherlands,Utrecht,2021-06-27,33053,12
+Netherlands,Utrecht,2021-06-28,33064,11
+Netherlands,Utrecht,2021-06-29,33082,18
+Netherlands,Utrecht,2021-06-30,33097,15
+Netherlands,Utrecht,2021-07-01,33118,21
+Netherlands,Utrecht,2021-07-02,33139,21
+Netherlands,Utrecht,2021-07-03,33168,29
+Netherlands,Utrecht,2021-07-04,33205,37
+Netherlands,Utrecht,2021-07-05,33284,79
+Netherlands,Utrecht,2021-07-06,33372,88
+Netherlands,Utrecht,2021-07-07,33599,227
+Netherlands,Utrecht,2021-07-08,33983,384
+Netherlands,Utrecht,2021-07-09,34624,641
+Netherlands,Utrecht,2021-07-10,35420,796
+Netherlands,Utrecht,2021-07-11,35899,479
+Netherlands,Utrecht,2021-07-12,36307,408
+Netherlands,Utrecht,2021-07-13,36628,321
+Netherlands,Utrecht,2021-07-14,37142,514
+Netherlands,Utrecht,2021-07-15,37522,380
+Netherlands,Utrecht,2021-07-16,37824,302
+Netherlands,Utrecht,2021-07-17,38172,348
+Netherlands,Utrecht,2021-07-18,38387,215
+Netherlands,Utrecht,2021-07-19,38548,161
+Netherlands,Utrecht,2021-07-20,38685,137
+Netherlands,Utrecht,2021-07-21,38832,147
+Netherlands,Utrecht,2021-07-22,38972,140
+Netherlands,Utrecht,2021-07-23,39088,116
+Netherlands,Utrecht,2021-07-24,39195,107
+Netherlands,Utrecht,2021-07-25,39275,80
+Netherlands,Utrecht,2021-07-26,39329,54
+Netherlands,Utrecht,2021-07-27,39420,91
+Netherlands,Utrecht,2021-07-28,39503,83
+Netherlands,Utrecht,2021-07-29,39603,100
+Netherlands,Utrecht,2021-07-30,39658,55
+Netherlands,Utrecht,2021-07-31,39698,40
+Netherlands,Utrecht,2021-08-01,39725,27
+Netherlands,Utrecht,2021-08-02,39769,44
+Netherlands,Utrecht,2021-08-03,39805,36
+Netherlands,Utrecht,2021-08-04,39845,40
+Netherlands,Utrecht,2021-08-05,39906,61
+Netherlands,Utrecht,2021-08-06,39959,53
+Netherlands,Utrecht,2021-08-07,39999,40
+Netherlands,Utrecht,2021-08-08,40060,61
+Netherlands,Utrecht,2021-08-09,40099,39
+Netherlands,Utrecht,2021-08-10,40158,59
+Netherlands,Utrecht,2021-08-11,40194,36
+Netherlands,Utrecht,2021-08-12,40239,45
+Netherlands,Utrecht,2021-08-13,40320,81
+Netherlands,Utrecht,2021-08-14,40363,43
+Netherlands,Utrecht,2021-08-15,40419,56
+Netherlands,Utrecht,2021-08-16,40466,47
+Netherlands,Utrecht,2021-08-17,40514,48
+Netherlands,Utrecht,2021-08-18,40563,49
+Netherlands,Utrecht,2021-08-19,40604,41
+Netherlands,Utrecht,2021-08-20,40665,61
+Netherlands,Utrecht,2021-08-21,40714,49
+Netherlands,Utrecht,2021-08-22,40759,45
+Netherlands,Utrecht,2021-08-23,40805,46
+Netherlands,Utrecht,2021-08-24,40860,55
+Netherlands,Utrecht,2021-08-25,40950,90
+Netherlands,Utrecht,2021-08-26,40994,44
+Netherlands,Utrecht,2021-08-27,41052,58
+Netherlands,Utrecht,2021-08-28,41106,54
+Netherlands,Utrecht,2021-08-29,41167,61
+Netherlands,Utrecht,2021-08-30,41226,59
+Netherlands,Utrecht,2021-08-31,41283,57
+Netherlands,Utrecht,2021-09-01,41355,72
+Netherlands,Utrecht,2021-09-02,41434,79
+Netherlands,Utrecht,2021-09-03,41474,40
+Netherlands,Utrecht,2021-09-04,41548,74
+Netherlands,Utrecht,2021-09-05,41616,68
+Netherlands,Utrecht,2021-09-06,41670,54
+Netherlands,Utrecht,2021-09-07,41763,93
+Netherlands,Utrecht,2021-09-08,41828,65
+Netherlands,Utrecht,2021-09-09,41900,72
+Netherlands,Utrecht,2021-09-10,41963,63
+Netherlands,Utrecht,2021-09-11,42034,71
+Netherlands,Utrecht,2021-09-12,42096,62
+Netherlands,Utrecht,2021-09-13,42143,47
+Netherlands,Utrecht,2021-09-14,42218,75
+Netherlands,Utrecht,2021-09-15,42287,69
+Netherlands,Utrecht,2021-09-16,42348,61
+Netherlands,Utrecht,2021-09-17,42416,68
+Netherlands,Utrecht,2021-09-18,42472,56
+Netherlands,Utrecht,2021-09-19,42498,26
+Netherlands,Utrecht,2021-09-20,42552,54
+Netherlands,Utrecht,2021-09-21,42590,38
+Netherlands,Utrecht,2021-09-22,42655,65
+Netherlands,Utrecht,2021-09-23,42720,65
+Netherlands,Utrecht,2021-09-24,42789,69
+Netherlands,Utrecht,2021-09-25,42823,34
+Netherlands,Utrecht,2021-09-26,42864,41
+Netherlands,Utrecht,2021-09-27,42901,37
+Netherlands,Utrecht,2021-09-28,42952,51
+Netherlands,Utrecht,2021-09-29,42983,31
+Netherlands,Utrecht,2021-09-30,43023,40
+Netherlands,Utrecht,2021-10-01,43048,25
+Netherlands,Utrecht,2021-10-02,43080,32
+Netherlands,Utrecht,2021-10-03,43100,20
+Netherlands,Utrecht,2021-10-04,43137,37
+Netherlands,Utrecht,2021-10-05,43174,37
+Netherlands,Utrecht,2021-10-06,43213,39
+Netherlands,Utrecht,2021-10-07,43269,56
+Netherlands,Utrecht,2021-10-08,43311,42
+Netherlands,Utrecht,2021-10-09,43335,24
+Netherlands,Utrecht,2021-10-10,43383,48
+Netherlands,Utrecht,2021-10-11,43426,43
+Netherlands,Utrecht,2021-10-12,43471,45
+Netherlands,Utrecht,2021-10-13,43526,55
+Netherlands,Utrecht,2021-10-14,43604,78
+Netherlands,Utrecht,2021-10-15,43676,72
+Netherlands,Utrecht,2021-10-16,43730,54
+Netherlands,Utrecht,2021-10-17,43788,58
+Netherlands,Utrecht,2021-10-18,43829,41
+Netherlands,Utrecht,2021-10-19,43904,75
+Netherlands,Utrecht,2021-10-20,43974,70
+Netherlands,Utrecht,2021-10-21,44039,65
+Netherlands,Utrecht,2021-10-22,44144,105
+Netherlands,Utrecht,2021-10-23,44236,92
+Netherlands,Utrecht,2021-10-24,44301,65
+Netherlands,Utrecht,2021-10-25,44383,82
+Netherlands,Utrecht,2021-10-26,44522,139
+Netherlands,Utrecht,2021-10-27,44620,98
+Netherlands,Utrecht,2021-10-28,44732,112
+Netherlands,Utrecht,2021-10-29,44836,104
+Netherlands,Utrecht,2021-10-30,45017,181
+Netherlands,Utrecht,2021-10-31,45096,79
+Netherlands,Utrecht,2021-11-01,45186,90
+Netherlands,Utrecht,2021-11-02,45298,112
+Netherlands,Utrecht,2021-11-03,45444,146
+Netherlands,Utrecht,2021-11-04,45596,152
+Netherlands,Utrecht,2021-11-05,45751,155
+Netherlands,Utrecht,2021-11-06,45914,163
+Netherlands,Utrecht,2021-11-07,46131,217
+Netherlands,Utrecht,2021-11-08,46276,145
+Netherlands,Utrecht,2021-11-09,46438,162
+Netherlands,Utrecht,2021-11-10,46716,278
+Netherlands,Utrecht,2021-11-11,46982,266
+Netherlands,Utrecht,2021-11-12,47227,245
+Netherlands,Utrecht,2021-11-13,47572,345
+Netherlands,Utrecht,2021-11-14,47837,265
+Netherlands,Utrecht,2021-11-15,48141,304
+Netherlands,Utrecht,2021-11-16,48510,369
+Netherlands,Utrecht,2021-11-17,48812,302
+Netherlands,Utrecht,2021-11-18,49260,448
+Netherlands,Utrecht,2021-11-19,49589,329
+Netherlands,Utrecht,2021-11-20,49912,323
+Netherlands,Utrecht,2021-11-21,50344,432
+Netherlands,Utrecht,2021-11-22,50790,446
+Netherlands,Utrecht,2021-11-23,51204,414
+Netherlands,Utrecht,2021-11-24,51717,513
+Netherlands,Utrecht,2021-11-25,52057,340
+Netherlands,Utrecht,2021-11-26,52412,355
+Netherlands,Utrecht,2021-11-27,52831,419
+Netherlands,Utrecht,2021-11-28,53224,393
+Netherlands,Utrecht,2021-11-29,53532,308
+Netherlands,Utrecht,2021-11-30,54027,495
+Netherlands,Utrecht,2021-12-01,54255,228
+Netherlands,Utrecht,2021-12-02,54588,333
+Netherlands,Utrecht,2021-12-03,55013,425
+Netherlands,Utrecht,2021-12-04,55563,550
+Netherlands,Utrecht,2021-12-05,56099,536
+Netherlands,Utrecht,2021-12-06,56478,379
+Netherlands,Utrecht,2021-12-07,56798,320
+Netherlands,Utrecht,2021-12-08,57092,294
+Netherlands,Utrecht,2021-12-09,57379,287
+Netherlands,Utrecht,2021-12-10,57839,460
+Netherlands,Utrecht,2021-12-11,58238,399
+Netherlands,Utrecht,2021-12-12,58545,307
+Netherlands,Utrecht,2021-12-13,58884,339
+Netherlands,Utrecht,2021-12-14,59118,234
+Netherlands,Utrecht,2021-12-15,59435,317
+Netherlands,Utrecht,2021-12-16,59735,300
+Netherlands,Utrecht,2021-12-17,60102,367
+Netherlands,Utrecht,2021-12-18,60390,288
+Netherlands,Utrecht,2021-12-19,60724,334
+Netherlands,Utrecht,2021-12-20,60953,229
+Netherlands,Utrecht,2021-12-21,61100,147
+Netherlands,Utrecht,2021-12-22,61445,345
+Netherlands,Utrecht,2021-12-23,61719,274
+Netherlands,Utrecht,2021-12-24,62032,313
+Netherlands,Utrecht,2021-12-25,62385,353
+Netherlands,Utrecht,2021-12-26,62629,244
+Netherlands,Utrecht,2021-12-27,62975,346
+Netherlands,Utrecht,2021-12-28,63305,330
+Netherlands,Utrecht,2021-12-29,63632,327
+Netherlands,Utrecht,2021-12-30,63870,238
+Netherlands,Utrecht,2021-12-31,64326,456
+Netherlands,Utrecht,2022-01-01,64745,419
+Netherlands,Utrecht,2022-01-02,65141,396
+Netherlands,Utrecht,2022-01-03,65491,350
+Netherlands,Utrecht,2022-01-04,66033,542
+Netherlands,Utrecht,2022-01-05,66915,882
+Netherlands,Utrecht,2022-01-06,67753,838
+Netherlands,Utrecht,2022-01-07,68718,965
+Netherlands,Utrecht,2022-01-08,69558,840
+Netherlands,Utrecht,2022-01-09,70487,929
+Netherlands,Utrecht,2022-01-10,71275,788
+Netherlands,Utrecht,2022-01-11,72270,995
+Netherlands,Utrecht,2022-01-12,73171,901
+Netherlands,Utrecht,2022-01-13,74135,964
+Netherlands,Utrecht,2022-01-14,75213,1078
+Netherlands,Utrecht,2022-01-15,75791,578
+Netherlands,Utrecht,2022-01-16,77009,1218
+Netherlands,Utrecht,2022-01-17,78511,1502
+Netherlands,Utrecht,2022-01-18,79481,970
+Netherlands,Utrecht,2022-01-19,80238,757
+Netherlands,Utrecht,2022-01-20,81673,1435
+Netherlands,Utrecht,2022-01-21,83582,1909
+Netherlands,Utrecht,2022-01-22,84208,626
+Netherlands,Utrecht,2022-01-23,85193,985
+Netherlands,Utrecht,2022-01-24,87495,2302
+Netherlands,Utrecht,2022-01-25,88000,505
+Netherlands,Utrecht,2022-01-26,89381,1381
+Netherlands,Utrecht,2022-01-27,90385,1004
+Netherlands,Utrecht,2022-01-28,92105,1720
+Netherlands,Utrecht,2022-01-29,93057,952
+Netherlands,Utrecht,2022-01-30,97354,4297
+Netherlands,Utrecht,2022-01-31,99899,2545
+Netherlands,Utrecht,2022-02-01,102608,2709
+Netherlands,Utrecht,2022-02-02,103665,1057
+Netherlands,Utrecht,2022-02-03,105071,1406
+Netherlands,Utrecht,2022-02-04,107734,2663
+Netherlands,Utrecht,2022-02-05,108072,338
+Netherlands,Utrecht,2022-02-06,110830,2758
+Netherlands,Utrecht,2022-02-07,112637,1807
+Netherlands,Utrecht,2022-02-08,118558,5921
+Netherlands,Utrecht,2022-02-09,120897,2339
+Netherlands,Utrecht,2022-02-10,123136,2239
+Netherlands,Utrecht,2022-02-11,125025,1889
+Netherlands,Utrecht,2022-02-12,126834,1809
+Netherlands,Utrecht,2022-02-13,128318,1484
+Netherlands,Utrecht,2022-02-14,129663,1345
+Netherlands,Utrecht,2022-02-15,131385,1722
+Netherlands,Utrecht,2022-02-16,133077,1692
+Netherlands,Utrecht,2022-02-17,134602,1525
+Netherlands,Utrecht,2022-02-18,135860,1258
+Netherlands,Utrecht,2022-02-19,136896,1036
+Netherlands,Utrecht,2022-02-20,137608,712
+Netherlands,Utrecht,2022-02-21,138917,1309
+Netherlands,Utrecht,2022-02-22,139455,538
+Netherlands,Utrecht,2022-02-23,140822,1367
+Netherlands,Utrecht,2022-02-24,141917,1095
+Netherlands,Utrecht,2022-02-25,142746,829
+Netherlands,Utrecht,2022-02-26,143914,1168
+Netherlands,Utrecht,2022-02-27,144853,939
+Netherlands,Utrecht,2022-02-28,145583,730
+Netherlands,Utrecht,2022-03-01,146568,985
+Netherlands,Utrecht,2022-03-02,148008,1440
+Netherlands,Utrecht,2022-03-03,149446,1438
+Netherlands,Utrecht,2022-03-04,151544,2098
+Netherlands,Utrecht,2022-03-05,152710,1166
+Netherlands,Utrecht,2022-03-06,154146,1436
+Netherlands,Utrecht,2022-03-07,155294,1148
+Netherlands,Utrecht,2022-03-08,157043,1749
+Netherlands,Utrecht,2022-03-09,158661,1618
+Netherlands,Utrecht,2022-03-10,160492,1831
+Netherlands,Utrecht,2022-03-11,161791,1299
+Netherlands,Utrecht,2022-03-12,163185,1394
+Netherlands,Utrecht,2022-03-13,164186,1001
+Netherlands,Utrecht,2022-03-14,165321,1135
+Netherlands,Utrecht,2022-03-15,166526,1205
+Netherlands,Utrecht,2022-03-16,167999,1473
+Netherlands,Utrecht,2022-03-17,169273,1274
+Netherlands,Utrecht,2022-03-18,170267,994
+Netherlands,Utrecht,2022-03-19,171148,881
+Netherlands,Utrecht,2022-03-20,172053,905
+Netherlands,Utrecht,2022-03-21,172810,757
+Netherlands,Utrecht,2022-03-22,173614,804
+Netherlands,Utrecht,2022-03-23,174597,983
+Netherlands,Utrecht,2022-03-24,175523,926
+Netherlands,Utrecht,2022-03-25,176281,758
+Netherlands,Utrecht,2022-03-26,177049,768
+Netherlands,Utrecht,2022-03-27,177510,461
+Netherlands,Utrecht,2022-03-28,177981,471
+Netherlands,Utrecht,2022-03-29,178651,670
+Netherlands,Utrecht,2022-03-30,179309,658
+Netherlands,Utrecht,2022-03-31,179916,607
+Netherlands,Utrecht,2022-04-01,180432,516
+Netherlands,Utrecht,2022-04-02,180854,422
+Netherlands,Utrecht,2022-04-03,181162,308
+Netherlands,Utrecht,2022-04-04,181456,294
+Netherlands,Utrecht,2022-04-05,181798,342
+Netherlands,Utrecht,2022-04-06,182144,346
+Netherlands,Utrecht,2022-04-07,182465,321
+Netherlands,Utrecht,2022-04-08,182711,246
+Netherlands,Utrecht,2022-04-09,182973,262
+Netherlands,Utrecht,2022-04-10,183122,149
+Netherlands,Utrecht,2022-04-11,183283,161
+Netherlands,Utrecht,2022-04-12,183483,200
+Netherlands,Utrecht,2022-04-13,183636,153
+Netherlands,Utrecht,2022-04-14,183785,149
+Netherlands,Utrecht,2022-04-15,183907,122
+Netherlands,Utrecht,2022-04-16,184049,142
+Netherlands,Utrecht,2022-04-17,184136,87
+Netherlands,Utrecht,2022-04-18,184198,62
+Netherlands,Utrecht,2022-04-19,184275,77
+Netherlands,Utrecht,2022-04-20,184370,95
+Netherlands,Utrecht,2022-04-21,184445,75
+Netherlands,Utrecht,2022-04-22,184522,77
+Netherlands,Utrecht,2022-04-23,184583,61
+Netherlands,Utrecht,2022-04-24,184615,32
+Netherlands,Utrecht,2022-04-25,184642,27
+Netherlands,Utrecht,2022-04-26,184687,45
+Netherlands,Utrecht,2022-04-27,184753,66
+Netherlands,Utrecht,2022-04-28,184778,25
+Netherlands,Utrecht,2022-04-29,184830,52
+Netherlands,Utrecht,2022-04-30,184864,34
+Netherlands,Utrecht,2022-05-01,184906,42
+Netherlands,Utrecht,2022-05-02,184953,47
+Netherlands,Utrecht,2022-05-03,185020,67
+Netherlands,Utrecht,2022-05-04,185092,72
+Netherlands,Utrecht,2022-05-05,185145,53
+Netherlands,Utrecht,2022-05-06,185183,38
+Netherlands,Utrecht,2022-05-07,185232,49
+Netherlands,Utrecht,2022-05-08,185257,25
+Netherlands,Utrecht,2022-05-09,185285,28
+Netherlands,Utrecht,2022-05-10,185339,54
+Netherlands,Utrecht,2022-05-11,185376,37
+Netherlands,Utrecht,2022-05-12,185416,40
+Netherlands,Utrecht,2022-05-13,185457,41
+Netherlands,Utrecht,2022-05-14,185528,71
+Netherlands,Utrecht,2022-05-15,185550,22
+Netherlands,Utrecht,2022-05-16,185581,31
+Netherlands,Utrecht,2022-05-17,185607,26
+Netherlands,Utrecht,2022-05-18,185639,32
+Netherlands,Utrecht,2022-05-19,185682,43
+Netherlands,Utrecht,2022-05-20,185719,37
+Netherlands,Utrecht,2022-05-21,185760,41
+Netherlands,Utrecht,2022-05-22,185779,19
+Netherlands,Utrecht,2022-05-23,185803,24
+Netherlands,Utrecht,2022-05-24,185836,33
+Netherlands,Utrecht,2022-05-25,185872,36
+Netherlands,Utrecht,2022-05-26,185902,30
+Netherlands,Utrecht,2022-05-27,185934,32
+Netherlands,Utrecht,2022-05-28,185964,30
+Netherlands,Utrecht,2022-05-29,185981,17
+Netherlands,Utrecht,2022-05-30,186030,49
+Netherlands,Utrecht,2022-05-31,186075,45
+Netherlands,Utrecht,2022-06-01,186105,30
+Netherlands,Utrecht,2022-06-02,186173,68
+Netherlands,Utrecht,2022-06-03,186215,42
+Netherlands,Utrecht,2022-06-04,186253,38
+Netherlands,Utrecht,2022-06-05,186301,48
+Netherlands,Utrecht,2022-06-06,186338,37
+Netherlands,Utrecht,2022-06-07,186382,44
+Netherlands,Utrecht,2022-06-08,186450,68
+Netherlands,Utrecht,2022-06-09,186515,65
+Netherlands,Utrecht,2022-06-10,186588,73
+Netherlands,Utrecht,2022-06-11,186677,89
+Netherlands,Utrecht,2022-06-12,186733,56
+Netherlands,Utrecht,2022-06-13,186799,66
+Netherlands,Utrecht,2022-06-14,186910,111
+Netherlands,Utrecht,2022-06-15,187007,97
+Netherlands,Utrecht,2022-06-16,187127,120
+Netherlands,Utrecht,2022-06-17,187256,129
+Netherlands,Utrecht,2022-06-18,187381,125
+Netherlands,Utrecht,2022-06-19,187465,84
+Netherlands,Utrecht,2022-06-20,187548,83
+Netherlands,Utrecht,2022-06-21,187680,132
+Netherlands,Utrecht,2022-06-22,187817,137
+Netherlands,Utrecht,2022-06-23,187968,151
+Netherlands,Utrecht,2022-06-24,188128,160
+Netherlands,Utrecht,2022-06-25,188246,118
+Netherlands,Utrecht,2022-06-26,188379,133
+Netherlands,Utrecht,2022-06-27,188498,119
+Netherlands,Utrecht,2022-06-28,188654,156
+Netherlands,Utrecht,2022-06-29,188814,160
+Netherlands,Utrecht,2022-06-30,189013,199
+Netherlands,Utrecht,2022-07-01,189128,115
+Netherlands,Utrecht,2022-07-02,189243,115
+Netherlands,Utrecht,2022-07-03,189336,93
+Netherlands,Utrecht,2022-07-04,189443,107
+Netherlands,Utrecht,2022-07-05,189610,167
+Netherlands,Utrecht,2022-07-06,189757,147
+Netherlands,Utrecht,2022-07-07,189956,199
+Netherlands,Utrecht,2022-07-08,190105,149
+Netherlands,Utrecht,2022-07-09,190271,166
+Netherlands,Utrecht,2022-07-10,190401,130
+Netherlands,Utrecht,2022-07-11,190510,109
+Netherlands,Utrecht,2022-07-12,190667,157
+Netherlands,Utrecht,2022-07-13,190812,145
+Netherlands,Utrecht,2022-07-14,190982,170
+Netherlands,Utrecht,2022-07-15,191102,120
+Netherlands,Utrecht,2022-07-16,191226,124
+Netherlands,Utrecht,2022-07-17,191323,97
+Netherlands,Utrecht,2022-07-18,191393,70
+Netherlands,Utrecht,2022-07-19,191500,107
+Netherlands,Utrecht,2022-07-20,191596,96
+Netherlands,Utrecht,2022-07-21,191695,99
+Netherlands,Utrecht,2022-07-22,191776,81
+Netherlands,Utrecht,2022-07-23,191841,65
+Netherlands,Utrecht,2022-07-24,191897,56
+Netherlands,Utrecht,2022-07-25,191955,58
+Netherlands,Utrecht,2022-07-26,192045,90
+Netherlands,Utrecht,2022-07-27,192143,98
+Netherlands,Utrecht,2022-07-28,192188,45
+Netherlands,Utrecht,2022-07-29,192254,66
+Netherlands,Utrecht,2022-07-30,192320,66
+Netherlands,Utrecht,2022-07-31,192374,54
+Netherlands,Utrecht,2022-08-01,192415,41
+Netherlands,Utrecht,2022-08-02,192467,52
+Netherlands,Utrecht,2022-08-03,192519,52
+Netherlands,Utrecht,2022-08-04,192564,45
+Netherlands,Utrecht,2022-08-05,192618,54
+Netherlands,Utrecht,2022-08-06,192663,45
+Netherlands,Utrecht,2022-08-07,192701,38
+Netherlands,Utrecht,2022-08-08,192718,17
+Netherlands,Utrecht,2022-08-09,192752,34
+Netherlands,Utrecht,2022-08-10,192812,60
+Netherlands,Utrecht,2022-08-11,192859,47
+Netherlands,Utrecht,2022-08-12,192914,55
+Netherlands,Utrecht,2022-08-13,192952,38
+Netherlands,Utrecht,2022-08-14,192992,40
+Netherlands,Utrecht,2022-08-15,193023,31
+Netherlands,Utrecht,2022-08-16,193053,30
+Netherlands,Utrecht,2022-08-17,193093,40
+Netherlands,Utrecht,2022-08-18,193098,5
+Netherlands,Utrecht,2022-08-19,193146,48
+Netherlands,Utrecht,2022-08-20,193187,41
+Netherlands,Utrecht,2022-08-21,193205,18
+Netherlands,Utrecht,2022-08-22,193237,32
+Netherlands,Utrecht,2022-08-23,193269,32
+Netherlands,Utrecht,2022-08-24,193293,24
+Netherlands,Utrecht,2022-08-25,193323,30
+Netherlands,Utrecht,2022-08-26,193359,36
+Netherlands,Utrecht,2022-08-27,193382,23
+Netherlands,Utrecht,2022-08-28,193404,22
+Netherlands,Utrecht,2022-08-29,193424,20
+Netherlands,Utrecht,2022-08-30,193468,44
+Netherlands,Utrecht,2022-08-31,193489,21
+Netherlands,Utrecht,2022-09-01,193510,21
+Netherlands,Utrecht,2022-09-02,193528,18
+Netherlands,Utrecht,2022-09-03,193551,23
+Netherlands,Utrecht,2022-09-04,193569,18
+Netherlands,Utrecht,2022-09-05,193587,18
+Netherlands,Utrecht,2022-09-06,193611,24
+Netherlands,Utrecht,2022-09-07,193634,23
+Netherlands,Utrecht,2022-09-08,193654,20
+Netherlands,Utrecht,2022-09-09,193670,16
